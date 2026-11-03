@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:44:22.227585+00:00",
+  "updatedAt": "2026-11-03T06:54:10.497110+00:00",
   "categories": [
     "World News",
     "Bangladesh",
@@ -22,13 +22,113 @@
     "Politics",
     "Cybersecurity"
   ],
-  "total": 1370,
+  "total": 1393,
   "languageTotals": {
-    "en": 1370,
+    "en": 1393,
     "bn": 493
   },
   "articlesByLanguage": {
     "en": [
+      {
+        "id": "e2cffcf4ffc569afa0df",
+        "title": "English Newspaper | Most Popular English News in BD | Prothom Alo - Prothom Alo English",
+        "summary": "English Newspaper | Most Popular English News in BD | Prothom Alo Prothom Alo English",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE8tMTZQYTJpWGJnS2k5Y1RIb1pjMGZsRm8yQW9Tb3dNWksxZFRZeTBla3JOMHRfSksxMzZ6dVY4VQ?oc=5",
+        "publisher": "Prothom Alo English",
+        "category": "Bangladesh",
+        "published": "2026-11-03T05:17:39+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "afce8316202cb3a81f47",
+        "title": "Global markets were already fragile. Big AI bets could break them - Reuters",
+        "summary": "Global markets were already fragile. Big AI bets could break them Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
+        "publisher": "Reuters",
+        "category": "Markets & Finance",
+        "published": "2026-11-03T05:08:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "2f29b5780c368c4f4402",
+        "title": "Video Game News, Reviews, and Walkthroughs - IGN - IGN",
+        "summary": "Video Game News, Reviews, and Walkthroughs - IGN IGN",
+        "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE5sZEllMHEyZ1lNeVJrTnNYRVEzbWljNFhteGphOGVOeDI3V1UwMmtmSGlBelRhTUk?oc=5",
+        "publisher": "IGN",
+        "category": "Gaming",
+        "published": "2026-11-03T05:01:04+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "f4d73aff7497ec11ccdb",
+        "title": "India-Sri Lanka ODI likely to be moved out of Delhi - Cricbuzz",
+        "summary": "India-Sri Lanka ODI likely to be moved out of Delhi Cricbuzz",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkJZWWZXQUk2US1haEFURlJUN3hsWFVUZzNZcUwzcmQxM2FxUmZpT1VkREhTM3dlMVBNQmdOZ2xWN0lxTm16bGxlU1lrakFfMXFlN3VERlVKdHhsWWhlWmlDQkdyVFBNZDA4NjZPMldzUU9MNGx4VWNGWGx1RWNHcUpobnl3bUR1WTVqU3UxVlBMZloxV0NSWmJadHpyQ1RMRkVZaFR3NF8tSjRX?oc=5",
+        "publisher": "Cricbuzz",
+        "category": "Cricket",
+        "published": "2026-11-03T04:31:36+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "d1e6af447bfb1c9d0446",
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test - MIT Technology Review",
+        "summary": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test MIT Technology Review",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1UZ01BOU02cG9SdWlTQUdhclhDLWNNaUxRcUE4c2ZSY3pNSWl1bXVMTUh0MnVWVEhKbjhzV0tXanNyX0M1dEhyV0daZVRDQ3FyR2RTVVA2V0dzWG1uSFBVcnVEeUF2Q01JdDhDbnBqQ3BGNVlsNndtZnhIYkN6UktRb2xvXzMyejVYOTVXS3g0RGFFUVhpcU9SVFQydTdiRnU2Z0ZnNzlyc0FfaHN4MkhobmhPTG9IbURVWTlZWXJLZ9IBxwFBVV95cUxQcnlFVDZtem1mWS1pd05SUjhpeGdhMmtEUU1mQTN5Tk55bmNJTTZveWYwZDF2dk5YRUlTTjBGYXZBc1FkYzlRSG5DYTlxUlJFaDZmU1liTUlSbWlMRXdYelRuZGFRU1lQZmJHWGoxR1V4a1F1dFk4Q292SWszYjIzcDBuLVpObUo5UWctRjF1SlVHY0l1bWNtWko4YThqQ3EwT2lBRm8yVGdxWE83SzBtX05KM0x4SmNMRlItTVZPdjhlVW91VkVn?oc=5",
+        "publisher": "MIT Technology Review",
+        "category": "Artificial Intelligence",
+        "published": "2026-11-03T04:18:47+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "02c7003c11e9f1aead14",
+        "title": "Gold eases ahead of US midterm elections - Reuters",
+        "summary": "Gold eases ahead of US midterm elections Reuters",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
+        "publisher": "Reuters",
+        "category": "World News",
+        "published": "2026-11-03T04:16:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "a69cd0192781115f624e",
+        "title": "The ‘Shorter’ AI Workweek: 9 to 5:45ish - Bloomberg.com",
+        "summary": "The ‘Shorter’ AI Workweek: 9 to 5:45ish Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVRzWXVOXy1TVUVzWTREZmV3NWhGWUd2TFVyTEJGS2RvWnpsNHVyeDFqWExrQVEwcTRNMnZjSFp5QXU1MnVORl9MZlR1YXRQbmtFcnh0dWJOZXRYOFRzR1dFMXE0OVhmUzRqVi1RNmZFM2xONGFmVjdBdFFBNzVUWjRKZ2tCcXhwbjRpbU5FQzgzXzIwcnVSRzRuRnlfWlBWY2g3WDJUNUxVSGVv?oc=5",
+        "publisher": "Bloomberg.com",
+        "category": "Business",
+        "published": "2026-11-03T03:59:43+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "948a42a1e016da851902",
+        "title": "'The most important midterm, I believe, in our lifetime': Trump - The Daily Star",
+        "summary": "'The most important midterm, I believe, in our lifetime': Trump The Daily Star",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWJWR0tHSmRHWU5uRmpzNWpvRkwtT1k0M0VxdmNFUEJOdjhjZWdhX2l3cVF5S1RORFY4Nm1tZXRiUlUyQTk4a1hoRTVpMUxOdEtaWG1rNTZPUHlsb2ZVNzJOSVYyRnVQdUxVQkRGVW1FTHplQUlPTnRNVGFDYlkyLVJXQy0zS3hvWFI1aXdVdWZrcFl5MTFCWWJKRXVXSmFpZFJWUXdzNEdYemRYbDVVVDFacVAwMnMtM0Nfbkczcw?oc=5",
+        "publisher": "The Daily Star",
+        "category": "Bangladesh",
+        "published": "2026-11-03T00:44:04+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "e667050eaf2b59c55e92",
+        "title": "OpenAI Says Former Army Secretary Dan Driscoll to Join Company - Bloomberg.com",
+        "summary": "OpenAI Says Former Army Secretary Dan Driscoll to Join Company Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEpxX25kaFJjdmxTdUREQjh3bkMxV2FGZEJHQzhNOE9ZY3pFSE5nUTdNNy1DM2xiM1hUMk0xMjJFWXlpMUJQSUlWTDZrWWloczFEQUhOTFZoUDJMRTRPWlVxY1hUSFNkQW5neUZqWnBxeVlrcFlsTUlRQlRTYXdfX2lENmxuTTdlZGs2MVhQS1B3YUVpX3hlVkVfZUxKc1llNGRUVzQ2S0ZzcVVjbU16RC1mdw?oc=5",
+        "publisher": "Bloomberg.com",
+        "category": "Business",
+        "published": "2026-11-03T00:19:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "bfad169f214debf17ad9",
+        "title": "MS NOW Has 2026 Midterm Elections Coverage: Here's How to Watch Election Night Results Live Online Free - Variety",
+        "summary": "MS NOW Has 2026 Midterm Elections Coverage: Here's How to Watch Election Night Results Live Online Free Variety",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRE8zUFNqYnMzZDJRVW9FWUp2Vmg3cjM2MGNUOEp4RlB6Mm1ZUjFlcXJlN1R3UjF0Y0RaRERJN2lscGdtdVUwc0lVb0ZvNDkyS0V0UDdTU1lTRk56OE1QY19RUGRxNkRaZmJoQ0p1cGdINmpmNUdQSGUtYk9wVl9wbjh1dXk1VnFDRmp2SnFISUxpSGR2QlE1djQ4TVM1R3ZrM0xqaG03MUJNMXNTWGk1Sw?oc=5",
+        "publisher": "Variety",
+        "category": "Movies & TV",
+        "published": "2026-11-03T00:00:00+00:00",
+        "lang": "en"
+      },
       {
         "id": "cf6673ebb820ba99cc0b",
         "title": "Iran says contacts over ending war continue after talks finish with no breakthrough - Reuters",
@@ -36,7 +136,77 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
         "publisher": "Reuters",
         "category": "World News",
-        "published": "2026-11-02T21:17:57+00:00",
+        "published": "2026-11-02T23:57:41+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "cf81ffb8d49425992de9",
+        "title": "Binance Hack: One Compromised Laptop Can Cost Billions in Crypto - Dark Reading",
+        "summary": "Binance Hack: One Compromised Laptop Can Cost Billions in Crypto Dark Reading",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkZPUmZLUWNFNmdhZDU0SUdTck55aHJHUFd4S05SVmV5SG85LXpCX2xKWFV5RW5YckJzZGhFRm5wQl8tZ2dfclB0MFY1N1R5Z1R5OWlsVVhHMHNYWkpqMjZndlR4TDB0aFZQTncyLTgwZ2c1ODFBWWQ5ejJuNHpVMnJjeWd2N1ZSWWxlWk1B?oc=5",
+        "publisher": "Dark Reading",
+        "category": "Cybersecurity",
+        "published": "2026-11-02T22:56:19+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "734776260a19025f40c0",
+        "title": "DJIA | Dow Jones Industrial Average Overview - MarketWatch",
+        "summary": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbTdlUjJpbkdOZTFxc2pHeE82Nm4yLWF2OXk2UXhyaWFTbkpKeldySlBpeVN1eFlaRjRGWGhVQ3BzSmw0NElpek5MNGwwNDVSUWFKZUFHYXNudWdU?oc=5",
+        "publisher": "MarketWatch",
+        "category": "Markets & Finance",
+        "published": "2026-11-02T22:46:42+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "e0305191f8ec6a18a363",
+        "title": "Bruce Springsteen Endorses Abdul El-Sayed for Senator: ‘He’s a Fighter Against’ Trump’s ‘Corrupt, Lawless, Anti-American Leadership’ - Variety",
+        "summary": "Bruce Springsteen Endorses Abdul El-Sayed for Senator: ‘He’s a Fighter Against’ Trump’s ‘Corrupt, Lawless, Anti-American Leadership’ Variety",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVJEVGFsNXZXVWZ2a0I1S1h0TGtFWllzTGhmUXVvWFB5bjhVT3hlbE9pMlJ6dzlZWFYtbkdXZUFHb3FJVE03UVlSX0NVYkhnN0FXQVVLRjFBMUpVbFpHME5zdGEzc1FDRW9XeEhTNmctaHV1OEpTb1JqS0o5cXREcTM0Q0xvZktlVFh3SGdLaFFqay1xWFRHZ210MTVRZw?oc=5",
+        "publisher": "Variety",
+        "category": "Entertainment",
+        "published": "2026-11-02T22:03:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "2debcbb19693834b64ca",
+        "title": "Apple set an iPhone sales record even without a new standard iPhone - The Verge",
+        "summary": "Apple set an iPhone sales record even without a new standard iPhone The Verge",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50NDFFMXFJVHBTc2ExR3p3Tmk5Vmd5cTYtUU90eWlMVXRqZEZ0clVLakR5VkxDb2U2N3RQTTVoMk54d3ZzV0xrUnRCNEU3aTNzN2EzbzZ3OFA5Z3FkN2tfMUMydG94TmFXOVRnbGxmU0RrZjVZMHZsU2J4WHFFdw?oc=5",
+        "publisher": "The Verge",
+        "category": "Technology",
+        "published": "2026-11-02T22:02:36+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "6446733294d1fee314a0",
+        "title": "'Dancing With the Stars' Disney Night Rescheduled Ahead of Midterms: When and Where to Watch Online - The Hollywood Reporter",
+        "summary": "'Dancing With the Stars' Disney Night Rescheduled Ahead of Midterms: When and Where to Watch Online The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdS1jbzMyVzROZkNFSUlBZ1NvSU1qZTFBVVJSR0l6WUNISWVrRW91V0FQeC1KSkZ3T0s2ZWIwdEstRHRQM2kwUlhqVE9PckptMWtLdW8zSEhlVlU5T0c2b3Z4aVZjeEQzM3dXbFdKdHVwSTl2ZGpmb2JSNlI1TXVmQWZMZkI0ZFQ0TFVmMV9yaVg0eUF2WmVra3cwQ1pnMl9XcGl6YWZoZ3JST0g2R1VSRUV4Ukt2Zw?oc=5",
+        "publisher": "The Hollywood Reporter",
+        "category": "Movies & TV",
+        "published": "2026-11-02T21:52:16+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "947f59088f3869499b80",
+        "title": "New cyberattack on supermarket fridges sweeps across Europe - Reuters",
+        "summary": "New cyberattack on supermarket fridges sweeps across Europe Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
+        "publisher": "Reuters",
+        "category": "World News",
+        "published": "2026-11-02T21:37:54+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "99aab23a3e749c3d4c89",
+        "title": "China rolls out support measures to aid struggling stocks - Reuters",
+        "summary": "China rolls out support measures to aid struggling stocks Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?oc=5",
+        "publisher": "Reuters",
+        "category": "Markets & Finance",
+        "published": "2026-11-02T21:28:50+00:00",
         "lang": "en"
       },
       {
@@ -47,6 +217,16 @@
         "publisher": "BBC",
         "category": "World News",
         "published": "2026-11-02T21:01:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "dd250f681eca84c1809d",
+        "title": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase - Eurogamer.net",
+        "summary": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase Eurogamer.net",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BbGJqUmNYcEY2SzhzYWdtV0NKaUI2ZlljaDhzRVBLLWMtYVFheG5HV1pORDhSdE1pRW4zWFNaM2Jpc1NDMlROcVJ6RmFwRlUybTZjR1h0X1lsVG5fLUx0RmM2UE4xNEstM0Z4bGxEMzdEcmZH?oc=5",
+        "publisher": "Eurogamer.net",
+        "category": "Gaming",
+        "published": "2026-11-02T20:30:09+00:00",
         "lang": "en"
       },
       {
@@ -70,6 +250,16 @@
         "lang": "en"
       },
       {
+        "id": "330e6f3aba9dfb5a6b9a",
+        "title": "'No Amount of Competition Will Ever Unseat Steam' – Former Epic Games Engineer Rails Against Valve - IGN",
+        "summary": "'No Amount of Competition Will Ever Unseat Steam' – Former Epic Games Engineer Rails Against Valve IGN",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFh6UDltZm5IdnE0eVFCei1RT3IwNVd2RkVKeWdVaXdSRGRzdXBTUHNQaVVxZ3pBS0FrUG5xV3R0akxoc0hzc3R1Mk9qWFRnYWw1cmd6SEhONHdRNmlnR0VPMlphQTVCeldhSXk2Yk9YOUF2MkRIcUtaNTZpU1kxT3hpeHp1RElCaG94UmlnMzJtc0hLM2pTQzBwREdPWldYTTFFRDU4a1B4c2stUVpac1VseXZBT1FIRVRGT0tuVFo?oc=5",
+        "publisher": "IGN",
+        "category": "Gaming",
+        "published": "2026-11-02T19:39:05+00:00",
+        "lang": "en"
+      },
+      {
         "id": "1217c64b368b15be47b6",
         "title": "This Is Such a Bad Time for a $115 Billion Tech Deal - Bloomberg.com",
         "summary": "This Is Such a Bad Time for a $115 Billion Tech Deal Bloomberg.com",
@@ -90,6 +280,16 @@
         "lang": "en"
       },
       {
+        "id": "5ff589dff6173fc181c4",
+        "title": "Anthropic clamps down on Claude’s AI video game clones - The Verge",
+        "summary": "Anthropic clamps down on Claude’s AI video game clones The Verge",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkIzZ1JjSFM3QmlOMXk0MGFDb0I5MGZiWTVCLUtyU1pSTFYyamdERkM3b3RoLVRfUGlESUlmNUtFVUtfb1kzemJZcHNxekhNdTQ3U0s1MmY2SE9BZVdlZ01BeVEwTXJMU25nRVN3MWJmemozSnpSQXdUSjMzVWhpb1BCNHdFcng3MDBPQm1iNnJCbUFJQ3hQSjN0aDlPUQ?oc=5",
+        "publisher": "The Verge",
+        "category": "Artificial Intelligence",
+        "published": "2026-11-02T18:56:02+00:00",
+        "lang": "en"
+      },
+      {
         "id": "17eaba549d2ce4dbd60d",
         "title": "The bond-market rally is defying the typical investing playbook. Here’s why. - MarketWatch",
         "summary": "The bond-market rally is defying the typical investing playbook. Here’s why. MarketWatch",
@@ -97,6 +297,16 @@
         "publisher": "MarketWatch",
         "category": "Markets & Finance",
         "published": "2026-11-02T18:13:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "f25fe2b18d3d8735ca25",
+        "title": "Trump Justice Dept breaks with tradition to intervene in midterms - Reuters",
+        "summary": "Trump Justice Dept breaks with tradition to intervene in midterms Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWJ4OEdSNHdJYTROYzVOdzhEelFyMGI3WFJ6SGprem95MjFQYTZrbUZrWWJ5Y3NpSmlfUEZ3bEMzVE5URU5LWU16MC1nWHExQ0RPbGZXX3dQV2g5dUhpZDMtS3JUWlNaSjMwd2JncWRELVRHSTZXOW15QmZPUjdtQXgxQjhwZFA5Y3BzWko2WDdRMkMyb3k3V3VhU0l1YWdUeXFGaFNEYUNsakExdFZBQ0hn?oc=5",
+        "publisher": "Reuters",
+        "category": "Politics",
+        "published": "2026-11-02T17:45:47+00:00",
         "lang": "en"
       },
       {
@@ -140,6 +350,36 @@
         "lang": "en"
       },
       {
+        "id": "fea419f17b042388c4b9",
+        "title": "Latin America - BBC",
+        "summary": "Latin America BBC",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tYVBicU5zTWRyQmFhbnZadW5BZzN0VDZLb0gycFFVamM4bDRMMFQtM1VzZjZudmU4ZGRWcWVoekR3S2JOS25OYTJaWFhPd1dJcHp6QmF6UQ?oc=5",
+        "publisher": "BBC",
+        "category": "Politics",
+        "published": "2026-11-02T16:55:48+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "1841d66a17a7c23e7572",
+        "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches - GameSpot",
+        "summary": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches GameSpot",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFFsdXJEbGQ5bmVRMWhhNkNLcVYzTXR3Y0UtRnBFTEZ3ZWJGU1l0N3ZvUHhlbnJkTFpZbnJJaHdNRmowaWlYV1h2Sm1jMGtEMnM0MEowV0dBSkc4WGI0b1d4eTlhZkZZTFVWbjVFb1B3Z1BjYnRUaV8tbmpyRkgycE8teE8wd2gteVEzSExHajBMRkg0TXVyei10OW5YU00yYUJJT1V6Vmc?oc=5",
+        "publisher": "GameSpot",
+        "category": "Gaming",
+        "published": "2026-11-02T16:17:53+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "8541beb06a660c79ec0f",
+        "title": "Monday briefing: The world is demanding reparations for enslavement – is Britain finally listening? - The Guardian",
+        "summary": "Monday briefing: The world is demanding reparations for enslavement – is Britain finally listening? The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVc5ZldnLU92d2tmMlNvMEprODNJazltbkpzUDdvV3g1Q3BIRTZ5RlRMaUIxZTVuaWhYZUt3NXBCZjVlemN0bDVzX1M1anB5Vlp2SURQbTlId0xFSXhlcXhJd3o3TW5DQl9xX1ZOR1BDaGNtYlExRHRBRUhyODR0LWZPRTR5c0hOVF9obVNiYVdoT2hIdFJER2F1Ul83RV9wTTg3SUU2ZmhDRVpWc1dOWC1ObFJBMG5SNVBtVVBldWxSc2s4MlRtZXRHdC02MXlLTzZPYkxNb1c?oc=5",
+        "publisher": "The Guardian",
+        "category": "World News",
+        "published": "2026-11-02T15:46:00+00:00",
+        "lang": "en"
+      },
+      {
         "id": "54248b82a6624918dee5",
         "title": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials - Reuters",
         "summary": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials Reuters",
@@ -160,6 +400,16 @@
         "lang": "en"
       },
       {
+        "id": "a3b85a9d3fa12a12ebc5",
+        "title": "Stock market after midterm elections: What S&P 500 history shows - CNBC",
+        "summary": "Stock market after midterm elections: What S&P 500 history shows CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDV6NFVqYi14Um96RGV0c1dLZVhhMC1KQVVVUVNscnotVDFUWWJyVnVNWHhZUU1VZVhaZUJFQ19ONTRRVE9lUUJoMFB3d0ZrU19jaWZZZnlZUTM0TTl1NlF5d0ZzbzlmYjdLSjdQQVU4UlBLTk81Y2Q1WFFaODdPXzEtOXp5dF8zX0psTTJoeWNNQdIBlwFBVV95cUxNUVY5akw2aDVVZGhIOEhhZ1MwNTVZX0ZqSTdaeDdFVEV2OFQ1c0VUWGFkaHNtbWFTMElkMktPX3BuLTJPUXJuZVlqNEFtcFpsY2Q1clZ6Sk5sSFVXSmxqSGc5ekRxR2w5aDVIMU1hdW83X2YzWXB4dVkzOXNObkxqR0trSnQxU1A5dGRId2NRd0pnM0hmYXRV?oc=5",
+        "publisher": "CNBC",
+        "category": "Markets & Finance",
+        "published": "2026-11-02T15:35:20+00:00",
+        "lang": "en"
+      },
+      {
         "id": "65e95915f8a42c03a50a",
         "title": "Can Abuse Allegations Against a Celebrity Be Silenced Over Mental Health Claims? A Defamation Lawyer Explains the Unusual Case Gripping the U.K. - Variety",
         "summary": "Can Abuse Allegations Against a Celebrity Be Silenced Over Mental Health Claims? A Defamation Lawyer Explains the Unusual Case Gripping the U.K. Variety",
@@ -167,6 +417,16 @@
         "publisher": "Variety",
         "category": "Entertainment",
         "published": "2026-11-02T15:09:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "9e0ef01120a7069f40ea",
+        "title": "Your Mobile Carrier Stores Your Call Logs for Years - BleepingComputer",
+        "summary": "Your Mobile Carrier Stores Your Call Logs for Years BleepingComputer",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajlPVDg2RE8zU3pSalRfVV9USUR4UWtLRzN3YWNGaUN4NWRHNktoVVdXYlFhTDdyMVpjUDBFVHZwNmUyZjZ1MTJiRld1amtfMVA4bEdPNHhER1BFUUhCSG5aSUVESjU3ODdMSGE5VmwtQVVfUURIaktsUW5rWVVWU2FYVE9UV04xU0FiM2pjMHhKU2VBYjF1Z1RraG4xOHRs?oc=5",
+        "publisher": "BleepingComputer",
+        "category": "Cybersecurity",
+        "published": "2026-11-02T15:01:00+00:00",
         "lang": "en"
       },
       {
@@ -187,6 +447,26 @@
         "publisher": "The Guardian",
         "category": "Football",
         "published": "2026-11-02T14:34:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "69a63fc975b134a96f18",
+        "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike - The Verge",
+        "summary": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike The Verge",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5NFBsYkc0QnM4dEt0ZnJ4dGpCclFaTFRHcTl4eHBnNnlYdmpLX3FPVzRUYWJRMWUyWlV2dE5tRWt0QXhKOGF1R1JGdUVZNHBTdTZURThfOU0zQVFQVmtiMDRNcXZFTEpRRlY1V1J3aVR6cEdoT1dFRWpleXQ?oc=5",
+        "publisher": "The Verge",
+        "category": "Technology",
+        "published": "2026-11-02T14:07:22+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "b0152d5247f9f149586d",
+        "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia - Dark Reading",
+        "summary": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia Dark Reading",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNejFZTkZ4SkM3blN4N1Q0T1dkWnJmQU52bHVlOURKWUVuUU5FdUZ4aDRPeGc4UmxCMUt0S2czcHphcDZ5RUpwaXJXcThFeS1rd2pWdkZsMUdlcmNJTW5qTDZELS1aSTh0dlZNdEZ4OHhCWXlsX0FWOUMxM0dXVVZMbEFBaGxFVkMwZVlOY05LemxVaFltUmhrYmNuaWc4amNLSHdGWVpR?oc=5",
+        "publisher": "Dark Reading",
+        "category": "Cybersecurity",
+        "published": "2026-11-02T14:05:17+00:00",
         "lang": "en"
       },
       {
@@ -227,6 +507,26 @@
         "publisher": "BBC",
         "category": "Education",
         "published": "2026-11-02T13:49:16+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "ce1b02baa692f931972a",
+        "title": "Arsenal end Anfield wait and Manchester United beaten again: Football Weekly – podcast - The Guardian",
+        "summary": "Arsenal end Anfield wait and Manchester United beaten again: Football Weekly – podcast The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObXg5dlhiMmJZVkhwTmxRQ3J0TjktMWtXbFo3QWVwOGN1YWZDeWgwUXFXNFJ5dWtabmpKdnpNSU1zaUZRQlYzaG1kTzZNZWtoYmFVeThVQms2c1VYakhUcTVERk9HOGpvdFpsOGdndklaLTdYSFYzTmNXVWpaRTZsaUd1YzhjcWtHdVlnM3lSQkNMOVNQTTRaNm1fampYV2U0SVh3Q210eGlBeHBUU1B1T19ISkxmSmpwa25OdFY4OXExWnZDMmN0M21kZEFrd3RUWU5yZQ?oc=5",
+        "publisher": "The Guardian",
+        "category": "Football",
+        "published": "2026-11-02T13:28:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "7ed82928735a85cf70b9",
+        "title": "Xbox Game Pass Is Losing 14 Games In November - GameSpot",
+        "summary": "Xbox Game Pass Is Losing 14 Games In November GameSpot",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkw4Y3BBekk2RXpya2o3a0QzcWt1eXpTV2hpU1dXOUxqMVRjdGdsdUh3SnJIc0ZJQUxUMXZURTVzaDZRSlFHaU9vZlJkbk4xTU00ckdsS1Z2Z0JXbFdwdEdDSzJHeURhZENXdTJwckQwUU9wdXpOelNPc1NtcWN1Q0d6aUh6Tmc?oc=5",
+        "publisher": "GameSpot",
+        "category": "Gaming",
+        "published": "2026-11-02T13:17:26+00:00",
         "lang": "en"
       },
       {
@@ -290,6 +590,16 @@
         "lang": "en"
       },
       {
+        "id": "47038e5057ba26b28320",
+        "title": "Apollo launches €10 billion European credit platform - Reuters",
+        "summary": "Apollo launches €10 billion European credit platform Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWZUNDh3NFhQaERXUU1neUtCdzBuUjNvM1lJcXRFR1JFQmdLSWFLSkVUcnRDX2ZXSkdOeF9jT016T2tmdVh6eHhWU1dQdFFTblpnTllJajQ4TFk1cHh5TDh0ZHlDQ1o3Yk5FeE9qMmRRS2tMZDhscEVBU1hmWlI4bEpyVTBMRWdCemZwOXFwamJXNVhZdEEwLThoMVNhYk16dTZSVG5QaXVmRk0?oc=5",
+        "publisher": "Reuters",
+        "category": "Business",
+        "published": "2026-11-02T10:50:55+00:00",
+        "lang": "en"
+      },
+      {
         "id": "8976ddd9c3275f6da1cb",
         "title": "Amir enters APL draft as UK national; PCB unlikely to issue NOC for Pakistan players - Cricbuzz",
         "summary": "Amir enters APL draft as UK national; PCB unlikely to issue NOC for Pakistan players Cricbuzz",
@@ -327,6 +637,16 @@
         "publisher": "Cricbuzz",
         "category": "Cricket",
         "published": "2026-11-02T09:20:05+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "3fd1a9bb46da958c14da",
+        "title": "Yakuza Series Creator Toshiro Nagoshi's Studio Has Officially Shut Down Before Releasing a Game - IGN",
+        "summary": "Yakuza Series Creator Toshiro Nagoshi's Studio Has Officially Shut Down Before Releasing a Game IGN",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0l4Y19yNjdVQkRqZ25rSEdxemR6S3dRQ3dENjlSNlYzX3g4cVV6VzJsTWp1WnFlSXFEbzhQbkVUYnFKbm11amVQYXFFcE5tUEFzRk16eG5tcG9OX18tS2lXbXJOVWEzUE9ZTmk3Qm5xak1CbmxKZjJuUDl2YS0wRmdDUWlwcnVTNllsdGtDamNKaXVnRy04dmJ4d3g0NTY5ZFZpR2kzX1pPZi1GU1Z2UE9yNmtNVGFvVk5sX1BVRTI?oc=5",
+        "publisher": "IGN",
+        "category": "Gaming",
+        "published": "2026-11-02T09:07:21+00:00",
         "lang": "en"
       },
       {
@@ -480,6 +800,16 @@
         "lang": "en"
       },
       {
+        "id": "f3f7088370298992a831",
+        "title": "NZ vs IND 2026: Mark Chapman, Rachin Ravindra ruled out of India ODIs - Cricbuzz",
+        "summary": "NZ vs IND 2026: Mark Chapman, Rachin Ravindra ruled out of India ODIs Cricbuzz",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTl5M0J1VE94ZTdmLWc0TDYtVGNhZVVwb19lTmFaOHR0MHRjTjdTTDVTdGN6TWlHdEsxdmhGVElUV1phWTBYemtjaGJYNGtUODFwT3czcmM2NXI5WVI0S2pUY0R6eFZkUkdBX2JzSjRiTXRObjhuZmhJcW96ZldScUtxdktzcG54ZUxrTGxaZGdWbzRYU2JEOU05V0U5Y3JrQzVfU2JmZlBObENxaHB0STNzdDA0Z3ZnaVV6ZXBPWXNWUQ?oc=5",
+        "publisher": "Cricbuzz",
+        "category": "Cricket",
+        "published": "2026-11-02T03:55:20+00:00",
+        "lang": "en"
+      },
+      {
         "id": "c9a3b236374020a90f87",
         "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp - The Daily Star",
         "summary": "At least 19 dead in Venezuela army attack on Colombian rebel camp The Daily Star",
@@ -490,10 +820,30 @@
         "lang": "en"
       },
       {
+        "id": "da6765d54579c067d3ed",
+        "title": "Resilient Gotham wins first NWSL Shield: 'That should be our standard' - ESPN",
+        "summary": "Resilient Gotham wins first NWSL Shield: 'That should be our standard' ESPN",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGplb0Voa1BsTmlLdnhDb3NFbzB1LWFGU2xsbTZBVjV1eTU1MGhfcnlXa3JEVUVLQUlBU0x1OFNlTDF2WnZ0UzVJTWNwYTRQTnVJUGR4OFh2Tk1KMUx4UnlmbWVrOE1Nc0pnZFVVSGM0cDg2a2xqS05NQ3JVc1QtdF9YYw?oc=5",
+        "publisher": "ESPN",
+        "category": "Sports",
+        "published": "2026-11-02T01:58:00+00:00",
+        "lang": "en"
+      },
+      {
         "id": "aedad0b4465ba0fcb1d7",
         "title": "CSK may release Prashant Veer to free up funds - Cricbuzz",
         "summary": "CSK may release Prashant Veer to free up funds Cricbuzz",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk43U2ZfZmlBRDNMV0hHYzM4V20zRDBMUkFmX0RLdUgwZzVHM1dfUUR1Nkx1Z2JpejBZbkF6VTlwV1pTUnEzeXJGcnFuZjhab2R5dUNWYXlVd19Bci0yck9zTmwwalNsNXBDbFRWNlNqdldoUHVqMWV5R0tjc3Z4M1ZtUGVGYnZCZFRXeDlodjhHMDYteEE?oc=5",
+        "publisher": "Cricbuzz",
+        "category": "Cricket",
+        "published": "2026-11-02T01:26:21+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "9f136aa5a036615172fc",
+        "title": "CSK may release Prashant Veer to free up funds - Cricbuzz",
+        "summary": "CSK may release Prashant Veer to free up funds Cricbuzz",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2dBdENQeHFwSFROZkY5N0d6M0ZkWGdOWXNpQVJHMldCSXlNQl9uTEtUNmFDaXI1alBPNGdlV2t5QkQ5cDY3RzJkUElKSUpMaVJwcEtSYVRQLXRHVWloTlF2WUdId3FxVDhtNHhmRVgzZm5raVduZG95Y3JMU2Mtajg1ZkVXeFFOTFdWZ3UzYw?oc=5",
         "publisher": "Cricbuzz",
         "category": "Cricket",
         "published": "2026-11-02T01:26:21+00:00",
@@ -527,6 +877,16 @@
         "publisher": "The Guardian",
         "category": "World News",
         "published": "2026-11-01T22:37:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "2ff3b4a78333799a40f9",
+        "title": "Tumor index can identify breast cancer patients' drug response - Medical Xpress",
+        "summary": "Tumor index can identify breast cancer patients' drug response Medical Xpress",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2RpdmFScFFGRmZ2aG9lVkRtcUtvVW1oNnZZSWp0NlZrbjQwSjJaQkNPdWxiQzJ5SUJZaEJERFlJZGYyRXRzcHRpXzZIR1c5dTBtSUFiYTJJWXBfNjVhRGVQNUdmYkoteFpiXy1xWkFJQ3RTd2dxamxOQUltNHYwcU1sMlA?oc=5",
+        "publisher": "Medical Xpress",
+        "category": "Health",
+        "published": "2026-11-01T22:00:10+00:00",
         "lang": "en"
       },
       {
@@ -617,6 +977,16 @@
         "publisher": "Dhaka Tribune",
         "category": "Bangladesh",
         "published": "2026-11-01T17:32:25+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "995ea6620bd2a4a0ca6b",
+        "title": "The UK must stick to its spending pledge on international aid - The Guardian",
+        "summary": "The UK must stick to its spending pledge on international aid The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQlNkRE1heFR3dFYzOS1zYnRNakItOURSejhrMG5TTy1GZWllRkZnbG1PUXpVZFdScENKRU05RWV2eW5YdEo4eFpjN3E0WmgwN0QwRm1XaTN2Z0Vub0Fkek9yU2xQZlN0QWM1U0tmQkY3bkYyRW12akgxVENOWVBEMnlhc2xBQUFIS0xWRTUtcGxZT0MtM0pVMmJseERmdXh4TzdfaXkyS3BxMS1rQ0xZdW9fclhVbUlvM0l1cQ?oc=5",
+        "publisher": "The Guardian",
+        "category": "World News",
+        "published": "2026-11-01T17:30:00+00:00",
         "lang": "en"
       },
       {
@@ -750,6 +1120,16 @@
         "lang": "en"
       },
       {
+        "id": "2c96fb0ee85d96e78843",
+        "title": "Iran, Qatari mediators hold third day of talks to end US-Iran war - Reuters",
+        "summary": "Iran, Qatari mediators hold third day of talks to end US-Iran war Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
+        "publisher": "Reuters",
+        "category": "World News",
+        "published": "2026-11-01T12:24:00+00:00",
+        "lang": "en"
+      },
+      {
         "id": "c682db9d4a586b8d9dec",
         "title": "Premier League today: How to watch Liverpool v Arsenal, TV channels & live stream Sunday 1 November - The Guardian",
         "summary": "Premier League today: How to watch Liverpool v Arsenal, TV channels & live stream Sunday 1 November The Guardian",
@@ -796,6 +1176,16 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVm1YWWY0b0NaY3NXdVdEcEs1ZGxOdmViSC0tWXZETTJyNHg5UHZZcWxtcUlOWlpzZjM5X3JYdVMwUFJUeWFWZWl4S2pzMV9rQzliZzczZGt6MGROd3JPUURkRlEwNUJsbUw3TkJ5WXRKYWZEdldpN1U0SF9FY1l3SWRGVEhQWWZm?oc=5",
         "publisher": "GameSpot",
         "category": "Gaming",
+        "published": "2026-11-01T07:00:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "54866e8099856d78540f",
+        "title": "Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market - Reuters",
+        "summary": "Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
+        "publisher": "Reuters",
+        "category": "Markets & Finance",
         "published": "2026-11-01T07:00:00+00:00",
         "lang": "en"
       },
@@ -887,16 +1277,6 @@
         "publisher": "The Daily Star",
         "category": "Bangladesh",
         "published": "2026-11-01T03:01:58+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "2f29b5780c368c4f4402",
-        "title": "Video Game News, Reviews, and Walkthroughs - IGN - IGN",
-        "summary": "Video Game News, Reviews, and Walkthroughs - IGN IGN",
-        "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE5sZEllMHEyZ1lNeVJrTnNYRVEzbWljNFhteGphOGVOeDI3V1UwMmtmSGlBelRhTUk?oc=5",
-        "publisher": "IGN",
-        "category": "Gaming",
-        "published": "2026-11-01T00:35:50+00:00",
         "lang": "en"
       },
       {
@@ -1007,16 +1387,6 @@
         "publisher": "GameSpot",
         "category": "Gaming",
         "published": "2026-10-31T20:00:00+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "fea419f17b042388c4b9",
-        "title": "Latin America - BBC",
-        "summary": "Latin America BBC",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tYVBicU5zTWRyQmFhbnZadW5BZzN0VDZLb0gycFFVamM4bDRMMFQtM1VzZjZudmU4ZGRWcWVoekR3S2JOS25OYTJaWFhPd1dJcHp6QmF6UQ?oc=5",
-        "publisher": "BBC",
-        "category": "Politics",
-        "published": "2026-10-31T19:55:30+00:00",
         "lang": "en"
       },
       {
@@ -1290,6 +1660,16 @@
         "lang": "en"
       },
       {
+        "id": "f6ecaa91bc5905c51811",
+        "title": "Meet the democratic socialists likely on their way to Congress - AP News",
+        "summary": "Meet the democratic socialists likely on their way to Congress AP News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmdJTVZyUzBrOC10dFBTM1BDNkZkYjN3Yl9USDRFLTJ4ZlRfc1FXRDNSYlVYd2xWT0NaNi1FemJ4ZF9wMjNtelFpMlo4ZEI4ZldoM0JOTmg1dTFYd0dyM1hZMHdRQnRvZTRtRWN1bWRuOVY1QmhMTlBCNVowakZQMkdmMk85VTZQTnV3TTZOQXVCMFZUZVZSWkRNczYxZw?oc=5",
+        "publisher": "AP News",
+        "category": "Politics",
+        "published": "2026-10-31T13:26:00+00:00",
+        "lang": "en"
+      },
+      {
         "id": "813d84190d228220ca14",
         "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era. - BleepingComputer",
         "summary": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era. BleepingComputer",
@@ -1420,6 +1800,16 @@
         "lang": "en"
       },
       {
+        "id": "7b34527cab799a31d0f9",
+        "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+        "summary": "Anthropic's path to the Nasdaq just got a lot bumpier CNBC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
+        "publisher": "CNBC",
+        "category": "Business",
+        "published": "2026-10-31T11:00:01+00:00",
+        "lang": "en"
+      },
+      {
         "id": "bec627dc80542b40032e",
         "title": "Economy, Tech, AI, Work, Personal Finance, Market news - BBC",
         "summary": "Economy, Tech, AI, Work, Personal Finance, Market news BBC",
@@ -1430,16 +1820,6 @@
         "lang": "en"
       },
       {
-        "id": "e2cffcf4ffc569afa0df",
-        "title": "English Newspaper | Most Popular English News in BD | Prothom Alo - Prothom Alo English",
-        "summary": "English Newspaper | Most Popular English News in BD | Prothom Alo Prothom Alo English",
-        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE8tMTZQYTJpWGJnS2k5Y1RIb1pjMGZsRm8yQW9Tb3dNWksxZFRZeTBla3JOMHRfSksxMzZ6dVY4VQ?oc=5",
-        "publisher": "Prothom Alo English",
-        "category": "Bangladesh",
-        "published": "2026-10-31T09:46:51+00:00",
-        "lang": "en"
-      },
-      {
         "id": "13e3b2b5686100a31251",
         "title": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension - AP News",
         "summary": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension AP News",
@@ -1447,6 +1827,16 @@
         "publisher": "AP News",
         "category": "Politics",
         "published": "2026-10-31T09:42:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "5ba3347929ba24e5e972",
+        "title": "India to meet liquor firms as domestic giants join foreign peers in Scotch dispute - Reuters",
+        "summary": "India to meet liquor firms as domestic giants join foreign peers in Scotch dispute Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3c1ZFF4ZEhYS1FqamR5U21kbFplR2Z5aDNoRnJ2SHNpN1p0Rk5tTElBUS1hNC1XS1lCNGtDTEd4blR1MG1OcUVMRkRQQzhRNHB3R1ctSHU0azZONlc0MzRsSGN1emh4UkQ5a1Nhd0pMbEJkeUpCTzNpbFp6NFREZDk4T3RyX3hZVFFleTZld3dJaFRUZU1KbUZodTFYM2RBQi1KV3lYbFpBZVE3UkE2SFNPbXlJOFRJbDVXVzNn?oc=5",
+        "publisher": "Reuters",
+        "category": "Business",
+        "published": "2026-10-31T09:22:39+00:00",
         "lang": "en"
       },
       {
@@ -1517,6 +1907,16 @@
         "publisher": "Cricbuzz",
         "category": "Cricket",
         "published": "2026-10-31T04:36:33+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "fd8566ba5205289b7780",
+        "title": "NZ vs IND 2026: Auqib Nabi added to India's squad for first three NZ ODIs - Cricbuzz",
+        "summary": "NZ vs IND 2026: Auqib Nabi added to India's squad for first three NZ ODIs Cricbuzz",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjV6OFoxV3g5cTRoM1RfeTNSeVJYTnJzNmlEcjFGUXhXamcwc3ZrU0stRGZfaVZsRG9yNUNFQ0hjNGFKZmotbmpZN3RlLWlMMHRaLVlZU295UkdIR1dDNHN6REZTRnZGN3VQaEFHZEhmTGw2bzJpWU9ZeHVIaDdoUi1yNWI1bElKdkNyaGxrbHBmekdFTTBwdDRoM2w3NGVPWlE?oc=5",
+        "publisher": "Cricbuzz",
+        "category": "Cricket",
+        "published": "2026-10-31T04:36:15+00:00",
         "lang": "en"
       },
       {
@@ -1660,6 +2060,16 @@
         "lang": "en"
       },
       {
+        "id": "f461b1b47943d1f77da3",
+        "title": "List Of Hollywood & Media Layoffs From Paramount To Warner Bros Discovery To CNN & More - Deadline",
+        "summary": "List Of Hollywood & Media Layoffs From Paramount To Warner Bros Discovery To CNN & More Deadline",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZMmZCMVAxS0dWa2dKSGJNRFlUbk04SllZS2huVHpGN3RmT1pxdmxPQjJkbWF2cVVSR0VERTJHMWpLVEtoYXBCd0FWaG93VVJ4TEFsdXpIWG9kNDZ0c2ZodnRrbmlnTXExcUdBTGRHYkNEWkFxWWhtaQ?oc=5",
+        "publisher": "Deadline",
+        "category": "Movies & TV",
+        "published": "2026-10-30T23:30:00+00:00",
+        "lang": "en"
+      },
+      {
         "id": "6e25962bd373fc4b155e",
         "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune - TechCrunch",
         "summary": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune TechCrunch",
@@ -1747,16 +2157,6 @@
         "publisher": "NASA (.gov)",
         "category": "Space",
         "published": "2026-10-30T22:35:07+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "54866e8099856d78540f",
-        "title": "Wall St Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market - Reuters",
-        "summary": "Wall St Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
-        "publisher": "Reuters",
-        "category": "Markets & Finance",
-        "published": "2026-10-30T22:25:53+00:00",
         "lang": "en"
       },
       {
@@ -1850,6 +2250,16 @@
         "lang": "en"
       },
       {
+        "id": "8ee889cf3b738347d53d",
+        "title": "In a wild October for markets, these stocks were the biggest winners and losers - MarketWatch",
+        "summary": "In a wild October for markets, these stocks were the biggest winners and losers MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbVVzd3JhZEZsbTlkT2ZJaFNQWHo5bk5NSTN3SzhQb096T3dVZG5vb1daUV9wNGlhV1RtOTUwSE1sU1J5MzVhN2I5bXJKc01yRlZPSnowTU1EZFc5S0NNUnZta0stR2RpaDItSTF2Tko4aFk4ZFBHeFh3WFlQTnFxZEw3eTVKd01zaXpobFdwYkotZV9qTzVnejVGelhaR2ppcV9xWmk5czFjTjF3cDA2ZXMybTFneHVtdGUtMVh3?oc=5",
+        "publisher": "MarketWatch",
+        "category": "Markets & Finance",
+        "published": "2026-10-30T20:52:00+00:00",
+        "lang": "en"
+      },
+      {
         "id": "dfbdc598a218dc03a69a",
         "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk - The Verge",
         "summary": "Sam Altman says it’s better for RAM to be in a data center than on your desk The Verge",
@@ -1857,16 +2267,6 @@
         "publisher": "The Verge",
         "category": "Artificial Intelligence",
         "published": "2026-10-30T20:48:43+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "734776260a19025f40c0",
-        "title": "DJIA | Dow Jones Industrial Average Overview - MarketWatch",
-        "summary": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbTdlUjJpbkdOZTFxc2pHeE82Nm4yLWF2OXk2UXhyaWFTbkpKeldySlBpeVN1eFlaRjRGWGhVQ3BzSmw0NElpek5MNGwwNDVSUWFKZUFHYXNudWdU?oc=5",
-        "publisher": "MarketWatch",
-        "category": "Markets & Finance",
-        "published": "2026-10-30T20:47:00+00:00",
         "lang": "en"
       },
       {
@@ -1917,6 +2317,26 @@
         "publisher": "Bloomberg",
         "category": "Business",
         "published": "2026-10-30T20:28:39+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "cb5c432281bded7da8d3",
+        "title": "The selloff in tech stocks is shifting into overdrive - MarketWatch",
+        "summary": "The selloff in tech stocks is shifting into overdrive MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXZabmZ0RG1rYmVxUC1wdUw2SGlpUUFYWDJzZi02S1htUHQyenhMTkxoTUtiQ29WYXJuRjJkZ3BfemljVXhKREtReVFGVGFzLXVsa3gzX1MzeEFPZWNPV0NWVnZYQW0zTEFaUl8yc2JEOHM0d2N3R3pYbGRmVUZabXktTG5KRVo0aWZOVExmTUZBaGJNUF84NkI1SGc?oc=5",
+        "publisher": "MarketWatch",
+        "category": "Markets & Finance",
+        "published": "2026-10-30T20:26:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "b4dcf19f4d110fe77b91",
+        "title": "Mexico economy beats forecasts in third quarter, cooling rate-cut pressure - Reuters",
+        "summary": "Mexico economy beats forecasts in third quarter, cooling rate-cut pressure Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVhhYVdMQ2RwaEJOMmVJUnhTTXZLZzdNVzl2cTlueWRodkpoTm9aYU5qZnBIanVOV0xMN1JhVHl0OXFWbTZ1WkNVYkt5QWZYTjlwdHJhZUhCOGZjVkJJNmpiVmpWMnVhSWw5aHQxR1Q3T0FXQVRkbExfbDF3QUpGTXJaRS0tT0h4ODJIOHhJUWpzc3M0M3BveEhCdVp1ZU9ndjFIY1hDZDc?oc=5",
+        "publisher": "Reuters",
+        "category": "Economy",
+        "published": "2026-10-30T20:22:23+00:00",
         "lang": "en"
       },
       {
@@ -2007,6 +2427,16 @@
         "publisher": "BBC",
         "category": "Entertainment",
         "published": "2026-10-30T18:22:49+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "f2c86defefcaf79e40b9",
+        "title": "I built the UK government’s metascience unit — here’s what countries need to know - Nature",
+        "summary": "I built the UK government’s metascience unit — here’s what countries need to know Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pWmlEY2xReE5wdVdDdl9LUUdneml0OUlmdDh1TDlkTkoySllpZkQwRUVRdzJSeE1waDgydXhSSkZSTnFDTUVma3VqMlBTTUltR0k2UjBUVUlJb0NqY3NR?oc=5",
+        "publisher": "Nature",
+        "category": "Science",
+        "published": "2026-10-30T18:18:07+00:00",
         "lang": "en"
       },
       {
@@ -2220,6 +2650,16 @@
         "lang": "en"
       },
       {
+        "id": "c5a12919840bed9be204",
+        "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people' - TechCrunch",
+        "summary": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people' TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNFdsRG9KSm05UlViamJobk9iZkM2VW1JdGpYSUNhOWNONThRYVE2MUJfM1BBVWl3TTg1ZFRpWDZsMm5jbUJITmR3TDFrUjFUUFFURlB0T0JzcnFoR3AyVWt2YjUxdnNpQ1FaWjFtS1RpVFh3TUIxZEVLU2JZdjZuaTNKM3VrWG5MYUx5T3RSOFBsRzVLRU1jR3hvTENDcFVGUjFSSldfQTNrd3VVM0xDUG9pbDlDZVFYVDhILS1sMG1ib29JXzNVZ0dzWlhSTFJWb3ZF?oc=5",
+        "publisher": "TechCrunch",
+        "category": "Artificial Intelligence",
+        "published": "2026-10-30T16:03:45+00:00",
+        "lang": "en"
+      },
+      {
         "id": "16b0a2fab08c7d64b25f",
         "title": "Woot’s Early Black Friday Sale Features Some Incredible Video Game Deals - IGN",
         "summary": "Woot’s Early Black Friday Sale Features Some Incredible Video Game Deals IGN",
@@ -2257,6 +2697,16 @@
         "publisher": "Reuters",
         "category": "World News",
         "published": "2026-10-30T15:41:38+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "2e41f33b18c06ff832a6",
+        "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending - Reuters",
+        "summary": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY?oc=5",
+        "publisher": "Reuters",
+        "category": "Business",
+        "published": "2026-10-30T15:40:01+00:00",
         "lang": "en"
       },
       {
@@ -2720,6 +3170,16 @@
         "lang": "en"
       },
       {
+        "id": "10a9a8777230abbf9304",
+        "title": "Jamie Dornan Boards ‘Nostalgie,’ Starring Aidan Gillen as Washed-up Pop Star, as Executive Producer (Exclusive) - The Hollywood Reporter",
+        "summary": "Jamie Dornan Boards ‘Nostalgie,’ Starring Aidan Gillen as Washed-up Pop Star, as Executive Producer (Exclusive) The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXJVLVhJYkJ1eHV3ei1ob0RuVnpxajdNRks1aXhTNjFRT1RHdGdHd0Q5WEdNRlpmajVPZUtlS0hSQV9fRGFGb2hOWlhjelA1SlJ3emZkaVd6ZjBiWFFGWHBpLXRlZGFFR0pCRXAtWGN4QnY3dEdKM2N4a0lKQldUbGY3SW9wWVZIc0d5c3F0SjRJaEs4TEpJV0c0TmNSQUlJVGloVlBkZmtlck9GX1plVUgyVjJWSDg?oc=5",
+        "publisher": "The Hollywood Reporter",
+        "category": "Movies & TV",
+        "published": "2026-10-30T08:00:16+00:00",
+        "lang": "en"
+      },
+      {
         "id": "a7653426da262204aa2d",
         "title": "Nvidia CEO Says Ties to Company Under Spying Probe Were ‘Normal’ - Bloomberg.com",
         "summary": "Nvidia CEO Says Ties to Company Under Spying Probe Were ‘Normal’ Bloomberg.com",
@@ -2727,6 +3187,16 @@
         "publisher": "Bloomberg.com",
         "category": "Business",
         "published": "2026-10-30T07:41:04+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "c4fe113ca53e7181e62a",
+        "title": "Capgemini raises 2026 guidance as AI push brings work to IT consultants - Reuters",
+        "summary": "Capgemini raises 2026 guidance as AI push brings work to IT consultants Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkhZRDBha01HSTlhU2VFQ2tJcjJTNXZCS3NBTl9pdjVXTnBMYVFRZjBTdzVzWlFVZmI4ckM2VVNzaVJXNFl1TjNMb1l5ZnJCVjJUOW4weUtIeC1paEkzb01VQktjTms2WFowZVpud3UyUmFVODVCWjNhNXVDNFgySTFLMURKN2dCRldULVIzcEYzSXNOMVBKXzluSkM1WmtTUUhndzFCUFk4d194akpv?oc=5",
+        "publisher": "Reuters",
+        "category": "Business",
+        "published": "2026-10-30T07:13:48+00:00",
         "lang": "en"
       },
       {
@@ -2817,6 +3287,16 @@
         "publisher": "BBC",
         "category": "Entertainment",
         "published": "2026-10-30T06:59:33+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "cc1f5c008e239c408bdb",
+        "title": "Sudden school closure 'outrageous', MP says - BBC",
+        "summary": "Sudden school closure 'outrageous', MP says BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aUFdDNWlrZGhiNVFKYW84VU5WblhLcG1HdV85ekRiMWFtenNEQlo1ZTFJSHZSQS1qSDVBWDVjRmh3Z3VJQVZTRGtVODVGeGctNVQycF9mUTE1WFk?oc=5",
+        "publisher": "BBC",
+        "category": "Education",
+        "published": "2026-10-30T06:06:40+00:00",
         "lang": "en"
       },
       {
@@ -4420,6 +4900,16 @@
         "lang": "en"
       },
       {
+        "id": "402d5dd069cec99b7b18",
+        "title": "TV Ratings: Why Fox News Suffered Its Largest Pre-Election Month Drop in the Past Decade - The Hollywood Reporter",
+        "summary": "TV Ratings: Why Fox News Suffered Its Largest Pre-Election Month Drop in the Past Decade The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWgtTWhQXzJTZ1dmaWpGR3YxcEc5RmI4Mjd2M1F2cG5qdldZVWU2T1NXb0d3ZzVEQjZjVnhOX2psRUFxdjZDUC1sX2xNNkVNc3JBdnplcG5lUmM0czdZUWxWa0g5MUVQWnRROWhXajE1V3F4aHJ4QjBJRVMzeUxZWXRCY1lVZFREam40UG9LSEh5OUc5V3FDN0lwQQ?oc=5",
+        "publisher": "The Hollywood Reporter",
+        "category": "Movies & TV",
+        "published": "2026-10-28T22:04:20+00:00",
+        "lang": "en"
+      },
+      {
         "id": "c11464a54e1d5228a8c0",
         "title": "Google expands AI Search ads globally as core ad growth slows - TechCrunch",
         "summary": "Google expands AI Search ads globally as core ad growth slows TechCrunch",
@@ -4467,6 +4957,16 @@
         "publisher": "TechCrunch",
         "category": "Technology",
         "published": "2026-10-28T21:34:30+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "c1bf6c25144b92f81ce2",
+        "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference - CNBC",
+        "summary": "Here are five key takeaways from the Fed rate decision and Warsh news conference CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HTy1FRHJET2ZsWjdodm1pYU11UnkxQnJwU09YdjVUQV9xaEJfc2V6blhkdHJNV3ZLTGtaZ3lYZ2pYTElPQXVLMFl5T2IwVkhaWUo4Y2hrZGxfMXJ3d1NaYXhTSHBXM3RnS2NJMzA1cUppWGxRelEta1pR0gF_QVVfeXFMTXBjUk5HbWZHZHBtbFdrTDU0c2FpdUxrQmtCakJZTUxQUWdCYXcydWFfVmFDdnViazVkRmxhOHNuR1ZNdmdpSUFZUEt4OXphUlR2bjNqejg4UkpZZ3VNWU9DZ0RTMnUzd1lPUEphVTZXV2ktV3BUYXBJNDZrVVRZaw?oc=5",
+        "publisher": "CNBC",
+        "category": "Economy",
+        "published": "2026-10-28T21:31:46+00:00",
         "lang": "en"
       },
       {
@@ -6207,6 +6707,16 @@
         "publisher": "Reuters",
         "category": "Markets & Finance",
         "published": "2026-10-27T19:04:47+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "36476451cbbb8e8bfb98",
+        "title": "‘One of Them Days’ Filmmaker Lawrence Lamont to Direct Ice Cube’s Newest ‘Friday’ Comedy (Exclusive) - The Hollywood Reporter",
+        "summary": "‘One of Them Days’ Filmmaker Lawrence Lamont to Direct Ice Cube’s Newest ‘Friday’ Comedy (Exclusive) The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODNaUDZoX3lLZi1NVmh6OW4zbFEtazRXU2o1YmtjaDdoMUNsazEwTnY3RUdNV3VHQjB3cmJERFNDNzNfeXdYZ1lqWXZRalRvbWRwb2ktdHJReHB1QmR1a3VTeDYyQlNUNmNrT1dNcktvcFBvVkxkazlXWloxWGpSOXI3QnowVkpHRzZlTjRScEdaenB2ZkhCM3RObWw3V29OM1E?oc=5",
+        "publisher": "The Hollywood Reporter",
+        "category": "Entertainment",
+        "published": "2026-10-27T18:58:19+00:00",
         "lang": "en"
       },
       {
@@ -10780,16 +11290,6 @@
         "lang": "en"
       },
       {
-        "id": "2398c470127a763d8af0",
-        "title": "LVMH-owned watchmaker Zenith to cut jobs, shift upmarket, source says - Reuters",
-        "summary": "LVMH-owned watchmaker Zenith to cut jobs, shift upmarket, source says Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUE9WYm1qY2hqOFFhMlZyY0dsX05GNHFpN0g2Tjd0NjA2b0ZKQVZwY241VEVCQ2xzQ1RWUEVQM1dkSVVCTXE4RGJDMXFnclFZcUZoR0JrUld6SFg4OE9JVlpIN093SW5vaUlELUZMQld0d2JuOFd0VlhjWjNPS1FZMXhoUnNuQnBzQS1JcDZ6bnlNbUV4SUVvS3dMS2JhLXU0Z1FPMDZFcEZ6S3FwVGxxOUMxaGNRay13SmlKMmt1cFJlTTA?oc=5",
-        "publisher": "Reuters",
-        "category": "Business",
-        "published": "2026-10-23T12:14:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "19725a2a2a0ccf1e7094",
         "title": "BioWare's Future Was In Jeopardy Well Before EA's $55 Billion Acquisition, Analysts Say - IGN",
         "summary": "BioWare's Future Was In Jeopardy Well Before EA's $55 Billion Acquisition, Analysts Say IGN",
@@ -11000,16 +11500,6 @@
         "lang": "en"
       },
       {
-        "id": "55667ed6865f9f127c7e",
-        "title": "Anthropic’s Pitch to Investors Starts With Taking Their Jobs - Bloomberg.com",
-        "summary": "Anthropic’s Pitch to Investors Starts With Taking Their Jobs Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1ZHY0Z3dkdON2dSODRJUFZHMHVNcHFZVjgtRUZ3YldQemdvSmcxMHpfVWhWUFNIamZhd1JySF9WYVIzZFJOVjJuZTY4dGFaNUZLVTVkdEdFSnk4NmFiQTUzY3JiQ2Q5SWxnbEdIenBwa2ZrRHU0RVhESFh0OG10dkthaExqZ0p0QmFkWVhmQ1pFdjBKYzg0cXhWQ1A4b090UHJwd2pJLVdRWGpCSEE?oc=5",
-        "publisher": "Bloomberg.com",
-        "category": "Business",
-        "published": "2026-10-23T08:00:10+00:00",
-        "lang": "en"
-      },
-      {
         "id": "f8a0895f6d362bee9e1e",
         "title": "First personalised cancer vaccine cuts risk of disease returning in major trial - BBC",
         "summary": "First personalised cancer vaccine cuts risk of disease returning in major trial BBC",
@@ -11140,16 +11630,6 @@
         "lang": "en"
       },
       {
-        "id": "6ab722ec3edcf7ed37ae",
-        "title": "China Is Said to Tighten Scrutiny of Listed Company Spinoffs - Bloomberg.com",
-        "summary": "China Is Said to Tighten Scrutiny of Listed Company Spinoffs Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXk1Sk1jbWdKU19YakhUSldKaDMxVnpXOWJaVXdQZy1NaEc5ZVJjdjNJc1Q1a09wTC1PU04wT2gtQ0NQczdXSXc5VGxzWlp6Vk9xaVAxZUlHT2dTeUVYYjZnYVZWV21TbTliZlNuVjN4dmRKT0p4aVFNSVA4MlRwMHg1X0YwczZOZ3l3M3BWZE5XNFpTbmZ0RFdNd2VGbGs5eWc3YnhRX094V1NTT1c3TQ?oc=5",
-        "publisher": "Bloomberg.com",
-        "category": "Business",
-        "published": "2026-10-23T02:16:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "a724ad8bbe96ab5b07ce",
         "title": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother - AP News",
         "summary": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother AP News",
@@ -11167,16 +11647,6 @@
         "publisher": "The Hollywood Reporter",
         "category": "Entertainment",
         "published": "2026-10-23T01:04:42+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "734eb4912b2269d3f3e8",
-        "title": "What It Really Takes to Build a One-Person Company With AI - Bloomberg.com",
-        "summary": "What It Really Takes to Build a One-Person Company With AI Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODZnelc1bm96QklqR2tMUWREMldTbmZ2RDhBOF9iQldyQWlYRHdHSFVzUEo4Wi1odTNVNGx0bjlhUUlRRklDQzkwejdZbUp0Nmppa1d6ajVPajJZekl1WjdDSENkdnJaWXZRcE43R2dfWUp3LWRqZmRfbmxRX1R2SExsZWNHem81YXpyYWU2TkpyS1dycG1zTE9YWThoLVMxTDZwdXFOOF8zanZhNGNJ?oc=5",
-        "publisher": "Bloomberg.com",
-        "category": "Business",
-        "published": "2026-10-23T01:00:00+00:00",
         "lang": "en"
       },
       {
@@ -11490,16 +11960,6 @@
         "lang": "en"
       },
       {
-        "id": "c6ea361eacd96cf1a579",
-        "title": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC - Bloomberg.com",
-        "summary": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWU0S2RSc3UweGd3OGdmMlF0VVNnQ3paTmp3SjhrT0hxMUU2eXdDRGp2cXl6S043dFJ0Z0Z6RnhQb3g0NjJTRWtDYWx1YzJJTFdkemRIbkFHY2Yybi1WUjc0Sk5aX1NEblZBUURoakwxUEFCdUVmRFRlbnF3blhpczNwLVlzZERvVnpZaVIxa2hCdk1za0VJTnFoQjZxc1BvZ1NWSElxWVlJUlpnalFrc1lB?oc=5",
-        "publisher": "Bloomberg.com",
-        "category": "Business",
-        "published": "2026-10-22T19:34:03+00:00",
-        "lang": "en"
-      },
-      {
         "id": "e78b9f6693400614d9c2",
         "title": "‘Now You’re Pushing It’ — Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game - IGN",
         "summary": "‘Now You’re Pushing It’ — Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game IGN",
@@ -11680,16 +12140,6 @@
         "lang": "en"
       },
       {
-        "id": "5604e84e3704fb39751c",
-        "title": "India's eMudhra exits website security business after flaws trigger global alarm - Reuters",
-        "summary": "India's eMudhra exits website security business after flaws trigger global alarm Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTZpekQxR0pOZEphU3hQT0ZFVTZqMVcwZTVzcndlQk0xMng0d3R0SFdWblpxVnpPR05TTnJGOU5JWFBBbjhCS09JaEd4VnlpTnpiRFk0ckpER0lkdU5BQWI3ZzZmVnRYcW9jNUd5Zl9pcXE1YktldnlnSFZKTG9JZUZNZVFGYmw3VDBBcUVWWUlmNlFDNDFxbkJ6bExGcW9EZjhUNi1nenZHemliLWV0YmdmMjB1M1hWTHBKT2FB?oc=5",
-        "publisher": "Reuters",
-        "category": "Business",
-        "published": "2026-10-22T16:46:11+00:00",
-        "lang": "en"
-      },
-      {
         "id": "e03214cab1ee14cf1ac3",
         "title": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this - Eurogamer.net",
         "summary": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this Eurogamer.net",
@@ -11727,16 +12177,6 @@
         "publisher": "Space",
         "category": "Space",
         "published": "2026-10-22T16:14:56+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "91ced51455854f4ced6a",
-        "title": "Pershing's Ackman sees a $1 trillion Israeli company within a decade - Reuters",
-        "summary": "Pershing's Ackman sees a $1 trillion Israeli company within a decade Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHZsSVNpYWhSNWR0RG9fTFFreXJqNTRpT2x2ZlA2aWVjeS04a3ZXejYwdDN6WGN0WVg0YkZhdFZvLVc1elFrOWZIbXpQVFNCNTJNOTI3TllyblpwYXFNaTk0cnZBeGZ6b2hESm8yR0lZYzlCcmRMaU1tOXBZM3o3U3pWRWVkT2RZR2pKSVNocW9URmpMSkQ3bW9ySmRZcDlWenpHUDg0NWV5ZWdtZEp2cDJIclVFUQ?oc=5",
-        "publisher": "Reuters",
-        "category": "Business",
-        "published": "2026-10-22T16:07:44+00:00",
         "lang": "en"
       },
       {
@@ -11787,26 +12227,6 @@
         "publisher": "Reuters",
         "category": "Politics",
         "published": "2026-10-22T15:49:07+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "263b7a5e179e6a35b36d",
-        "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions - AP News",
-        "summary": "European Union awards top rights prize to International Criminal Court days after Trump sanctions AP News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUlQcXVrZnNtRVFtb0d0VldXeG1ya1htcVJyMXVjVklUYTZIZ0p6NXRORTdhY3dtLVRJbDdkSXN3Zm1NUnNTbkFrRVlnWng4VUJ6NVFselBpS0ZrNkhJdTlONVVnbVhYQnhrQ0thRW9oYmk3S1lEQmJaLTJadmhOdV9fSmwzN2diNVU0M0NwWFRITUxuTGlmQjhMdlNFOVZVbks4Wk9jZ2Z6Q1hE?oc=5",
-        "publisher": "AP News",
-        "category": "World News",
-        "published": "2026-10-22T15:43:00+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "e5032b9932f1848df90c",
-        "title": "Investors see risk from US midterms to AI trade as data center backlash builds - Reuters",
-        "summary": "Investors see risk from US midterms to AI trade as data center backlash builds Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1FMNjdldVFMRjM1VlhaMGJCSG9GR3d4TzBjRVUxRk1NYnpHZWxDU1BLNVN4Y1BxUHhrdDhCc3JDYXpiN0c1T2NGRHFRNUxRcEFFVkpadTYxX0h4QXREYWtEZjVyOVJSdkQ0NlBnS05lRVlTUzhVNTRrdGNpbGM4blFKb2NiSnktRGdERWV4R1psd3BqbTROX242TjBkbFl2RVVhenBXVDZEVks3M1FsYTZBOGhhYVRfT0s1TmZ4SXQ?oc=5",
-        "publisher": "Reuters",
-        "category": "Markets & Finance",
-        "published": "2026-10-22T15:31:01+00:00",
         "lang": "en"
       },
       {
@@ -11880,16 +12300,6 @@
         "lang": "en"
       },
       {
-        "id": "1ef619318a5d1c41395c",
-        "title": "Opinion: The 3 questions every AI investor needs to ask right now - MarketWatch",
-        "summary": "Opinion: The 3 questions every AI investor needs to ask right now MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3I4MUFKU1gtRWltTFFKd2NrSFNQRWVjUnA2c29ka1JVamdCalotZkFBeHo3aWJhc0RGRm1GWDlRVVhiLXVyR29hSm9Jc19mNV9GQU1neVF6R3VXeUFRU1JGSC13dkUzdUlUTTZTRTZWYWtTVXNFem9ycDJvUWhTcWM1Tnl3MlFPOFVYQ1FxamhXWmxfSE45cElGVFR5N0I5?oc=5",
-        "publisher": "MarketWatch",
-        "category": "Markets & Finance",
-        "published": "2026-10-22T13:21:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "433eda7d0054506f746f",
         "title": "DeepSeek reportedly raises $15B days after US restrictions - TechCrunch",
         "summary": "DeepSeek reportedly raises $15B days after US restrictions TechCrunch",
@@ -11937,26 +12347,6 @@
         "publisher": "Eurogamer.net",
         "category": "Gaming",
         "published": "2026-10-22T12:56:13+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "e576c8a5276bbaa1f8c3",
-        "title": "International Criminal Court wins EU's 2026 Sakharov prize - Reuters",
-        "summary": "International Criminal Court wins EU's 2026 Sakharov prize Reuters",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdElPcDNTcVk5allvWkY0OXlpbmdsU3hSaTVvaXp3T0djOWZNM1YtMElQMTRQUHdJQTRWeng3RjVFMTVuTTYzZXhiWDZYLWpmQU8wdnJYcVVISU9ONUNNY0xfa09ieTNGZmFsOF9EZ0pUNzZhUXhmQUt6Z3kxRlJBWlN4VXFGNm82RUVIejRnZGhoRm5QQk9JUjFuYWl1XzAy?oc=5",
-        "publisher": "Reuters",
-        "category": "World News",
-        "published": "2026-10-22T12:51:51+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "2132e80ce6caaaa74ca7",
-        "title": "Our top 10 things to watch in the stock market Thursday - CNBC",
-        "summary": "Our top 10 things to watch in the stock market Thursday CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGJNM0lxS1Z0Vk9DQ0ZVdUFlY3BDWDh1cFU3ZFQ1YTdkbjRneFlrcVg2cEg3MlRaaHpLckYxUm1HeTY2WXk5NXJrR19MNE9FajN1LWVHNFpqeEhvdTRPeHphWkd5YXB0WlRUZTJ1dnJTMnlaTUZucHVnTVo4Z0JLMUpSN1o1eW1XVEpuVHBvX0ZramhzX0xMSWhjUG8yc0s5MEVoZExjSU5RUQ?oc=5",
-        "publisher": "CNBC",
-        "category": "Markets & Finance",
-        "published": "2026-10-22T12:51:20+00:00",
         "lang": "en"
       },
       {
@@ -12160,16 +12550,6 @@
         "lang": "en"
       },
       {
-        "id": "33c32713c8a0fd530bdb",
-        "title": "Japanese investors sell foreign bonds for fifth straight week, eye home market - Reuters",
-        "summary": "Japanese investors sell foreign bonds for fifth straight week, eye home market Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWFpYXNMY0l3alFBQnlRTUNpdUl4aUlld1F2VmxJb0ZETkVqM0FNWHFqQlZxSHhNM3VhdnlpQW1CV3I1ZDRWNGhQVXJ3QVFyX294cHFScXYtNVEzYjlyUHotQm5vWHRlQXQ4SW03cDZSaWRxSXJtQ0Jaams2eWxVYXhEdEUxcFdnRnRPdS0yRy05ODkyMGMtZk1DSHZsRjVtM0I5bXRkLVlqVkRHUV9HQmZTWEdrRTBUMTNFbnF1RTFNTHg2amQ4?oc=5",
-        "publisher": "Reuters",
-        "category": "Markets & Finance",
-        "published": "2026-10-22T06:37:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "c5b16c8e749b5a0e1f4b",
         "title": "Sheffield Olympian Dame Jessica Ennis-Hill honoured at former school - BBC",
         "summary": "Sheffield Olympian Dame Jessica Ennis-Hill honoured at former school BBC",
@@ -12220,16 +12600,6 @@
         "lang": "en"
       },
       {
-        "id": "1c8055fd7ca1714377b9",
-        "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
-        "summary": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
-        "publisher": "CNBC",
-        "category": "Markets & Finance",
-        "published": "2026-10-22T03:30:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "562485595672d6adc044",
         "title": "US embassy accuses Canada of brushing off allegations of election interference - BBC",
         "summary": "US embassy accuses Canada of brushing off allegations of election interference BBC",
@@ -12237,16 +12607,6 @@
         "publisher": "BBC",
         "category": "Politics",
         "published": "2026-10-22T03:05:28+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "ef1f87d5b735cb233cf1",
-        "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates - AP News",
-        "summary": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates AP News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFRhSTJyT3RrVXFVUzRQRnpqUndyLTduTjdsVGdNdFQzandyVk5DRU1tcUZaX0xWWW4ycmxYSmpzcmN6UjJ1Mk0ycGpSOHVtZlJOaWo1b1J0RVlnelJJa3dTYWg2M1RYN3M3UVk2MHU1cUM3TUpETkpfWUI2eDl2amNLQzBJWDVxa1lxZEtBWlJYNFBrRDM1V3ZUQ29NTmRI?oc=5",
-        "publisher": "AP News",
-        "category": "World News",
-        "published": "2026-10-22T01:13:00+00:00",
         "lang": "en"
       },
       {
@@ -12290,16 +12650,6 @@
         "lang": "en"
       },
       {
-        "id": "238ba8b1fb8a6d529735",
-        "title": "BioWare Shutting Down, Next Mass Effect Canceled - IGN",
-        "summary": "BioWare Shutting Down, Next Mass Effect Canceled IGN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa0tjeEhRWnBDTnQ5bjVDMzhNSDBDaEFwS0pldlFpRFFVc2tjeGVDMkZ4Z01PTGVudkpkczBhUV96ODJMTW1DS3BFY3FzcUhZOW5Vb0tnZHJ1SFQ5R3ZXT2xVcVdoSE02ZmxXeldNTFNHdk9oalZOREQxazVtcVJhVXF3?oc=5",
-        "publisher": "IGN",
-        "category": "Gaming",
-        "published": "2026-10-21T23:07:54+00:00",
-        "lang": "en"
-      },
-      {
         "id": "c588b2cbdb64d63e1116",
         "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study - BBC",
         "summary": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study BBC",
@@ -12327,16 +12677,6 @@
         "publisher": "The Verge",
         "category": "Artificial Intelligence",
         "published": "2026-10-21T22:33:44+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "166362752a6dc7a4f359",
-        "title": "Retired NYPD detective arrested in road rage killing on George Washington Bridge - AP News",
-        "summary": "Retired NYPD detective arrested in road rage killing on George Washington Bridge AP News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVERvU054QlZZQ1FzcnkzZzNiTkxjSjg0TjY3VFdnR3Y4cVlQV3dCNThjVWpCYUFBMTQ4dm50R0tuM2I5cFRhXzFORFJSRkhPTEVFYl9wdXhZejgwVlhwZlJ0VGhDZmJBa2ZqM1JfcDRTRXhkOGxIOENuQXVoRTZzY1F4d1Z5SVhWQnppbTZFb09pXzNIWlZUUzNVOW4?oc=5",
-        "publisher": "AP News",
-        "category": "World News",
-        "published": "2026-10-21T22:23:00+00:00",
         "lang": "en"
       },
       {
@@ -12390,16 +12730,6 @@
         "lang": "en"
       },
       {
-        "id": "13ea3e751cfe76b8006d",
-        "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
-        "summary": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says AP News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
-        "publisher": "AP News",
-        "category": "World News",
-        "published": "2026-10-21T21:20:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "ecf5a5e23b2bb1c55e40",
         "title": "PHP: The three letters that shut down sites all over the internet today - The Verge",
         "summary": "PHP: The three letters that shut down sites all over the internet today The Verge",
@@ -12407,16 +12737,6 @@
         "publisher": "The Verge",
         "category": "Technology",
         "published": "2026-10-21T20:36:56+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "3ad405cc680c69fd6ef9",
-        "title": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other Big EA News That Just Happened - GameSpot",
-        "summary": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other Big EA News That Just Happened GameSpot",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOEZrbGd0cDVtbHptNEE5R1VTLVE1UzhXdW01d3JoTGx6ME10T01WR19FaW9rT1ZfVE9zaEIyZGcxQ0RqRUhXWlVCOEdTM2tYYy0xMnc1TEFuVUxTV05lTWd5RTAyUVB6NWg4T0xONmZ4REdxaEdsQzBtM1B0eFpLWnlWNFh1ZGR5MUF6RGMycWpqODRIWTlVWWJfbU9IWDA1NjVSUnpDNlVyTVRnZmVuSFljek9jSi15LTVqeTBvc21fZmhiQ2ZsenJYNUtjeTdtZDV4d2NuTWNDbEE0THc?oc=5",
-        "publisher": "GameSpot",
-        "category": "Gaming",
-        "published": "2026-10-21T20:31:13+00:00",
         "lang": "en"
       },
       {
@@ -12567,16 +12887,6 @@
         "publisher": "Variety",
         "category": "Movies & TV",
         "published": "2026-10-21T18:30:00+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "28389fb2b72c3747c4a2",
-        "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare - GameSpot",
-        "summary": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare GameSpot",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY1NlNGQtallOUEFzOVEybkNIZjFfclFETW5SaFNHUmJQcE8taTdNUTF3T1NfZWlXbUY3T00tcHBmaW5sMGFrLTBWanZUQlVobm1rbDdzLXZWWUxoWTVnbFNEX0J5UnMybV9xNWJQWmttYTVQcmEtM21iZlFwZHU5RDU1cFpLNHFITE1tV3JOOA?oc=5",
-        "publisher": "GameSpot",
-        "category": "Gaming",
-        "published": "2026-10-21T18:12:23+00:00",
         "lang": "en"
       },
       {
@@ -12980,16 +13290,6 @@
         "lang": "en"
       },
       {
-        "id": "a08787f8d951a6228dc4",
-        "title": "Prime Video Adds Sony LIV To Indian Offer - Deadline",
-        "summary": "Prime Video Adds Sony LIV To Indian Offer Deadline",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2MV9HNkRKYzBtQVVrMWlyOTQxdTdOMEVES2x2YnpqazRDS0JEenhOYnN2MVVyUTlCYXJyLW5oc1NxNVZZOWNBemdNRjNWRXdjQko0NUV2TmRQQzlrT2wxY282R2xIVGR1ZC1TamNpMjhxWHRQSExScmdYR0w?oc=5",
-        "publisher": "Deadline",
-        "category": "Movies & TV",
-        "published": "2026-10-21T08:21:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "ccd4f7ada7eaa52d0966",
         "title": "Champions League sets new goals record this season - BBC",
         "summary": "Champions League sets new goals record this season BBC",
@@ -13230,16 +13530,6 @@
         "lang": "en"
       },
       {
-        "id": "0195a483b440118170b4",
-        "title": "Ted Sarandos Addresses Netflix Content Exec Purge: ‘I Know That We Could Do Better’ - Variety",
-        "summary": "Ted Sarandos Addresses Netflix Content Exec Purge: ‘I Know That We Could Do Better’ Variety",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWdpUjhuQUJYY3FuVlpXN1BZQnBHbEpEQmcwWkZIQXVfbUdBM0w1MEJwREs2UElWdDRTakJvWlNvMk9kTlJmVWZrTERmTHVsc0V3MjczZUVUQ3Y2SndUc3lnclZ0dDhmVkJxNExibkZLaGZMUDV5UkpCdjZrbTVxd2xaUGJoQXROdkVackpTZ215WGNUeWcyMW9B?oc=5",
-        "publisher": "Variety",
-        "category": "Movies & TV",
-        "published": "2026-10-20T21:01:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "81955bad07baae700693",
         "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow - BleepingComputer",
         "summary": "PHP warns admins of two critical flaws, emergency patches coming tomorrow BleepingComputer",
@@ -13360,16 +13650,6 @@
         "lang": "en"
       },
       {
-        "id": "7845d56c62c7b1cbafc5",
-        "title": "Nudity Banned from ‘Friday the 13th’ Reboot, Showrunner Says: “That’s America” - The Hollywood Reporter",
-        "summary": "Nudity Banned from ‘Friday the 13th’ Reboot, Showrunner Says: “That’s America” The Hollywood Reporter",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFBkNG1helRtdk1WTG5uZ2tEb3dSMm5jN0l1WWdWRkVkVVBYTHNJQktsb3hUbEp2dlB1eEo2MU1QWlhodmpPckpUTW9hNU1WeXpXRmNMV2RHR1N0VUU5TzFDbS1mZ2w5S1NTMVg5SFA2SS10dXdNRWpEQU5tZm9UblE1cFlKeC0xNmZtS2NQLVZtLUZoYjF3OVRxWXBJaUQyTGxJcGZhSUhKTWV1M0VvUg?oc=5",
-        "publisher": "The Hollywood Reporter",
-        "category": "Movies & TV",
-        "published": "2026-10-20T17:45:46+00:00",
-        "lang": "en"
-      },
-      {
         "id": "0ea8c71db93f4487bfce",
         "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds - The Verge",
         "summary": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds The Verge",
@@ -13387,16 +13667,6 @@
         "publisher": "Dark Reading",
         "category": "Cybersecurity",
         "published": "2026-10-20T16:17:17+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "c4da5ca5db10e27ecb28",
-        "title": "Streaming Guide JustWatch Launches Its Own Service With Titles From 30 Global Content Suppliers - Deadline",
-        "summary": "Streaming Guide JustWatch Launches Its Own Service With Titles From 30 Global Content Suppliers Deadline",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMk9obk9DYThReHJ4UWU5Q0ZsMGVTai00ck8tUTgxa0p4aGlCZUFyZU1iSXdNQ2Z2TWJKeW5tdkZINHNnc0ZFcHROeHppbXRGaDV3N1k4RktNODllU0twdENmWTZSVHhQbFI3N2Y2Yjc5bGRnalcwVnowZ2tlUjZVMVlxdU1uZG10UExB?oc=5",
-        "publisher": "Deadline",
-        "category": "Movies & TV",
-        "published": "2026-10-20T16:06:00+00:00",
         "lang": "en"
       },
       {
@@ -13520,16 +13790,6 @@
         "lang": "en"
       },
       {
-        "id": "fc779ab392df53464212",
-        "title": "Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince William: ‘The Most Important Thing Is to Reconcile’ - Variety",
-        "summary": "Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince William: ‘The Most Important Thing Is to Reconcile’ Variety",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzhlX3lZRERnb2tuZDBPOFY4eTNtZi1vd1BLaERwUU44RDNJb3FEN3NEaVdmZU1rS293YTNoMmc1WEktY2xQakJWaWlhZmY0aktBbjhXNzlsNklVdmZ2djF4eFVBUkc0VUViODljVXhzdVpXZ2w0WjlXSVBPVUdZOEJBMlNpb3ZiQnZydnNSX0FBME8xQnowTGw5Wlp6WDA?oc=5",
-        "publisher": "Variety",
-        "category": "Movies & TV",
-        "published": "2026-10-20T12:37:00+00:00",
-        "lang": "en"
-      },
-      {
         "id": "07028a0018db6989bec3",
         "title": "Christina Applegate Reveals She Was Misdiagnosed With MS: ‘I’m Back at Square One’ and It’s a ‘Mindf—’ - Variety",
         "summary": "Christina Applegate Reveals She Was Misdiagnosed With MS: ‘I’m Back at Square One’ and It’s a ‘Mindf—’ Variety",
@@ -13587,16 +13847,6 @@
         "publisher": "The Register",
         "category": "Cybersecurity",
         "published": "2026-10-20T09:57:08+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "ed6417b783ec1c995d4f",
-        "title": "'If I'm Fired Tomorrow It Will Be Because I Told You the Truth' — Xbox Business Strategist Deletes Social Media Account After Accusing the Game Industry of 'Pretending to Not Use AI' - IGN",
-        "summary": "'If I'm Fired Tomorrow It Will Be Because I Told You the Truth' — Xbox Business Strategist Deletes Social Media Account After Accusing the Game Industry of 'Pretending to Not Use AI' IGN",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMURpLW5hTmJ1REtlQ1Zmd013QUYyS2N0Qm9aS19mNm9vWHZKbGpDS3N5NVc5ZmQ4dDQ5aS1Bem0wdmRTV181Y2xRVkJqSzRYSHFzNE9qRXRsRjIxZHRoRlA2U2xuQzc5bkUycThzd0NjM29YS0NNRHp2aWsyRWtwM01QWlA4Zmgzc3pzMlQ4QlNWRmhJMlhUZFlFZDJFNUdLNkNjeDBRWnJJa0RCZkxfLVgyblNlZS00aGNxSEVPU2hUXy1CcGRqbmU4Z3dlWG5icW1yOFdZMUJKSThra0ZfLTYxNVZLQ0N0NEF1cw?oc=5",
-        "publisher": "IGN",
-        "category": "Gaming",
-        "published": "2026-10-20T09:30:26+00:00",
         "lang": "en"
       },
       {
@@ -13708,29 +13958,39 @@
         "category": "Artificial Intelligence",
         "published": "2026-10-20T07:00:00+00:00",
         "lang": "en"
-      },
-      {
-        "id": "ca0c00a7e817b38495c7",
-        "title": "What’s making Europe so angry? The frustration behind the protests - CNBC",
-        "summary": "What’s making Europe so angry? The frustration behind the protests CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWoyNjR2X3h3VmROWUFyV0d0V1c0WDBVTTNQbmYzUXJrMVVqTnMwbXZqUkFILV9xbWptZGYyMUg1MVdFRDZsZDczWFpLekQzX0Yxa21jNE5oSk8yd19NLWl4N094eFJUV3AwN1g3eEJzUXRBc2E3c2h4VmZWTHRsZ1VJQU53dTTSAYwBQVVfeXFMTlFNZWtra0xHWmI3VHBPMTYwTThod1E5dXVxNTFmQ0NSOTluYmpWZ1o4dUg5ZlRUMFVuejNQT196ZGJDNFc5RkYySElYY0IyUEVVMzFzNGljdGFyVnZjVDFNbllGTzFQeEktSlVZQWN0ckFwY1dNVU8ybXdsS3pDMi02Yl94Wi11dnc1MXA?oc=5",
-        "publisher": "CNBC",
-        "category": "Economy",
-        "published": "2026-10-20T06:31:38+00:00",
-        "lang": "en"
-      },
-      {
-        "id": "ca251983f5bd21f8dc2a",
-        "title": "How France’s worst rioting in years erupted and how the government responded - AP News",
-        "summary": "How France’s worst rioting in years erupted and how the government responded AP News",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllKV1hPNWE2Mmc5TFhzY0oxaUZzNW9Gd2haNjBIMUc3SWIwZWtMd3FMb21DajNOckgybzdfWC1tTEZxMkhjblY1TzUwdUpHcUNzc1dHX242RlRhWHNQRE1WQi1uRWVyWldfMUgta01uRnFFaWwtYlJBeVhobXpKdjRlMHBQOGZvOVJOa1RMSHEyc0E?oc=5",
-        "publisher": "AP News",
-        "category": "Politics",
-        "published": "2026-10-20T03:44:00+00:00",
-        "lang": "en"
       }
     ],
     "bn": [
+      {
+        "id": "1ebb40366a3d31e9c375",
+        "title": "বাংলাদেশ সময় কয়টায় শুরু যুক্তরাষ্ট্রের ভোট, ফল আসবে কখন? - Jagonews24",
+        "summary": "বাংলাদেশ সময় কয়টায় শুরু যুক্তরাষ্ট্রের ভোট, ফল আসবে কখন? Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUZm9HU3M4V1NTNVRxNEdvcnJKQzJ6MW4tSkh4VE1LTFVQd00zT2NBVmUtYk9Pc0hMdjhhcmN3b0QxNk11cF9VTUIwOWgxSmZIMzVlWXhpZHo2NEoweUNYdE9pbw?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Bangladesh",
+        "published": "2026-11-03T06:23:42+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "0f2e53a8bf0d7b0595b5",
+        "title": "সাফে সেই ‘অভিশপ্ত’ ঘড়ির কাঁটা কি এবারও কাঁদাবে বাংলাদেশকে - প্রথম আলো",
+        "summary": "সাফে সেই ‘অভিশপ্ত’ ঘড়ির কাঁটা কি এবারও কাঁদাবে বাংলাদেশকে প্রথম আলো",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sMHZXR1Rkaldkc3RYTDc2YzNxcXJ0ZDBiVG14TVN3WXZWcFE2U3h2cVV4T2NQdld3ZGdLVXhmSm9zWWQ3SC1za0hzTTdVWGs5Z0ptYXlJQkR2YVdxRE5GaUN6ONIBcEFVX3lxTFB0d3ltdUtMcWh3NVN1QUZmMDhzRUVLWVA0bVNjRXJKbFlRWjJZRkgzX2laS0Fhbzk0RnloZi1JN1RSc2FicXhuaXZMMGxsNDBqRW0zdUh2VnYxSk8tS09IY2UyR0U2RWZxNEFLR0RrMkg?oc=5",
+        "publisher": "প্রথম আলো",
+        "category": "Bangladesh",
+        "published": "2026-11-03T04:20:00+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "e656a1c8bb0e0445b9a1",
+        "title": "১৪ বছরের কেরিয়ারে টানলেন ইতি, আন্তর্জাতিক ক্রিকেটকে বিদায় জানালেন গ্লেন ম্যাক্সওয়েল - News18 Bengali",
+        "summary": "১৪ বছরের কেরিয়ারে টানলেন ইতি, আন্তর্জাতিক ক্রিকেটকে বিদায় জানালেন গ্লেন ম্যাক্সওয়েল News18 Bengali",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNREtrNlpkbWlyYWUtb2lkaFNadHdfd1VoMDd1ZnZHalUwUHVMREFpelU4RkVrZEQ2eGJnWTBWcnhpMWpBcXNQRnlSZ3dhc2xFQ1pqTEVsX2VHcnJzMkV0NnF1Z2lYeVdhVGs2b0dfNFhWYk04ZXJmdGszemVWWXFib2RpV0JsbHhVLW0yTXJ4cTJEVEFwUnFlTWx4VGFod2FOOWVWX1dpOUxKUzBMYnhsbGZxcWJMWk5SbFduN2ZoYzFTSnh0dlFhWF9OYzYtQm5QbVNXZDZKWVNab1U?oc=5",
+        "publisher": "News18 Bengali",
+        "category": "Cricket",
+        "published": "2026-11-03T03:24:00+00:00",
+        "lang": "bn"
+      },
       {
         "id": "cb6302532c8acd6ba46c",
         "title": "জলবায়ু পরিবর্তন মোকাবিলায় গাছের লাখো বীজ ছড়িয়ে দিচ্ছে ড্রোন - Risingbd.com",
@@ -13742,6 +14002,16 @@
         "lang": "bn"
       },
       {
+        "id": "0fe35e512be69f3d3175",
+        "title": "আন্তর্জাতিক ক্রিকেট থেকে অবসর ম‌্যাক্সওয়েলের - Aaro Ananda",
+        "summary": "আন্তর্জাতিক ক্রিকেট থেকে অবসর ম‌্যাক্সওয়েলের Aaro Ananda",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd2JCMG1yN09QdG5ldU9aNmpYMnVDSGpjWGNHdXF2RUM0dUh3UVRvZHN1bG5vTkNpenRzVFExVW5FaFJZYjdlX2hPMHBuVmhCbWtZNW1Sd0NzLUt0VHlYZ01KUG9hclNiTk1oeFg0QjQ1aFliaFRlRVU3Nnp4ZTBYM2U1bFlkeWdCcHFMRHFINjgxZVY2dHB6Mk5GSTNkZUVic25DSm9NVFpHaGY0YUdUeE5mNVhfLV9fbndpbjR6MjAxWHZPUkpZLU55QQ?oc=5",
+        "publisher": "Aaro Ananda",
+        "category": "Cricket",
+        "published": "2026-11-02T20:53:00+00:00",
+        "lang": "bn"
+      },
+      {
         "id": "e6dd4fdd3fe1b9ea1c50",
         "title": "জলবায়ু রক্ষাকারী গাছের লাখো বীজ ছড়িয়ে দিচ্ছে ড্রোন - Ajker Patrika",
         "summary": "জলবায়ু রক্ষাকারী গাছের লাখো বীজ ছড়িয়ে দিচ্ছে ড্রোন Ajker Patrika",
@@ -13749,6 +14019,46 @@
         "publisher": "Ajker Patrika",
         "category": "Environment & Climate",
         "published": "2026-11-02T17:28:42+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "6ffe6da447a4497929e7",
+        "title": "জলবায়ু রক্ষাকারী গাছের লাখো বীজ ছড়িয়ে দিচ্ছে ড্রোন - Ajker Patrika",
+        "summary": "জলবায়ু রক্ষাকারী গাছের লাখো বীজ ছড়িয়ে দিচ্ছে ড্রোন Ajker Patrika",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xZThMYXM4NElQMUY5aUFuMmNsRlJONU5POElvc3B1S1hqYzByZXBqcmVhWlQ0S0FkcDUtMy11RDMzZlFMMmVxcm9oYVMyakRuU0NuNHJOUENaNkhiV2JNTjhkQ21YWWU0WUHSAWpBVV95cUxNMWU4TGFzODRJUDFGOWlBbjJjbEZSTjVOTzhJb3NwdUtYamMwcmVwanJlYVpUNEtBZHA1LTMtdUQzM2ZRTDJlcXJvaGFTMmpEblNDbjRyTlBDWjZIYldiTU44ZENtWFllNFlB?oc=5",
+        "publisher": "Ajker Patrika",
+        "category": "Environment & Climate",
+        "published": "2026-11-02T17:28:42+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "7db5b4f50b329cfacfe6",
+        "title": "সিঙ্গাপুরের সঙ্গে প্রযুক্তি সহযোগিতা বাড়াতে চায় বাংলাদেশ - Techzoom.TV",
+        "summary": "সিঙ্গাপুরের সঙ্গে প্রযুক্তি সহযোগিতা বাড়াতে চায় বাংলাদেশ Techzoom.TV",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPWktLQ2JxbFZGX0Y0bUZjVUxHQk1yLUE3NVFpeVgyNHNUZFR4VDh5UGlGTlE1Y0pDTGE2WXF3R1lUMDlTUlAtNi0wVFhiUFhSYjc0STRDWjRQODJoNnh5VElPUFZEeVVfYWFNdTdTMXNkZTRhZlF0U2hjVmlEZHEwcTIzRElVZ0JHZ1MzaGl5cmR2cjdETmZtRzAzdGItMDdicFVBV080Vlh1TXJhVXRmbGhqelppb2ZpdHhMem9KOEluWXRjcEVXUU9KVkZpS3FaQVItZ1Z6S1k3ckpPZ2VMc2dpajJGSlVHRXdtbzNmaWxTd01lcnpVM21yOVlqSnF2V1JQLUM0WEc1RnkySnFPa08wNzNFbW5xU2RyS1FrSk5mbmVUWG9MMzV4Wml6WkQyaXl5VV9CMVJqT0JNRmpqRnJJS3FxVDZ0aHUwbjdlQ2FWYTZXTVl2NGpsYWV0QURCTXhmdGNDQVBWMmF4?oc=5",
+        "publisher": "Techzoom.TV",
+        "category": "Technology",
+        "published": "2026-11-02T17:21:22+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "8d13b1f1a29336cf9341",
+        "title": "সৌরভের সঙ্গে ইডেনে পৃথ্বী শ, কী পরামর্শ দিলেন মহারাজ? দিল্লি ক্যাপিটালসে জায়গা ধরে রাখার মরিয়া লড়াই! - News18 Bengali",
+        "summary": "সৌরভের সঙ্গে ইডেনে পৃথ্বী শ, কী পরামর্শ দিলেন মহারাজ? দিল্লি ক্যাপিটালসে জায়গা ধরে রাখার মরিয়া লড়াই! News18 Bengali",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHpSNmI2YUFNbmF4VVNTRlcydlE5TGFpSGRKaGNKd0VRc0pDUDdRcGNmTEhpcTFGMlRmV0FST1c0a0JxWEVMUEJjcXdsS3kyR0htcFNDbWVkbU12RkkzOTRBTTQ1R0dkVFRsd3dacnJnUTkwd0ZRaTFGUDhYeGZLaEdNNXhydEd6S3RLcVdjWXpreVdSX3NwWDdENlY2SS1pZzhxUzFRdlVJVjJzMHkzeURPTGhXWjF1djB5Q2FzaFlXQ2s?oc=5",
+        "publisher": "News18 Bengali",
+        "category": "Cricket",
+        "published": "2026-11-02T16:35:00+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "bbe9e55ee668fbc94df1",
+        "title": "তবু কেন স্পিনে ফেরা, পেসারদের প্রতি এখনও আস্থার অভাব? - Jagonews24",
+        "summary": "তবু কেন স্পিনে ফেরা, পেসারদের প্রতি এখনও আস্থার অভাব? Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56VHRwencwMU9ZQ3k2allKTndaRUZoZjhnV1BmaDBaOTc1QzU4SzdhcldnNEFTRkZ3X09rT2JXMXRqZjR5b2w4ZG5jMUV5Z0piMFBBT25Vc2t3WmQ4aFE?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Bangladesh",
+        "published": "2026-11-02T16:20:00+00:00",
         "lang": "bn"
       },
       {
@@ -13772,6 +14082,16 @@
         "lang": "bn"
       },
       {
+        "id": "0920fed23a2f4de3dd63",
+        "title": "দক্ষিণ কোরিয়ার নতুন বিনিয়োগের সম্ভাবনা, বড় পরিসরে আসছে স্যামসাং - Jagonews24",
+        "summary": "দক্ষিণ কোরিয়ার নতুন বিনিয়োগের সম্ভাবনা, বড় পরিসরে আসছে স্যামসাং Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoWEV4dUY4RzduTTJNanpDb1dQeXB1UkpzWndNNmd0NVdIYm4yclhnT0g3M1J4UldWZkJJRUJubElxQlVtSGdrUHQzeTFiRzdUSTgzeU5rT0lLTG8?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Bangladesh",
+        "published": "2026-11-02T15:48:00+00:00",
+        "lang": "bn"
+      },
+      {
         "id": "aeb683d1f908088ed37b",
         "title": "যুদ্ধ বন্ধের আশায় তেলের বাজারে স্বস্তি, কমলো দাম - Jagonews24",
         "summary": "যুদ্ধ বন্ধের আশায় তেলের বাজারে স্বস্তি, কমলো দাম Jagonews24",
@@ -13789,6 +14109,16 @@
         "publisher": "Jagonews24",
         "category": "Bangladesh",
         "published": "2026-11-02T15:34:54+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "7d7094ab616a979b33de",
+        "title": "প্রধানমন্ত্রী • গ্রীষ্মের আগে গ্রিডে যুক্ত হবে ৪ হাজার মেগাওয়াট সৌরবিদ্যুৎ - Jagonews24",
+        "summary": "প্রধানমন্ত্রী • গ্রীষ্মের আগে গ্রিডে যুক্ত হবে ৪ হাজার মেগাওয়াট সৌরবিদ্যুৎ Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yYkNzU181QjhnVGdva1duOFJOYjVoa0tSdDFUYV82TEFRSFBQN014QldEVW9qMlVGT3hBQUtobmxudFFCYWtTc2dVeHlnZlpDUVQzQVd3QmZ1NnhM?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Bangladesh",
+        "published": "2026-11-02T15:33:00+00:00",
         "lang": "bn"
       },
       {
@@ -13822,6 +14152,16 @@
         "lang": "bn"
       },
       {
+        "id": "3e89245fc0143bfee15e",
+        "title": "ডি-৮ বাণিজ্যের বাধা কাটাতে এফটিএ-পিটিএ বাস্তবায়নের তাগিদ বাংলাদেশের - Jagonews24",
+        "summary": "ডি-৮ বাণিজ্যের বাধা কাটাতে এফটিএ-পিটিএ বাস্তবায়নের তাগিদ বাংলাদেশের Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zT1BaVG5OUW9yTUVaMWJHUDJSN2xtMHgteG11M3B1U0xQN3pKWnZaZ1FCeWdGYzlFMkNfWktQT3NZOUU2QlFlUTV0ZXNRYnZJUnBXVVlWejVsdDA?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Bangladesh",
+        "published": "2026-11-02T14:20:00+00:00",
+        "lang": "bn"
+      },
+      {
         "id": "131d3fe5e9886f8b9688",
         "title": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ • ১৩০তম হয়েও সংবর্ধনা পাচ্ছে বাংলাদেশের কিশোর ফুটবল দল! - Jagonews24",
         "summary": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ • ১৩০তম হয়েও সংবর্ধনা পাচ্ছে বাংলাদেশের কিশোর ফুটবল দল! Jagonews24",
@@ -13849,6 +14189,36 @@
         "publisher": "Jagonews24",
         "category": "Bangladesh",
         "published": "2026-11-02T13:05:15+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "006031103c535142251e",
+        "title": "এলপিজির নতুন দর ঘোষণা, কোন সিলিন্ডারের দাম কত - Jagonews24",
+        "summary": "এলপিজির নতুন দর ঘোষণা, কোন সিলিন্ডারের দাম কত Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TM0V4N0Q0NFFxOXM3emluTkRpU2dnNkxUQnZfX3dfLUh4SlV0c1F4MTIyd2dKMGtDVUNWWHNSOTA0STdxbDFKTkNxb1EtMVEtV1VOVkhRdUlUaG8?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Bangladesh",
+        "published": "2026-11-02T12:34:00+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "99be4a0188ad2492b9b5",
+        "title": "টিভিতে আজকের খেলা, ৩ নভেম্বর ২০২৬ - Jagonews24",
+        "summary": "টিভিতে আজকের খেলা, ৩ নভেম্বর ২০২৬ Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqSmJQZHN0VmRMRW5RQVo2UFRUUjNpYkFhUU5OZmEweXpDXzNPUFpfTGNvNktIdnU1blQxOHdYRHNmdTJMTEx3R3pOR1dzYkcxVTFMZ0llQm1iUQ?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Bangladesh",
+        "published": "2026-11-02T12:25:00+00:00",
+        "lang": "bn"
+      },
+      {
+        "id": "f05be7006609114f3ce3",
+        "title": "নতুন দামে বিক্রি হচ্ছে সোনার গহনা, ভরি কত? - Jagonews24",
+        "summary": "নতুন দামে বিক্রি হচ্ছে সোনার গহনা, ভরি কত? Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXVU90N2ZxN1RqeXpzYUwyNzV4bVRIQkptVzBzc0Q2aHNzUmt4WThpdmtELVBSVDdDMWgtWWRJWlFmRm1XTm5DVzV6ajBYb0lOUk9vU3ltaUNIQjA?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Bangladesh",
+        "published": "2026-11-02T12:17:00+00:00",
         "lang": "bn"
       },
       {
@@ -15872,16 +16242,6 @@
         "lang": "bn"
       },
       {
-        "id": "6406580a9dd5ad28e013",
-        "title": "মালয়েশিয়ার সঙ্গে মুক্ত বাণিজ্য চুক্তির প্রথম দফা আলোচনা শেষ, জানুয়ারিতে ফের বৈঠক - কালের কণ্ঠ",
-        "summary": "মালয়েশিয়ার সঙ্গে মুক্ত বাণিজ্য চুক্তির প্রথম দফা আলোচনা শেষ, জানুয়ারিতে ফের বৈঠক কালের কণ্ঠ",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aUklfSk9rckpuN2xwM3cwVWVyLTd6UEtrZE5wTV9WU05tZnc1YzRPT3NqR0JXcHJvRk1aRGpSeHZCRW9sc2E4WkphdkxrQjJFUjdDd3hJZVh0MEg2NlVsWlExd2JESlVXTllSREphNA?oc=5",
-        "publisher": "কালের কণ্ঠ",
-        "category": "Bangladesh",
-        "published": "2026-10-29T14:16:10+00:00",
-        "lang": "bn"
-      },
-      {
         "id": "6c32717c45f23517be4b",
         "title": "Company Gifts kia Sonet In Diwali : পারফরমেন্সের পুরস্কার ! দীপাবলিতে কর্মীদের কিয়া সনেট উপহার দিলেন - ABP Ananda",
         "summary": "Company Gifts kia Sonet In Diwali : পারফরমেন্সের পুরস্কার ! দীপাবলিতে কর্মীদের কিয়া সনেট উপহার দিলেন ABP Ananda",
@@ -15889,16 +16249,6 @@
         "publisher": "ABP Ananda",
         "category": "Business",
         "published": "2026-10-29T14:13:54+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "f6a996bd4b252f24eb87",
-        "title": "বাংলাদেশ–মালয়েশিয়া এফটিএর প্রথম আলোচনা শেষ, জানুয়ারিতে কুয়ালালালামপুরে আবার দর–কষাকষি - প্রথম আলো",
-        "summary": "বাংলাদেশ–মালয়েশিয়া এফটিএর প্রথম আলোচনা শেষ, জানুয়ারিতে কুয়ালালালামপুরে আবার দর–কষাকষি প্রথম আলো",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUHVzeFJNX1F6VjQ5NmJRUGkxZmF4WWJDbFhoOE9YemVNQ1l0ZUJCVnlUTTdwa1Q1TDEyR0hFV08yS2paNUZkdkE5bFdSQkF4Rld6MnVQN1JrOHh4dHo5bkYxRWpxbVXSAXRBVV95cUxPYzNZazdtajFiYmZzWHBLblJVNm5BZy1mRlo1b2FMWVRaUktiSTlBNWkxWnFINHlXUXJlajVwQWhQQTFGbmZjYVVLSlUxYzlQQkNGdE5NRVNJNXQ4dzJoTWhkQTdhV2ZiQ3NfMkxhUU1idDF0LQ?oc=5",
-        "publisher": "প্রথম আলো",
-        "category": "Bangladesh",
-        "published": "2026-10-29T13:57:53+00:00",
         "lang": "bn"
       },
       {
@@ -15912,16 +16262,6 @@
         "lang": "bn"
       },
       {
-        "id": "4b7d6d7a8f7490401276",
-        "title": "মিরপুর টেস্ট • প্রথম ইনিংসে লিড নিতে পারবে বাংলাদেশ? - Jagonews24",
-        "summary": "মিরপুর টেস্ট • প্রথম ইনিংসে লিড নিতে পারবে বাংলাদেশ? Jagonews24",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fU3FwRUtQei10Q3VDU0FOWVFtdWlyNkYyUzhFY2QzNFNOWGNIMUh4OXJrRlpJNHpVODNxcFAyZnhUX2tjMXVQYzJCZnJPWVNPVjhYZmZFTWd6UG9jTHc?oc=5",
-        "publisher": "Jagonews24",
-        "category": "Bangladesh",
-        "published": "2026-10-29T13:36:00+00:00",
-        "lang": "bn"
-      },
-      {
         "id": "d0eee4db65fa7a91545c",
         "title": "আর্জেন্টিনা বনাম মিশর ফিফা বিশ্বকাপ রাউন্ড অফ ১৬-এর হাইলাইটস – ARG vs EGY আপডেট; মেসির গোল ও অ্যাসিস্টে আর্জেন্টিনার ৩-২ ব্যবধানে জয় - Sportstar",
         "summary": "আর্জেন্টিনা বনাম মিশর ফিফা বিশ্বকাপ রাউন্ড অফ ১৬-এর হাইলাইটস – ARG vs EGY আপডেট; মেসির গোল ও অ্যাসিস্টে আর্জেন্টিনার ৩-২ ব্যবধানে জয় Sportstar",
@@ -15929,46 +16269,6 @@
         "publisher": "Sportstar",
         "category": "Football",
         "published": "2026-10-29T13:35:48+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "31dd8d821d65462dd1b7",
-        "title": "টিভিতে আজকের খেলা, ৩০ অক্টোবর ২০২৬ - Jagonews24",
-        "summary": "টিভিতে আজকের খেলা, ৩০ অক্টোবর ২০২৬ Jagonews24",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aNWdKVzdDa2szN18zZGFxV0tTdmxzcGd2RGJPdHZWTHdPcktJOS1LWGZpbTNqS29QN3ZDMzVjM3BXUFJ4YnZqdU1CcThFYU8xMG9UcFhETWZpQQ?oc=5",
-        "publisher": "Jagonews24",
-        "category": "Bangladesh",
-        "published": "2026-10-29T13:23:00+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "75fa842d4c6d4c1fb7f6",
-        "title": "জ্বালানি তেলের নতুন দাম নির্ধারণ - কালের কণ্ঠ",
-        "summary": "জ্বালানি তেলের নতুন দাম নির্ধারণ কালের কণ্ঠ",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94MzNSQnQzdmVGdHozcXNIZHFYMDd6NDZUdmV4S0tjOUc3S0RYdndHY3dKSzUxR3FQZTBMWUdhWFdVdlVPMzc1U3BrUWUyb2ZjNy1CXzduR3hHNEg0OXVNZy02dC1ieTJsdXJmMU9YUQ?oc=5",
-        "publisher": "কালের কণ্ঠ",
-        "category": "Bangladesh",
-        "published": "2026-10-29T13:18:55+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "def4ef85a1ce2f03e9bf",
-        "title": "বাংলাদেশকে তৃতীয় স্বর্ণ এনে দিলেন বন্যা আক্তার - Jagonews24",
-        "summary": "বাংলাদেশকে তৃতীয় স্বর্ণ এনে দিলেন বন্যা আক্তার Jagonews24",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yLTBPTmw4UTg1aGF2d2JVblN0REhkR0JwR1Z1RWtZRWJEVnBoRTVFSVpMNVN3Wi1qY20xbnlPY0ZBMzB3WFJ5Q1J0c0NfR2tQVVNkVklobG16Zw?oc=5",
-        "publisher": "Jagonews24",
-        "category": "Bangladesh",
-        "published": "2026-10-29T12:55:19+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "32816705103e101fde03",
-        "title": "সশস্ত্র বাহিনী বোর্ডের নিয়োগ বিজ্ঞপ্তি, আবেদন ফি ১৬৮ টাকা - Jagonews24",
-        "summary": "সশস্ত্র বাহিনী বোর্ডের নিয়োগ বিজ্ঞপ্তি, আবেদন ফি ১৬৮ টাকা Jagonews24",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SczV2LU1ET0ZyUTVwVnNUNG9tMGpzY3pWQkFiZVdFem84dXJCRUxjUGlPcXhUOFBodnRiVTYyZW5LVktzTU5GbF9VNV9TOFF3eHRTQzZ6VFgxM3BqT3c?oc=5",
-        "publisher": "Jagonews24",
-        "category": "Bangladesh",
-        "published": "2026-10-29T12:54:18+00:00",
         "lang": "bn"
       },
       {
@@ -15989,26 +16289,6 @@
         "publisher": "https://citizensvoicebd.com/",
         "category": "Health",
         "published": "2026-10-29T12:15:29+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "93f94bcf208e09f9fa33",
-        "title": "‘সোনার ডিম পাড়া হাঁসটিকে মেরে ফেলবেন না’ - Jagonews24",
-        "summary": "‘সোনার ডিম পাড়া হাঁসটিকে মেরে ফেলবেন না’ Jagonews24",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05YWU3MWNJZlAzVDZyaXo1SWE0NjVYa1NKMW5rcG9CekcwRENadWdfT1RqZ0NOeDVxWHJNR0RKaDRNLXFyVmRzbktDbHVETThQcjRIY0QtSVlCdw?oc=5",
-        "publisher": "Jagonews24",
-        "category": "Bangladesh",
-        "published": "2026-10-29T12:07:08+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "61aacc204355c36823b4",
-        "title": "‘সোনার ডিম পাড়া হাঁসটিকে মেরে ফেলবেন না’ - Jagonews24",
-        "summary": "‘সোনার ডিম পাড়া হাঁসটিকে মেরে ফেলবেন না’ Jagonews24",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSm5GbVN2SG9ib3owU1hlVkxQRGFYYUllR3NIN2xwaEtUNHQyMWE2ZzdUdmFiX1lzelg5NXdIYktlalBxeHczNUwxZ1REeE5wZVljeF9SOVpQcnhLdlE?oc=5",
-        "publisher": "Jagonews24",
-        "category": "Bangladesh",
-        "published": "2026-10-29T12:07:08+00:00",
         "lang": "bn"
       },
       {
@@ -18052,6 +18332,16 @@
         "lang": "bn"
       },
       {
+        "id": "b04ac1d40d1e529fbf0a",
+        "title": "টিভিতে আজকের খেলা - খুলনা গেজেট",
+        "summary": "টিভিতে আজকের খেলা খুলনা গেজেট",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PbldXV08tNlRLTi1adnYyeTRfbmEwVWVLb180YWstVWRxQWk4LWlDclBYd0YyOFNTa1JSRldQOE9iRGJOc1hlSmZWT3ZTdldj?oc=5",
+        "publisher": "খুলনা গেজেট",
+        "category": "Sports",
+        "published": "2026-10-24T07:00:00+00:00",
+        "lang": "bn"
+      },
+      {
         "id": "143186d26900aa3142bc",
         "title": "টাঙ্গাইলের ভূঞাপুরে সাংস্কৃতিক সংগঠন জলসার ২৯তম প্রতিষ্ঠাবার্ষিকী উদ্‌যাপন - প্রতিদিনের কাগজ",
         "summary": "টাঙ্গাইলের ভূঞাপুরে সাংস্কৃতিক সংগঠন জলসার ২৯তম প্রতিষ্ঠাবার্ষিকী উদ্‌যাপন প্রতিদিনের কাগজ",
@@ -18079,16 +18369,6 @@
         "publisher": "protifolon",
         "category": "Education",
         "published": "2026-10-24T02:39:00+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "b04ac1d40d1e529fbf0a",
-        "title": "টিভিতে আজকের খেলা - খুলনা গেজেট",
-        "summary": "টিভিতে আজকের খেলা খুলনা গেজেট",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PbldXV08tNlRLTi1adnYyeTRfbmEwVWVLb180YWstVWRxQWk4LWlDclBYd0YyOFNTa1JSRldQOE9iRGJOc1hlSmZWT3ZTdldj?oc=5",
-        "publisher": "খুলনা গেজেট",
-        "category": "Sports",
-        "published": "2026-10-24T02:31:00+00:00",
         "lang": "bn"
       },
       {
@@ -18610,60 +18890,110 @@
         "category": "Technology",
         "published": "2026-10-20T07:00:00+00:00",
         "lang": "bn"
-      },
-      {
-        "id": "1f243009d96a72623af7",
-        "title": "নির্বাচনের পর বাংলাদেশে রাজনৈতিক সহিংসতা কমেছে: যুক্তরাজ্যের প্রতিবেদন - দেশ রূপান্তর",
-        "summary": "নির্বাচনের পর বাংলাদেশে রাজনৈতিক সহিংসতা কমেছে: যুক্তরাজ্যের প্রতিবেদন দেশ রূপান্তর",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPX1RLamZ0MU5LZGlXTTkwTUo5TVFVdnE1aGRXSWQyRElHeE5jNkdkcGJhcDJwcDNzTElaUDNrVDNJLXRDbXRRTFctQTBRLXp6N0gwM3BJRVFEa00tWE9qajQxMUdmVFdMNVJkUkoyYnQyVWJfM3FYeXdmcmZWRnM3d19WTU4ySFlUZFUzSDJYMFZMbVVSOUtwbnU4YlNJNEozVktlTjk0ejc1QWlmMGIwLWIxaDV3U0lTa2M5Qk5nb3lLOEptaXhoeTltcDBLeFJiTTI2M1h3Vkt1STc4OVVoMTUydHhOeGdiSXJIbFVHbF82U1hJTS1PWmRmWTZqcm5QLXBhMnVaZnBDQlhpTUNCY1lqb2JuaUVVMGk4MEtETjUtQUV1V2txQllYOUlKcElwT0QySXVhTTdKYnBJUEZRTHFXWk9NenBkRXhpUllpZ0tSTlF0MGV5VW5kdzVUVUxsNExIRldzNVZ2TVA2SENDRnB2cXhOTkp5N2FLTmdhd29sOWluTm9vbXRVODZqbEZzSDNOT005OG9rOXladEx0YzZ0dkFZQVRQR1o4dFZ4U2dpemliSjFCanVzaWZoZGVYOG1MMnlESlMxV1VFMktfcUhULWE1ajRka1laVk5WbFRaSHlUcVJiMDk1eXVrWm1KcnltVnBJV05zSkt1LV9ValFrNTVjQjlnU1hqZWFyYzRHMXFhTk5BWlRBVXJaN0l1Rk40SW9vSUxZNnRHVnNkVTdoMGpJdlVrN1dsOWc4RdIBxARBVV95cUxPcUhKa2Y1T1VvTFI1dXNlbVRQQlpfWkRTYUdGWkROamZJQTNNV00xUE5TU3NSdVYyTUg4MDBfWGxrR25rd05CYzFQcFI3VlN4VUtXR09NUnNSYWQ5TkhvVXAxSUdUQXp4RDlhanhrbVRQVGFCMHI4bzd2NUE1SHpzd2ZaclZZc09NdFp2MnRLRFJuckl1UGgyci0zdHVna254dndGdTl3VVRJSF9tQkFDdXQzZWpWMXByNkszbW9zcC1JbFlqcFdLNEtjMlZFRmYxRnluSDhSTmxnUlJkOFlWS3QzQ2RuQnBKOVo2ZFdZeTZmb0pZeS1ob2xReXNlS3VuOXVFRnJvM1JBZnNWbmhicUhpMjRMalh6VEJEVzBOYU4zWnkyVkZjUmgxSlhxTUZYVmpCX1hyb1A0aWI2eDRpb1RSUTlOeldFSndlWTYxT0RNQm1fNWJBLUpNaXFLSDlqNUpNbDZKcFJpXy1OVEdjVXlQTnAySGdnME5TbGlTazkyUk9ndjBfdGFwTXlFdlBuWHNsVlh2OTFyeW9fU1VOaVlZdnZEanROLUJuMEtReDRJQmdzSlRIQV9RLXhybnhRVkFOc1pCSHhOeU5Gd2tWWG5pX1dabzVqZllXR3FVZE9aYlk1VklFbnlFdWQxSFZYV2tHeVpqMDlMdkpxZ3N5ajB1WVd6b1pnMjJUaXBLMHFQeWVFSVpOV0Y3NEgwWUhaUGhXVF9IX3J5VEt2YVlHREpBTlZESWpxSGk4ZkdtV2FWcW9q?oc=5",
-        "publisher": "দেশ রূপান্তর",
-        "category": "Politics",
-        "published": "2026-10-20T06:24:16+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "5b237070347dd98a12ed",
-        "title": "নিপা আহমেদ সারাহ্ এর একক ভাওয়াইয়া সংগীত সন্ধ্যা - BD Bulletin",
-        "summary": "নিপা আহমেদ সারাহ্ এর একক ভাওয়াইয়া সংগীত সন্ধ্যা BD Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQldHWGN6Wi1NX0lNTEFPaU16YmRJYnJ2QkpCbG4tTGhlQlRaem9XM09KLVBnQ0FuaC1NQ0NyLVp6SE9GUTVLX25ZRG91YzctcjRXMjdPdjJxQQ?oc=5",
-        "publisher": "BD Bulletin",
-        "category": "Entertainment",
-        "published": "2026-10-20T04:14:00+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "42b98e5f8e05c079210b",
-        "title": "২০২৬ সাল থেকে কতটি বিশ্ববিদ্যালয়, কলেজ এবং বৃত্তিমূলক শিক্ষা প্রতিষ্ঠান একীভূত হয়েছে বা পুনর্গঠন প্রক্রিয়ার মধ্যে রয়েছে? - Vietnam.vn",
-        "summary": "২০২৬ সাল থেকে কতটি বিশ্ববিদ্যালয়, কলেজ এবং বৃত্তিমূলক শিক্ষা প্রতিষ্ঠান একীভূত হয়েছে বা পুনর্গঠন প্রক্রিয়ার মধ্যে রয়েছে? Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjFxdUpUTmdZa1o1ZExzRENnY05OdzNpLW1CN2tGNjdERnFpbHJidUVHNThJcEs5WHVEVkFLR2xhWnJlb3ZuYVJHTnVlZTVxNU5QckJ6b3BqWVBLMTJqZFdtRkY2aTA5M1FzQXVwbWVGMnFLNGc2UUJzVXlEQkZvRldzRndFNkVRNzdpb0diV3hIX0FrM2dGVGR1Rnd5aVk3WHZYd25aMXM?oc=5",
-        "publisher": "Vietnam.vn",
-        "category": "Education",
-        "published": "2026-10-20T03:50:45+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "ab3e6fe6b54c7665ad5b",
-        "title": "সবুজ বাণিজ্য ব্যবসা প্রতিষ্ঠানগুলোকে তাদের সম্পদ পুনর্গঠন করতে উৎসাহিত করে। - Vietnam.vn",
-        "summary": "সবুজ বাণিজ্য ব্যবসা প্রতিষ্ঠানগুলোকে তাদের সম্পদ পুনর্গঠন করতে উৎসাহিত করে। Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0VCUGRXZjVtamoyLXc2RTI1T1dneERoc2VEZ2Zyd0ZiYjFxcXdlUHVqa3hhcmNKZ1h4MVVGbm1VNm5YNWk3QU0zeXpjQXJkRGRuRkZvcnBCamJ2X2Y4VEFaMVFLN3NObG04Qk9xbHhUajFSRk9peWJBZEFKeUxjZXZneFcwUi01eWMyRnNYUQ?oc=5",
-        "publisher": "Vietnam.vn",
-        "category": "Business",
-        "published": "2026-10-20T03:46:03+00:00",
-        "lang": "bn"
-      },
-      {
-        "id": "f125787a2a89e7da3548",
-        "title": "টিভিতে আজকের খেলা - খুলনা গেজেট",
-        "summary": "টিভিতে আজকের খেলা খুলনা গেজেট",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92LTlNdExSTzJfRDBsXzRfRTRkWDM0bzZsSmFCUld5MXFoYU1hNXdVY1VMV3ZKZ3dFVVVBNGNFaTg4WURCZkd3VDB0WEhjR3pp?oc=5",
-        "publisher": "খুলনা গেজেট",
-        "category": "Sports",
-        "published": "2026-10-20T03:29:00+00:00",
-        "lang": "bn"
       }
     ]
   },
   "articles": [
+    {
+      "id": "e2cffcf4ffc569afa0df",
+      "title": "English Newspaper | Most Popular English News in BD | Prothom Alo - Prothom Alo English",
+      "summary": "English Newspaper | Most Popular English News in BD | Prothom Alo Prothom Alo English",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE8tMTZQYTJpWGJnS2k5Y1RIb1pjMGZsRm8yQW9Tb3dNWksxZFRZeTBla3JOMHRfSksxMzZ6dVY4VQ?oc=5",
+      "publisher": "Prothom Alo English",
+      "category": "Bangladesh",
+      "published": "2026-11-03T05:17:39+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "afce8316202cb3a81f47",
+      "title": "Global markets were already fragile. Big AI bets could break them - Reuters",
+      "summary": "Global markets were already fragile. Big AI bets could break them Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
+      "publisher": "Reuters",
+      "category": "Markets & Finance",
+      "published": "2026-11-03T05:08:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "2f29b5780c368c4f4402",
+      "title": "Video Game News, Reviews, and Walkthroughs - IGN - IGN",
+      "summary": "Video Game News, Reviews, and Walkthroughs - IGN IGN",
+      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE5sZEllMHEyZ1lNeVJrTnNYRVEzbWljNFhteGphOGVOeDI3V1UwMmtmSGlBelRhTUk?oc=5",
+      "publisher": "IGN",
+      "category": "Gaming",
+      "published": "2026-11-03T05:01:04+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "f4d73aff7497ec11ccdb",
+      "title": "India-Sri Lanka ODI likely to be moved out of Delhi - Cricbuzz",
+      "summary": "India-Sri Lanka ODI likely to be moved out of Delhi Cricbuzz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkJZWWZXQUk2US1haEFURlJUN3hsWFVUZzNZcUwzcmQxM2FxUmZpT1VkREhTM3dlMVBNQmdOZ2xWN0lxTm16bGxlU1lrakFfMXFlN3VERlVKdHhsWWhlWmlDQkdyVFBNZDA4NjZPMldzUU9MNGx4VWNGWGx1RWNHcUpobnl3bUR1WTVqU3UxVlBMZloxV0NSWmJadHpyQ1RMRkVZaFR3NF8tSjRX?oc=5",
+      "publisher": "Cricbuzz",
+      "category": "Cricket",
+      "published": "2026-11-03T04:31:36+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "d1e6af447bfb1c9d0446",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test - MIT Technology Review",
+      "summary": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1UZ01BOU02cG9SdWlTQUdhclhDLWNNaUxRcUE4c2ZSY3pNSWl1bXVMTUh0MnVWVEhKbjhzV0tXanNyX0M1dEhyV0daZVRDQ3FyR2RTVVA2V0dzWG1uSFBVcnVEeUF2Q01JdDhDbnBqQ3BGNVlsNndtZnhIYkN6UktRb2xvXzMyejVYOTVXS3g0RGFFUVhpcU9SVFQydTdiRnU2Z0ZnNzlyc0FfaHN4MkhobmhPTG9IbURVWTlZWXJLZ9IBxwFBVV95cUxQcnlFVDZtem1mWS1pd05SUjhpeGdhMmtEUU1mQTN5Tk55bmNJTTZveWYwZDF2dk5YRUlTTjBGYXZBc1FkYzlRSG5DYTlxUlJFaDZmU1liTUlSbWlMRXdYelRuZGFRU1lQZmJHWGoxR1V4a1F1dFk4Q292SWszYjIzcDBuLVpObUo5UWctRjF1SlVHY0l1bWNtWko4YThqQ3EwT2lBRm8yVGdxWE83SzBtX05KM0x4SmNMRlItTVZPdjhlVW91VkVn?oc=5",
+      "publisher": "MIT Technology Review",
+      "category": "Artificial Intelligence",
+      "published": "2026-11-03T04:18:47+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "02c7003c11e9f1aead14",
+      "title": "Gold eases ahead of US midterm elections - Reuters",
+      "summary": "Gold eases ahead of US midterm elections Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
+      "publisher": "Reuters",
+      "category": "World News",
+      "published": "2026-11-03T04:16:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "a69cd0192781115f624e",
+      "title": "The ‘Shorter’ AI Workweek: 9 to 5:45ish - Bloomberg.com",
+      "summary": "The ‘Shorter’ AI Workweek: 9 to 5:45ish Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVRzWXVOXy1TVUVzWTREZmV3NWhGWUd2TFVyTEJGS2RvWnpsNHVyeDFqWExrQVEwcTRNMnZjSFp5QXU1MnVORl9MZlR1YXRQbmtFcnh0dWJOZXRYOFRzR1dFMXE0OVhmUzRqVi1RNmZFM2xONGFmVjdBdFFBNzVUWjRKZ2tCcXhwbjRpbU5FQzgzXzIwcnVSRzRuRnlfWlBWY2g3WDJUNUxVSGVv?oc=5",
+      "publisher": "Bloomberg.com",
+      "category": "Business",
+      "published": "2026-11-03T03:59:43+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "948a42a1e016da851902",
+      "title": "'The most important midterm, I believe, in our lifetime': Trump - The Daily Star",
+      "summary": "'The most important midterm, I believe, in our lifetime': Trump The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWJWR0tHSmRHWU5uRmpzNWpvRkwtT1k0M0VxdmNFUEJOdjhjZWdhX2l3cVF5S1RORFY4Nm1tZXRiUlUyQTk4a1hoRTVpMUxOdEtaWG1rNTZPUHlsb2ZVNzJOSVYyRnVQdUxVQkRGVW1FTHplQUlPTnRNVGFDYlkyLVJXQy0zS3hvWFI1aXdVdWZrcFl5MTFCWWJKRXVXSmFpZFJWUXdzNEdYemRYbDVVVDFacVAwMnMtM0Nfbkczcw?oc=5",
+      "publisher": "The Daily Star",
+      "category": "Bangladesh",
+      "published": "2026-11-03T00:44:04+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "e667050eaf2b59c55e92",
+      "title": "OpenAI Says Former Army Secretary Dan Driscoll to Join Company - Bloomberg.com",
+      "summary": "OpenAI Says Former Army Secretary Dan Driscoll to Join Company Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEpxX25kaFJjdmxTdUREQjh3bkMxV2FGZEJHQzhNOE9ZY3pFSE5nUTdNNy1DM2xiM1hUMk0xMjJFWXlpMUJQSUlWTDZrWWloczFEQUhOTFZoUDJMRTRPWlVxY1hUSFNkQW5neUZqWnBxeVlrcFlsTUlRQlRTYXdfX2lENmxuTTdlZGs2MVhQS1B3YUVpX3hlVkVfZUxKc1llNGRUVzQ2S0ZzcVVjbU16RC1mdw?oc=5",
+      "publisher": "Bloomberg.com",
+      "category": "Business",
+      "published": "2026-11-03T00:19:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "bfad169f214debf17ad9",
+      "title": "MS NOW Has 2026 Midterm Elections Coverage: Here's How to Watch Election Night Results Live Online Free - Variety",
+      "summary": "MS NOW Has 2026 Midterm Elections Coverage: Here's How to Watch Election Night Results Live Online Free Variety",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRE8zUFNqYnMzZDJRVW9FWUp2Vmg3cjM2MGNUOEp4RlB6Mm1ZUjFlcXJlN1R3UjF0Y0RaRERJN2lscGdtdVUwc0lVb0ZvNDkyS0V0UDdTU1lTRk56OE1QY19RUGRxNkRaZmJoQ0p1cGdINmpmNUdQSGUtYk9wVl9wbjh1dXk1VnFDRmp2SnFISUxpSGR2QlE1djQ4TVM1R3ZrM0xqaG03MUJNMXNTWGk1Sw?oc=5",
+      "publisher": "Variety",
+      "category": "Movies & TV",
+      "published": "2026-11-03T00:00:00+00:00",
+      "lang": "en"
+    },
     {
       "id": "cf6673ebb820ba99cc0b",
       "title": "Iran says contacts over ending war continue after talks finish with no breakthrough - Reuters",
@@ -18671,7 +19001,77 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
       "publisher": "Reuters",
       "category": "World News",
-      "published": "2026-11-02T21:17:57+00:00",
+      "published": "2026-11-02T23:57:41+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "cf81ffb8d49425992de9",
+      "title": "Binance Hack: One Compromised Laptop Can Cost Billions in Crypto - Dark Reading",
+      "summary": "Binance Hack: One Compromised Laptop Can Cost Billions in Crypto Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkZPUmZLUWNFNmdhZDU0SUdTck55aHJHUFd4S05SVmV5SG85LXpCX2xKWFV5RW5YckJzZGhFRm5wQl8tZ2dfclB0MFY1N1R5Z1R5OWlsVVhHMHNYWkpqMjZndlR4TDB0aFZQTncyLTgwZ2c1ODFBWWQ5ejJuNHpVMnJjeWd2N1ZSWWxlWk1B?oc=5",
+      "publisher": "Dark Reading",
+      "category": "Cybersecurity",
+      "published": "2026-11-02T22:56:19+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "734776260a19025f40c0",
+      "title": "DJIA | Dow Jones Industrial Average Overview - MarketWatch",
+      "summary": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbTdlUjJpbkdOZTFxc2pHeE82Nm4yLWF2OXk2UXhyaWFTbkpKeldySlBpeVN1eFlaRjRGWGhVQ3BzSmw0NElpek5MNGwwNDVSUWFKZUFHYXNudWdU?oc=5",
+      "publisher": "MarketWatch",
+      "category": "Markets & Finance",
+      "published": "2026-11-02T22:46:42+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "e0305191f8ec6a18a363",
+      "title": "Bruce Springsteen Endorses Abdul El-Sayed for Senator: ‘He’s a Fighter Against’ Trump’s ‘Corrupt, Lawless, Anti-American Leadership’ - Variety",
+      "summary": "Bruce Springsteen Endorses Abdul El-Sayed for Senator: ‘He’s a Fighter Against’ Trump’s ‘Corrupt, Lawless, Anti-American Leadership’ Variety",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVJEVGFsNXZXVWZ2a0I1S1h0TGtFWllzTGhmUXVvWFB5bjhVT3hlbE9pMlJ6dzlZWFYtbkdXZUFHb3FJVE03UVlSX0NVYkhnN0FXQVVLRjFBMUpVbFpHME5zdGEzc1FDRW9XeEhTNmctaHV1OEpTb1JqS0o5cXREcTM0Q0xvZktlVFh3SGdLaFFqay1xWFRHZ210MTVRZw?oc=5",
+      "publisher": "Variety",
+      "category": "Entertainment",
+      "published": "2026-11-02T22:03:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "2debcbb19693834b64ca",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone - The Verge",
+      "summary": "Apple set an iPhone sales record even without a new standard iPhone The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50NDFFMXFJVHBTc2ExR3p3Tmk5Vmd5cTYtUU90eWlMVXRqZEZ0clVLakR5VkxDb2U2N3RQTTVoMk54d3ZzV0xrUnRCNEU3aTNzN2EzbzZ3OFA5Z3FkN2tfMUMydG94TmFXOVRnbGxmU0RrZjVZMHZsU2J4WHFFdw?oc=5",
+      "publisher": "The Verge",
+      "category": "Technology",
+      "published": "2026-11-02T22:02:36+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "6446733294d1fee314a0",
+      "title": "'Dancing With the Stars' Disney Night Rescheduled Ahead of Midterms: When and Where to Watch Online - The Hollywood Reporter",
+      "summary": "'Dancing With the Stars' Disney Night Rescheduled Ahead of Midterms: When and Where to Watch Online The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdS1jbzMyVzROZkNFSUlBZ1NvSU1qZTFBVVJSR0l6WUNISWVrRW91V0FQeC1KSkZ3T0s2ZWIwdEstRHRQM2kwUlhqVE9PckptMWtLdW8zSEhlVlU5T0c2b3Z4aVZjeEQzM3dXbFdKdHVwSTl2ZGpmb2JSNlI1TXVmQWZMZkI0ZFQ0TFVmMV9yaVg0eUF2WmVra3cwQ1pnMl9XcGl6YWZoZ3JST0g2R1VSRUV4Ukt2Zw?oc=5",
+      "publisher": "The Hollywood Reporter",
+      "category": "Movies & TV",
+      "published": "2026-11-02T21:52:16+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "947f59088f3869499b80",
+      "title": "New cyberattack on supermarket fridges sweeps across Europe - Reuters",
+      "summary": "New cyberattack on supermarket fridges sweeps across Europe Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
+      "publisher": "Reuters",
+      "category": "World News",
+      "published": "2026-11-02T21:37:54+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "99aab23a3e749c3d4c89",
+      "title": "China rolls out support measures to aid struggling stocks - Reuters",
+      "summary": "China rolls out support measures to aid struggling stocks Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?oc=5",
+      "publisher": "Reuters",
+      "category": "Markets & Finance",
+      "published": "2026-11-02T21:28:50+00:00",
       "lang": "en"
     },
     {
@@ -18682,6 +19082,16 @@
       "publisher": "BBC",
       "category": "World News",
       "published": "2026-11-02T21:01:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "dd250f681eca84c1809d",
+      "title": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase - Eurogamer.net",
+      "summary": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase Eurogamer.net",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BbGJqUmNYcEY2SzhzYWdtV0NKaUI2ZlljaDhzRVBLLWMtYVFheG5HV1pORDhSdE1pRW4zWFNaM2Jpc1NDMlROcVJ6RmFwRlUybTZjR1h0X1lsVG5fLUx0RmM2UE4xNEstM0Z4bGxEMzdEcmZH?oc=5",
+      "publisher": "Eurogamer.net",
+      "category": "Gaming",
+      "published": "2026-11-02T20:30:09+00:00",
       "lang": "en"
     },
     {
@@ -18705,6 +19115,16 @@
       "lang": "en"
     },
     {
+      "id": "330e6f3aba9dfb5a6b9a",
+      "title": "'No Amount of Competition Will Ever Unseat Steam' – Former Epic Games Engineer Rails Against Valve - IGN",
+      "summary": "'No Amount of Competition Will Ever Unseat Steam' – Former Epic Games Engineer Rails Against Valve IGN",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFh6UDltZm5IdnE0eVFCei1RT3IwNVd2RkVKeWdVaXdSRGRzdXBTUHNQaVVxZ3pBS0FrUG5xV3R0akxoc0hzc3R1Mk9qWFRnYWw1cmd6SEhONHdRNmlnR0VPMlphQTVCeldhSXk2Yk9YOUF2MkRIcUtaNTZpU1kxT3hpeHp1RElCaG94UmlnMzJtc0hLM2pTQzBwREdPWldYTTFFRDU4a1B4c2stUVpac1VseXZBT1FIRVRGT0tuVFo?oc=5",
+      "publisher": "IGN",
+      "category": "Gaming",
+      "published": "2026-11-02T19:39:05+00:00",
+      "lang": "en"
+    },
+    {
       "id": "1217c64b368b15be47b6",
       "title": "This Is Such a Bad Time for a $115 Billion Tech Deal - Bloomberg.com",
       "summary": "This Is Such a Bad Time for a $115 Billion Tech Deal Bloomberg.com",
@@ -18725,6 +19145,16 @@
       "lang": "en"
     },
     {
+      "id": "5ff589dff6173fc181c4",
+      "title": "Anthropic clamps down on Claude’s AI video game clones - The Verge",
+      "summary": "Anthropic clamps down on Claude’s AI video game clones The Verge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkIzZ1JjSFM3QmlOMXk0MGFDb0I5MGZiWTVCLUtyU1pSTFYyamdERkM3b3RoLVRfUGlESUlmNUtFVUtfb1kzemJZcHNxekhNdTQ3U0s1MmY2SE9BZVdlZ01BeVEwTXJMU25nRVN3MWJmemozSnpSQXdUSjMzVWhpb1BCNHdFcng3MDBPQm1iNnJCbUFJQ3hQSjN0aDlPUQ?oc=5",
+      "publisher": "The Verge",
+      "category": "Artificial Intelligence",
+      "published": "2026-11-02T18:56:02+00:00",
+      "lang": "en"
+    },
+    {
       "id": "17eaba549d2ce4dbd60d",
       "title": "The bond-market rally is defying the typical investing playbook. Here’s why. - MarketWatch",
       "summary": "The bond-market rally is defying the typical investing playbook. Here’s why. MarketWatch",
@@ -18732,6 +19162,16 @@
       "publisher": "MarketWatch",
       "category": "Markets & Finance",
       "published": "2026-11-02T18:13:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "f25fe2b18d3d8735ca25",
+      "title": "Trump Justice Dept breaks with tradition to intervene in midterms - Reuters",
+      "summary": "Trump Justice Dept breaks with tradition to intervene in midterms Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWJ4OEdSNHdJYTROYzVOdzhEelFyMGI3WFJ6SGprem95MjFQYTZrbUZrWWJ5Y3NpSmlfUEZ3bEMzVE5URU5LWU16MC1nWHExQ0RPbGZXX3dQV2g5dUhpZDMtS3JUWlNaSjMwd2JncWRELVRHSTZXOW15QmZPUjdtQXgxQjhwZFA5Y3BzWko2WDdRMkMyb3k3V3VhU0l1YWdUeXFGaFNEYUNsakExdFZBQ0hn?oc=5",
+      "publisher": "Reuters",
+      "category": "Politics",
+      "published": "2026-11-02T17:45:47+00:00",
       "lang": "en"
     },
     {
@@ -18775,6 +19215,36 @@
       "lang": "en"
     },
     {
+      "id": "fea419f17b042388c4b9",
+      "title": "Latin America - BBC",
+      "summary": "Latin America BBC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tYVBicU5zTWRyQmFhbnZadW5BZzN0VDZLb0gycFFVamM4bDRMMFQtM1VzZjZudmU4ZGRWcWVoekR3S2JOS25OYTJaWFhPd1dJcHp6QmF6UQ?oc=5",
+      "publisher": "BBC",
+      "category": "Politics",
+      "published": "2026-11-02T16:55:48+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "1841d66a17a7c23e7572",
+      "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches - GameSpot",
+      "summary": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFFsdXJEbGQ5bmVRMWhhNkNLcVYzTXR3Y0UtRnBFTEZ3ZWJGU1l0N3ZvUHhlbnJkTFpZbnJJaHdNRmowaWlYV1h2Sm1jMGtEMnM0MEowV0dBSkc4WGI0b1d4eTlhZkZZTFVWbjVFb1B3Z1BjYnRUaV8tbmpyRkgycE8teE8wd2gteVEzSExHajBMRkg0TXVyei10OW5YU00yYUJJT1V6Vmc?oc=5",
+      "publisher": "GameSpot",
+      "category": "Gaming",
+      "published": "2026-11-02T16:17:53+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "8541beb06a660c79ec0f",
+      "title": "Monday briefing: The world is demanding reparations for enslavement – is Britain finally listening? - The Guardian",
+      "summary": "Monday briefing: The world is demanding reparations for enslavement – is Britain finally listening? The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVc5ZldnLU92d2tmMlNvMEprODNJazltbkpzUDdvV3g1Q3BIRTZ5RlRMaUIxZTVuaWhYZUt3NXBCZjVlemN0bDVzX1M1anB5Vlp2SURQbTlId0xFSXhlcXhJd3o3TW5DQl9xX1ZOR1BDaGNtYlExRHRBRUhyODR0LWZPRTR5c0hOVF9obVNiYVdoT2hIdFJER2F1Ul83RV9wTTg3SUU2ZmhDRVpWc1dOWC1ObFJBMG5SNVBtVVBldWxSc2s4MlRtZXRHdC02MXlLTzZPYkxNb1c?oc=5",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "published": "2026-11-02T15:46:00+00:00",
+      "lang": "en"
+    },
+    {
       "id": "54248b82a6624918dee5",
       "title": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials - Reuters",
       "summary": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials Reuters",
@@ -18795,6 +19265,16 @@
       "lang": "en"
     },
     {
+      "id": "a3b85a9d3fa12a12ebc5",
+      "title": "Stock market after midterm elections: What S&P 500 history shows - CNBC",
+      "summary": "Stock market after midterm elections: What S&P 500 history shows CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDV6NFVqYi14Um96RGV0c1dLZVhhMC1KQVVVUVNscnotVDFUWWJyVnVNWHhZUU1VZVhaZUJFQ19ONTRRVE9lUUJoMFB3d0ZrU19jaWZZZnlZUTM0TTl1NlF5d0ZzbzlmYjdLSjdQQVU4UlBLTk81Y2Q1WFFaODdPXzEtOXp5dF8zX0psTTJoeWNNQdIBlwFBVV95cUxNUVY5akw2aDVVZGhIOEhhZ1MwNTVZX0ZqSTdaeDdFVEV2OFQ1c0VUWGFkaHNtbWFTMElkMktPX3BuLTJPUXJuZVlqNEFtcFpsY2Q1clZ6Sk5sSFVXSmxqSGc5ekRxR2w5aDVIMU1hdW83X2YzWXB4dVkzOXNObkxqR0trSnQxU1A5dGRId2NRd0pnM0hmYXRV?oc=5",
+      "publisher": "CNBC",
+      "category": "Markets & Finance",
+      "published": "2026-11-02T15:35:20+00:00",
+      "lang": "en"
+    },
+    {
       "id": "65e95915f8a42c03a50a",
       "title": "Can Abuse Allegations Against a Celebrity Be Silenced Over Mental Health Claims? A Defamation Lawyer Explains the Unusual Case Gripping the U.K. - Variety",
       "summary": "Can Abuse Allegations Against a Celebrity Be Silenced Over Mental Health Claims? A Defamation Lawyer Explains the Unusual Case Gripping the U.K. Variety",
@@ -18802,6 +19282,16 @@
       "publisher": "Variety",
       "category": "Entertainment",
       "published": "2026-11-02T15:09:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "9e0ef01120a7069f40ea",
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years - BleepingComputer",
+      "summary": "Your Mobile Carrier Stores Your Call Logs for Years BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajlPVDg2RE8zU3pSalRfVV9USUR4UWtLRzN3YWNGaUN4NWRHNktoVVdXYlFhTDdyMVpjUDBFVHZwNmUyZjZ1MTJiRld1amtfMVA4bEdPNHhER1BFUUhCSG5aSUVESjU3ODdMSGE5VmwtQVVfUURIaktsUW5rWVVWU2FYVE9UV04xU0FiM2pjMHhKU2VBYjF1Z1RraG4xOHRs?oc=5",
+      "publisher": "BleepingComputer",
+      "category": "Cybersecurity",
+      "published": "2026-11-02T15:01:00+00:00",
       "lang": "en"
     },
     {
@@ -18822,6 +19312,26 @@
       "publisher": "The Guardian",
       "category": "Football",
       "published": "2026-11-02T14:34:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69a63fc975b134a96f18",
+      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike - The Verge",
+      "summary": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5NFBsYkc0QnM4dEt0ZnJ4dGpCclFaTFRHcTl4eHBnNnlYdmpLX3FPVzRUYWJRMWUyWlV2dE5tRWt0QXhKOGF1R1JGdUVZNHBTdTZURThfOU0zQVFQVmtiMDRNcXZFTEpRRlY1V1J3aVR6cEdoT1dFRWpleXQ?oc=5",
+      "publisher": "The Verge",
+      "category": "Technology",
+      "published": "2026-11-02T14:07:22+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "b0152d5247f9f149586d",
+      "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia - Dark Reading",
+      "summary": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNejFZTkZ4SkM3blN4N1Q0T1dkWnJmQU52bHVlOURKWUVuUU5FdUZ4aDRPeGc4UmxCMUt0S2czcHphcDZ5RUpwaXJXcThFeS1rd2pWdkZsMUdlcmNJTW5qTDZELS1aSTh0dlZNdEZ4OHhCWXlsX0FWOUMxM0dXVVZMbEFBaGxFVkMwZVlOY05LemxVaFltUmhrYmNuaWc4amNLSHdGWVpR?oc=5",
+      "publisher": "Dark Reading",
+      "category": "Cybersecurity",
+      "published": "2026-11-02T14:05:17+00:00",
       "lang": "en"
     },
     {
@@ -18862,6 +19372,26 @@
       "publisher": "BBC",
       "category": "Education",
       "published": "2026-11-02T13:49:16+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "ce1b02baa692f931972a",
+      "title": "Arsenal end Anfield wait and Manchester United beaten again: Football Weekly – podcast - The Guardian",
+      "summary": "Arsenal end Anfield wait and Manchester United beaten again: Football Weekly – podcast The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObXg5dlhiMmJZVkhwTmxRQ3J0TjktMWtXbFo3QWVwOGN1YWZDeWgwUXFXNFJ5dWtabmpKdnpNSU1zaUZRQlYzaG1kTzZNZWtoYmFVeThVQms2c1VYakhUcTVERk9HOGpvdFpsOGdndklaLTdYSFYzTmNXVWpaRTZsaUd1YzhjcWtHdVlnM3lSQkNMOVNQTTRaNm1fampYV2U0SVh3Q210eGlBeHBUU1B1T19ISkxmSmpwa25OdFY4OXExWnZDMmN0M21kZEFrd3RUWU5yZQ?oc=5",
+      "publisher": "The Guardian",
+      "category": "Football",
+      "published": "2026-11-02T13:28:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "7ed82928735a85cf70b9",
+      "title": "Xbox Game Pass Is Losing 14 Games In November - GameSpot",
+      "summary": "Xbox Game Pass Is Losing 14 Games In November GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkw4Y3BBekk2RXpya2o3a0QzcWt1eXpTV2hpU1dXOUxqMVRjdGdsdUh3SnJIc0ZJQUxUMXZURTVzaDZRSlFHaU9vZlJkbk4xTU00ckdsS1Z2Z0JXbFdwdEdDSzJHeURhZENXdTJwckQwUU9wdXpOelNPc1NtcWN1Q0d6aUh6Tmc?oc=5",
+      "publisher": "GameSpot",
+      "category": "Gaming",
+      "published": "2026-11-02T13:17:26+00:00",
       "lang": "en"
     },
     {
@@ -18925,6 +19455,16 @@
       "lang": "en"
     },
     {
+      "id": "47038e5057ba26b28320",
+      "title": "Apollo launches €10 billion European credit platform - Reuters",
+      "summary": "Apollo launches €10 billion European credit platform Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWZUNDh3NFhQaERXUU1neUtCdzBuUjNvM1lJcXRFR1JFQmdLSWFLSkVUcnRDX2ZXSkdOeF9jT016T2tmdVh6eHhWU1dQdFFTblpnTllJajQ4TFk1cHh5TDh0ZHlDQ1o3Yk5FeE9qMmRRS2tMZDhscEVBU1hmWlI4bEpyVTBMRWdCemZwOXFwamJXNVhZdEEwLThoMVNhYk16dTZSVG5QaXVmRk0?oc=5",
+      "publisher": "Reuters",
+      "category": "Business",
+      "published": "2026-11-02T10:50:55+00:00",
+      "lang": "en"
+    },
+    {
       "id": "8976ddd9c3275f6da1cb",
       "title": "Amir enters APL draft as UK national; PCB unlikely to issue NOC for Pakistan players - Cricbuzz",
       "summary": "Amir enters APL draft as UK national; PCB unlikely to issue NOC for Pakistan players Cricbuzz",
@@ -18962,6 +19502,16 @@
       "publisher": "Cricbuzz",
       "category": "Cricket",
       "published": "2026-11-02T09:20:05+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "3fd1a9bb46da958c14da",
+      "title": "Yakuza Series Creator Toshiro Nagoshi's Studio Has Officially Shut Down Before Releasing a Game - IGN",
+      "summary": "Yakuza Series Creator Toshiro Nagoshi's Studio Has Officially Shut Down Before Releasing a Game IGN",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0l4Y19yNjdVQkRqZ25rSEdxemR6S3dRQ3dENjlSNlYzX3g4cVV6VzJsTWp1WnFlSXFEbzhQbkVUYnFKbm11amVQYXFFcE5tUEFzRk16eG5tcG9OX18tS2lXbXJOVWEzUE9ZTmk3Qm5xak1CbmxKZjJuUDl2YS0wRmdDUWlwcnVTNllsdGtDamNKaXVnRy04dmJ4d3g0NTY5ZFZpR2kzX1pPZi1GU1Z2UE9yNmtNVGFvVk5sX1BVRTI?oc=5",
+      "publisher": "IGN",
+      "category": "Gaming",
+      "published": "2026-11-02T09:07:21+00:00",
       "lang": "en"
     },
     {
@@ -19115,6 +19665,16 @@
       "lang": "en"
     },
     {
+      "id": "f3f7088370298992a831",
+      "title": "NZ vs IND 2026: Mark Chapman, Rachin Ravindra ruled out of India ODIs - Cricbuzz",
+      "summary": "NZ vs IND 2026: Mark Chapman, Rachin Ravindra ruled out of India ODIs Cricbuzz",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTl5M0J1VE94ZTdmLWc0TDYtVGNhZVVwb19lTmFaOHR0MHRjTjdTTDVTdGN6TWlHdEsxdmhGVElUV1phWTBYemtjaGJYNGtUODFwT3czcmM2NXI5WVI0S2pUY0R6eFZkUkdBX2JzSjRiTXRObjhuZmhJcW96ZldScUtxdktzcG54ZUxrTGxaZGdWbzRYU2JEOU05V0U5Y3JrQzVfU2JmZlBObENxaHB0STNzdDA0Z3ZnaVV6ZXBPWXNWUQ?oc=5",
+      "publisher": "Cricbuzz",
+      "category": "Cricket",
+      "published": "2026-11-02T03:55:20+00:00",
+      "lang": "en"
+    },
+    {
       "id": "c9a3b236374020a90f87",
       "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp - The Daily Star",
       "summary": "At least 19 dead in Venezuela army attack on Colombian rebel camp The Daily Star",
@@ -19125,10 +19685,30 @@
       "lang": "en"
     },
     {
+      "id": "da6765d54579c067d3ed",
+      "title": "Resilient Gotham wins first NWSL Shield: 'That should be our standard' - ESPN",
+      "summary": "Resilient Gotham wins first NWSL Shield: 'That should be our standard' ESPN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGplb0Voa1BsTmlLdnhDb3NFbzB1LWFGU2xsbTZBVjV1eTU1MGhfcnlXa3JEVUVLQUlBU0x1OFNlTDF2WnZ0UzVJTWNwYTRQTnVJUGR4OFh2Tk1KMUx4UnlmbWVrOE1Nc0pnZFVVSGM0cDg2a2xqS05NQ3JVc1QtdF9YYw?oc=5",
+      "publisher": "ESPN",
+      "category": "Sports",
+      "published": "2026-11-02T01:58:00+00:00",
+      "lang": "en"
+    },
+    {
       "id": "aedad0b4465ba0fcb1d7",
       "title": "CSK may release Prashant Veer to free up funds - Cricbuzz",
       "summary": "CSK may release Prashant Veer to free up funds Cricbuzz",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk43U2ZfZmlBRDNMV0hHYzM4V20zRDBMUkFmX0RLdUgwZzVHM1dfUUR1Nkx1Z2JpejBZbkF6VTlwV1pTUnEzeXJGcnFuZjhab2R5dUNWYXlVd19Bci0yck9zTmwwalNsNXBDbFRWNlNqdldoUHVqMWV5R0tjc3Z4M1ZtUGVGYnZCZFRXeDlodjhHMDYteEE?oc=5",
+      "publisher": "Cricbuzz",
+      "category": "Cricket",
+      "published": "2026-11-02T01:26:21+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "9f136aa5a036615172fc",
+      "title": "CSK may release Prashant Veer to free up funds - Cricbuzz",
+      "summary": "CSK may release Prashant Veer to free up funds Cricbuzz",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2dBdENQeHFwSFROZkY5N0d6M0ZkWGdOWXNpQVJHMldCSXlNQl9uTEtUNmFDaXI1alBPNGdlV2t5QkQ5cDY3RzJkUElKSUpMaVJwcEtSYVRQLXRHVWloTlF2WUdId3FxVDhtNHhmRVgzZm5raVduZG95Y3JMU2Mtajg1ZkVXeFFOTFdWZ3UzYw?oc=5",
       "publisher": "Cricbuzz",
       "category": "Cricket",
       "published": "2026-11-02T01:26:21+00:00",
@@ -19162,6 +19742,16 @@
       "publisher": "The Guardian",
       "category": "World News",
       "published": "2026-11-01T22:37:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "2ff3b4a78333799a40f9",
+      "title": "Tumor index can identify breast cancer patients' drug response - Medical Xpress",
+      "summary": "Tumor index can identify breast cancer patients' drug response Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2RpdmFScFFGRmZ2aG9lVkRtcUtvVW1oNnZZSWp0NlZrbjQwSjJaQkNPdWxiQzJ5SUJZaEJERFlJZGYyRXRzcHRpXzZIR1c5dTBtSUFiYTJJWXBfNjVhRGVQNUdmYkoteFpiXy1xWkFJQ3RTd2dxamxOQUltNHYwcU1sMlA?oc=5",
+      "publisher": "Medical Xpress",
+      "category": "Health",
+      "published": "2026-11-01T22:00:10+00:00",
       "lang": "en"
     },
     {
@@ -19252,6 +19842,16 @@
       "publisher": "Dhaka Tribune",
       "category": "Bangladesh",
       "published": "2026-11-01T17:32:25+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "995ea6620bd2a4a0ca6b",
+      "title": "The UK must stick to its spending pledge on international aid - The Guardian",
+      "summary": "The UK must stick to its spending pledge on international aid The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQlNkRE1heFR3dFYzOS1zYnRNakItOURSejhrMG5TTy1GZWllRkZnbG1PUXpVZFdScENKRU05RWV2eW5YdEo4eFpjN3E0WmgwN0QwRm1XaTN2Z0Vub0Fkek9yU2xQZlN0QWM1U0tmQkY3bkYyRW12akgxVENOWVBEMnlhc2xBQUFIS0xWRTUtcGxZT0MtM0pVMmJseERmdXh4TzdfaXkyS3BxMS1rQ0xZdW9fclhVbUlvM0l1cQ?oc=5",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "published": "2026-11-01T17:30:00+00:00",
       "lang": "en"
     },
     {
@@ -19385,6 +19985,16 @@
       "lang": "en"
     },
     {
+      "id": "2c96fb0ee85d96e78843",
+      "title": "Iran, Qatari mediators hold third day of talks to end US-Iran war - Reuters",
+      "summary": "Iran, Qatari mediators hold third day of talks to end US-Iran war Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
+      "publisher": "Reuters",
+      "category": "World News",
+      "published": "2026-11-01T12:24:00+00:00",
+      "lang": "en"
+    },
+    {
       "id": "c682db9d4a586b8d9dec",
       "title": "Premier League today: How to watch Liverpool v Arsenal, TV channels & live stream Sunday 1 November - The Guardian",
       "summary": "Premier League today: How to watch Liverpool v Arsenal, TV channels & live stream Sunday 1 November The Guardian",
@@ -19431,6 +20041,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVm1YWWY0b0NaY3NXdVdEcEs1ZGxOdmViSC0tWXZETTJyNHg5UHZZcWxtcUlOWlpzZjM5X3JYdVMwUFJUeWFWZWl4S2pzMV9rQzliZzczZGt6MGROd3JPUURkRlEwNUJsbUw3TkJ5WXRKYWZEdldpN1U0SF9FY1l3SWRGVEhQWWZm?oc=5",
       "publisher": "GameSpot",
       "category": "Gaming",
+      "published": "2026-11-01T07:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "54866e8099856d78540f",
+      "title": "Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market - Reuters",
+      "summary": "Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
+      "publisher": "Reuters",
+      "category": "Markets & Finance",
       "published": "2026-11-01T07:00:00+00:00",
       "lang": "en"
     },
@@ -19522,16 +20142,6 @@
       "publisher": "The Daily Star",
       "category": "Bangladesh",
       "published": "2026-11-01T03:01:58+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "2f29b5780c368c4f4402",
-      "title": "Video Game News, Reviews, and Walkthroughs - IGN - IGN",
-      "summary": "Video Game News, Reviews, and Walkthroughs - IGN IGN",
-      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE5sZEllMHEyZ1lNeVJrTnNYRVEzbWljNFhteGphOGVOeDI3V1UwMmtmSGlBelRhTUk?oc=5",
-      "publisher": "IGN",
-      "category": "Gaming",
-      "published": "2026-11-01T00:35:50+00:00",
       "lang": "en"
     },
     {
@@ -19642,16 +20252,6 @@
       "publisher": "GameSpot",
       "category": "Gaming",
       "published": "2026-10-31T20:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "fea419f17b042388c4b9",
-      "title": "Latin America - BBC",
-      "summary": "Latin America BBC",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tYVBicU5zTWRyQmFhbnZadW5BZzN0VDZLb0gycFFVamM4bDRMMFQtM1VzZjZudmU4ZGRWcWVoekR3S2JOS25OYTJaWFhPd1dJcHp6QmF6UQ?oc=5",
-      "publisher": "BBC",
-      "category": "Politics",
-      "published": "2026-10-31T19:55:30+00:00",
       "lang": "en"
     },
     {
@@ -19925,6 +20525,16 @@
       "lang": "en"
     },
     {
+      "id": "f6ecaa91bc5905c51811",
+      "title": "Meet the democratic socialists likely on their way to Congress - AP News",
+      "summary": "Meet the democratic socialists likely on their way to Congress AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmdJTVZyUzBrOC10dFBTM1BDNkZkYjN3Yl9USDRFLTJ4ZlRfc1FXRDNSYlVYd2xWT0NaNi1FemJ4ZF9wMjNtelFpMlo4ZEI4ZldoM0JOTmg1dTFYd0dyM1hZMHdRQnRvZTRtRWN1bWRuOVY1QmhMTlBCNVowakZQMkdmMk85VTZQTnV3TTZOQXVCMFZUZVZSWkRNczYxZw?oc=5",
+      "publisher": "AP News",
+      "category": "Politics",
+      "published": "2026-10-31T13:26:00+00:00",
+      "lang": "en"
+    },
+    {
       "id": "813d84190d228220ca14",
       "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era. - BleepingComputer",
       "summary": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era. BleepingComputer",
@@ -20055,6 +20665,16 @@
       "lang": "en"
     },
     {
+      "id": "7b34527cab799a31d0f9",
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+      "summary": "Anthropic's path to the Nasdaq just got a lot bumpier CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
+      "publisher": "CNBC",
+      "category": "Business",
+      "published": "2026-10-31T11:00:01+00:00",
+      "lang": "en"
+    },
+    {
       "id": "bec627dc80542b40032e",
       "title": "Economy, Tech, AI, Work, Personal Finance, Market news - BBC",
       "summary": "Economy, Tech, AI, Work, Personal Finance, Market news BBC",
@@ -20065,16 +20685,6 @@
       "lang": "en"
     },
     {
-      "id": "e2cffcf4ffc569afa0df",
-      "title": "English Newspaper | Most Popular English News in BD | Prothom Alo - Prothom Alo English",
-      "summary": "English Newspaper | Most Popular English News in BD | Prothom Alo Prothom Alo English",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE8tMTZQYTJpWGJnS2k5Y1RIb1pjMGZsRm8yQW9Tb3dNWksxZFRZeTBla3JOMHRfSksxMzZ6dVY4VQ?oc=5",
-      "publisher": "Prothom Alo English",
-      "category": "Bangladesh",
-      "published": "2026-10-31T09:46:51+00:00",
-      "lang": "en"
-    },
-    {
       "id": "13e3b2b5686100a31251",
       "title": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension - AP News",
       "summary": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension AP News",
@@ -20082,6 +20692,16 @@
       "publisher": "AP News",
       "category": "Politics",
       "published": "2026-10-31T09:42:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "5ba3347929ba24e5e972",
+      "title": "India to meet liquor firms as domestic giants join foreign peers in Scotch dispute - Reuters",
+      "summary": "India to meet liquor firms as domestic giants join foreign peers in Scotch dispute Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3c1ZFF4ZEhYS1FqamR5U21kbFplR2Z5aDNoRnJ2SHNpN1p0Rk5tTElBUS1hNC1XS1lCNGtDTEd4blR1MG1OcUVMRkRQQzhRNHB3R1ctSHU0azZONlc0MzRsSGN1emh4UkQ5a1Nhd0pMbEJkeUpCTzNpbFp6NFREZDk4T3RyX3hZVFFleTZld3dJaFRUZU1KbUZodTFYM2RBQi1KV3lYbFpBZVE3UkE2SFNPbXlJOFRJbDVXVzNn?oc=5",
+      "publisher": "Reuters",
+      "category": "Business",
+      "published": "2026-10-31T09:22:39+00:00",
       "lang": "en"
     },
     {
@@ -20152,6 +20772,16 @@
       "publisher": "Cricbuzz",
       "category": "Cricket",
       "published": "2026-10-31T04:36:33+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "fd8566ba5205289b7780",
+      "title": "NZ vs IND 2026: Auqib Nabi added to India's squad for first three NZ ODIs - Cricbuzz",
+      "summary": "NZ vs IND 2026: Auqib Nabi added to India's squad for first three NZ ODIs Cricbuzz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjV6OFoxV3g5cTRoM1RfeTNSeVJYTnJzNmlEcjFGUXhXamcwc3ZrU0stRGZfaVZsRG9yNUNFQ0hjNGFKZmotbmpZN3RlLWlMMHRaLVlZU295UkdIR1dDNHN6REZTRnZGN3VQaEFHZEhmTGw2bzJpWU9ZeHVIaDdoUi1yNWI1bElKdkNyaGxrbHBmekdFTTBwdDRoM2w3NGVPWlE?oc=5",
+      "publisher": "Cricbuzz",
+      "category": "Cricket",
+      "published": "2026-10-31T04:36:15+00:00",
       "lang": "en"
     },
     {
@@ -20295,6 +20925,16 @@
       "lang": "en"
     },
     {
+      "id": "f461b1b47943d1f77da3",
+      "title": "List Of Hollywood & Media Layoffs From Paramount To Warner Bros Discovery To CNN & More - Deadline",
+      "summary": "List Of Hollywood & Media Layoffs From Paramount To Warner Bros Discovery To CNN & More Deadline",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZMmZCMVAxS0dWa2dKSGJNRFlUbk04SllZS2huVHpGN3RmT1pxdmxPQjJkbWF2cVVSR0VERTJHMWpLVEtoYXBCd0FWaG93VVJ4TEFsdXpIWG9kNDZ0c2ZodnRrbmlnTXExcUdBTGRHYkNEWkFxWWhtaQ?oc=5",
+      "publisher": "Deadline",
+      "category": "Movies & TV",
+      "published": "2026-10-30T23:30:00+00:00",
+      "lang": "en"
+    },
+    {
       "id": "6e25962bd373fc4b155e",
       "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune - TechCrunch",
       "summary": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune TechCrunch",
@@ -20382,16 +21022,6 @@
       "publisher": "NASA (.gov)",
       "category": "Space",
       "published": "2026-10-30T22:35:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "54866e8099856d78540f",
-      "title": "Wall St Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market - Reuters",
-      "summary": "Wall St Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
-      "publisher": "Reuters",
-      "category": "Markets & Finance",
-      "published": "2026-10-30T22:25:53+00:00",
       "lang": "en"
     },
     {
@@ -20485,6 +21115,16 @@
       "lang": "en"
     },
     {
+      "id": "8ee889cf3b738347d53d",
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers - MarketWatch",
+      "summary": "In a wild October for markets, these stocks were the biggest winners and losers MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbVVzd3JhZEZsbTlkT2ZJaFNQWHo5bk5NSTN3SzhQb096T3dVZG5vb1daUV9wNGlhV1RtOTUwSE1sU1J5MzVhN2I5bXJKc01yRlZPSnowTU1EZFc5S0NNUnZta0stR2RpaDItSTF2Tko4aFk4ZFBHeFh3WFlQTnFxZEw3eTVKd01zaXpobFdwYkotZV9qTzVnejVGelhaR2ppcV9xWmk5czFjTjF3cDA2ZXMybTFneHVtdGUtMVh3?oc=5",
+      "publisher": "MarketWatch",
+      "category": "Markets & Finance",
+      "published": "2026-10-30T20:52:00+00:00",
+      "lang": "en"
+    },
+    {
       "id": "dfbdc598a218dc03a69a",
       "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk - The Verge",
       "summary": "Sam Altman says it’s better for RAM to be in a data center than on your desk The Verge",
@@ -20492,16 +21132,6 @@
       "publisher": "The Verge",
       "category": "Artificial Intelligence",
       "published": "2026-10-30T20:48:43+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "734776260a19025f40c0",
-      "title": "DJIA | Dow Jones Industrial Average Overview - MarketWatch",
-      "summary": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbTdlUjJpbkdOZTFxc2pHeE82Nm4yLWF2OXk2UXhyaWFTbkpKeldySlBpeVN1eFlaRjRGWGhVQ3BzSmw0NElpek5MNGwwNDVSUWFKZUFHYXNudWdU?oc=5",
-      "publisher": "MarketWatch",
-      "category": "Markets & Finance",
-      "published": "2026-10-30T20:47:00+00:00",
       "lang": "en"
     },
     {
@@ -20552,6 +21182,26 @@
       "publisher": "Bloomberg",
       "category": "Business",
       "published": "2026-10-30T20:28:39+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "cb5c432281bded7da8d3",
+      "title": "The selloff in tech stocks is shifting into overdrive - MarketWatch",
+      "summary": "The selloff in tech stocks is shifting into overdrive MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXZabmZ0RG1rYmVxUC1wdUw2SGlpUUFYWDJzZi02S1htUHQyenhMTkxoTUtiQ29WYXJuRjJkZ3BfemljVXhKREtReVFGVGFzLXVsa3gzX1MzeEFPZWNPV0NWVnZYQW0zTEFaUl8yc2JEOHM0d2N3R3pYbGRmVUZabXktTG5KRVo0aWZOVExmTUZBaGJNUF84NkI1SGc?oc=5",
+      "publisher": "MarketWatch",
+      "category": "Markets & Finance",
+      "published": "2026-10-30T20:26:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "b4dcf19f4d110fe77b91",
+      "title": "Mexico economy beats forecasts in third quarter, cooling rate-cut pressure - Reuters",
+      "summary": "Mexico economy beats forecasts in third quarter, cooling rate-cut pressure Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVhhYVdMQ2RwaEJOMmVJUnhTTXZLZzdNVzl2cTlueWRodkpoTm9aYU5qZnBIanVOV0xMN1JhVHl0OXFWbTZ1WkNVYkt5QWZYTjlwdHJhZUhCOGZjVkJJNmpiVmpWMnVhSWw5aHQxR1Q3T0FXQVRkbExfbDF3QUpGTXJaRS0tT0h4ODJIOHhJUWpzc3M0M3BveEhCdVp1ZU9ndjFIY1hDZDc?oc=5",
+      "publisher": "Reuters",
+      "category": "Economy",
+      "published": "2026-10-30T20:22:23+00:00",
       "lang": "en"
     },
     {
@@ -20642,6 +21292,16 @@
       "publisher": "BBC",
       "category": "Entertainment",
       "published": "2026-10-30T18:22:49+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "f2c86defefcaf79e40b9",
+      "title": "I built the UK government’s metascience unit — here’s what countries need to know - Nature",
+      "summary": "I built the UK government’s metascience unit — here’s what countries need to know Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pWmlEY2xReE5wdVdDdl9LUUdneml0OUlmdDh1TDlkTkoySllpZkQwRUVRdzJSeE1waDgydXhSSkZSTnFDTUVma3VqMlBTTUltR0k2UjBUVUlJb0NqY3NR?oc=5",
+      "publisher": "Nature",
+      "category": "Science",
+      "published": "2026-10-30T18:18:07+00:00",
       "lang": "en"
     },
     {
@@ -20855,6 +21515,16 @@
       "lang": "en"
     },
     {
+      "id": "c5a12919840bed9be204",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people' - TechCrunch",
+      "summary": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people' TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNFdsRG9KSm05UlViamJobk9iZkM2VW1JdGpYSUNhOWNONThRYVE2MUJfM1BBVWl3TTg1ZFRpWDZsMm5jbUJITmR3TDFrUjFUUFFURlB0T0JzcnFoR3AyVWt2YjUxdnNpQ1FaWjFtS1RpVFh3TUIxZEVLU2JZdjZuaTNKM3VrWG5MYUx5T3RSOFBsRzVLRU1jR3hvTENDcFVGUjFSSldfQTNrd3VVM0xDUG9pbDlDZVFYVDhILS1sMG1ib29JXzNVZ0dzWlhSTFJWb3ZF?oc=5",
+      "publisher": "TechCrunch",
+      "category": "Artificial Intelligence",
+      "published": "2026-10-30T16:03:45+00:00",
+      "lang": "en"
+    },
+    {
       "id": "16b0a2fab08c7d64b25f",
       "title": "Woot’s Early Black Friday Sale Features Some Incredible Video Game Deals - IGN",
       "summary": "Woot’s Early Black Friday Sale Features Some Incredible Video Game Deals IGN",
@@ -20892,6 +21562,16 @@
       "publisher": "Reuters",
       "category": "World News",
       "published": "2026-10-30T15:41:38+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "2e41f33b18c06ff832a6",
+      "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending - Reuters",
+      "summary": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY?oc=5",
+      "publisher": "Reuters",
+      "category": "Business",
+      "published": "2026-10-30T15:40:01+00:00",
       "lang": "en"
     },
     {
@@ -21355,6 +22035,16 @@
       "lang": "en"
     },
     {
+      "id": "10a9a8777230abbf9304",
+      "title": "Jamie Dornan Boards ‘Nostalgie,’ Starring Aidan Gillen as Washed-up Pop Star, as Executive Producer (Exclusive) - The Hollywood Reporter",
+      "summary": "Jamie Dornan Boards ‘Nostalgie,’ Starring Aidan Gillen as Washed-up Pop Star, as Executive Producer (Exclusive) The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXJVLVhJYkJ1eHV3ei1ob0RuVnpxajdNRks1aXhTNjFRT1RHdGdHd0Q5WEdNRlpmajVPZUtlS0hSQV9fRGFGb2hOWlhjelA1SlJ3emZkaVd6ZjBiWFFGWHBpLXRlZGFFR0pCRXAtWGN4QnY3dEdKM2N4a0lKQldUbGY3SW9wWVZIc0d5c3F0SjRJaEs4TEpJV0c0TmNSQUlJVGloVlBkZmtlck9GX1plVUgyVjJWSDg?oc=5",
+      "publisher": "The Hollywood Reporter",
+      "category": "Movies & TV",
+      "published": "2026-10-30T08:00:16+00:00",
+      "lang": "en"
+    },
+    {
       "id": "a7653426da262204aa2d",
       "title": "Nvidia CEO Says Ties to Company Under Spying Probe Were ‘Normal’ - Bloomberg.com",
       "summary": "Nvidia CEO Says Ties to Company Under Spying Probe Were ‘Normal’ Bloomberg.com",
@@ -21362,6 +22052,16 @@
       "publisher": "Bloomberg.com",
       "category": "Business",
       "published": "2026-10-30T07:41:04+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "c4fe113ca53e7181e62a",
+      "title": "Capgemini raises 2026 guidance as AI push brings work to IT consultants - Reuters",
+      "summary": "Capgemini raises 2026 guidance as AI push brings work to IT consultants Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkhZRDBha01HSTlhU2VFQ2tJcjJTNXZCS3NBTl9pdjVXTnBMYVFRZjBTdzVzWlFVZmI4ckM2VVNzaVJXNFl1TjNMb1l5ZnJCVjJUOW4weUtIeC1paEkzb01VQktjTms2WFowZVpud3UyUmFVODVCWjNhNXVDNFgySTFLMURKN2dCRldULVIzcEYzSXNOMVBKXzluSkM1WmtTUUhndzFCUFk4d194akpv?oc=5",
+      "publisher": "Reuters",
+      "category": "Business",
+      "published": "2026-10-30T07:13:48+00:00",
       "lang": "en"
     },
     {
@@ -21452,6 +22152,16 @@
       "publisher": "BBC",
       "category": "Entertainment",
       "published": "2026-10-30T06:59:33+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "cc1f5c008e239c408bdb",
+      "title": "Sudden school closure 'outrageous', MP says - BBC",
+      "summary": "Sudden school closure 'outrageous', MP says BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aUFdDNWlrZGhiNVFKYW84VU5WblhLcG1HdV85ekRiMWFtenNEQlo1ZTFJSHZSQS1qSDVBWDVjRmh3Z3VJQVZTRGtVODVGeGctNVQycF9mUTE1WFk?oc=5",
+      "publisher": "BBC",
+      "category": "Education",
+      "published": "2026-10-30T06:06:40+00:00",
       "lang": "en"
     },
     {
@@ -23055,6 +23765,16 @@
       "lang": "en"
     },
     {
+      "id": "402d5dd069cec99b7b18",
+      "title": "TV Ratings: Why Fox News Suffered Its Largest Pre-Election Month Drop in the Past Decade - The Hollywood Reporter",
+      "summary": "TV Ratings: Why Fox News Suffered Its Largest Pre-Election Month Drop in the Past Decade The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWgtTWhQXzJTZ1dmaWpGR3YxcEc5RmI4Mjd2M1F2cG5qdldZVWU2T1NXb0d3ZzVEQjZjVnhOX2psRUFxdjZDUC1sX2xNNkVNc3JBdnplcG5lUmM0czdZUWxWa0g5MUVQWnRROWhXajE1V3F4aHJ4QjBJRVMzeUxZWXRCY1lVZFREam40UG9LSEh5OUc5V3FDN0lwQQ?oc=5",
+      "publisher": "The Hollywood Reporter",
+      "category": "Movies & TV",
+      "published": "2026-10-28T22:04:20+00:00",
+      "lang": "en"
+    },
+    {
       "id": "c11464a54e1d5228a8c0",
       "title": "Google expands AI Search ads globally as core ad growth slows - TechCrunch",
       "summary": "Google expands AI Search ads globally as core ad growth slows TechCrunch",
@@ -23102,6 +23822,16 @@
       "publisher": "TechCrunch",
       "category": "Technology",
       "published": "2026-10-28T21:34:30+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "c1bf6c25144b92f81ce2",
+      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference - CNBC",
+      "summary": "Here are five key takeaways from the Fed rate decision and Warsh news conference CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HTy1FRHJET2ZsWjdodm1pYU11UnkxQnJwU09YdjVUQV9xaEJfc2V6blhkdHJNV3ZLTGtaZ3lYZ2pYTElPQXVLMFl5T2IwVkhaWUo4Y2hrZGxfMXJ3d1NaYXhTSHBXM3RnS2NJMzA1cUppWGxRelEta1pR0gF_QVVfeXFMTXBjUk5HbWZHZHBtbFdrTDU0c2FpdUxrQmtCakJZTUxQUWdCYXcydWFfVmFDdnViazVkRmxhOHNuR1ZNdmdpSUFZUEt4OXphUlR2bjNqejg4UkpZZ3VNWU9DZ0RTMnUzd1lPUEphVTZXV2ktV3BUYXBJNDZrVVRZaw?oc=5",
+      "publisher": "CNBC",
+      "category": "Economy",
+      "published": "2026-10-28T21:31:46+00:00",
       "lang": "en"
     },
     {
@@ -24842,6 +25572,16 @@
       "publisher": "Reuters",
       "category": "Markets & Finance",
       "published": "2026-10-27T19:04:47+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "36476451cbbb8e8bfb98",
+      "title": "‘One of Them Days’ Filmmaker Lawrence Lamont to Direct Ice Cube’s Newest ‘Friday’ Comedy (Exclusive) - The Hollywood Reporter",
+      "summary": "‘One of Them Days’ Filmmaker Lawrence Lamont to Direct Ice Cube’s Newest ‘Friday’ Comedy (Exclusive) The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODNaUDZoX3lLZi1NVmh6OW4zbFEtazRXU2o1YmtjaDdoMUNsazEwTnY3RUdNV3VHQjB3cmJERFNDNzNfeXdYZ1lqWXZRalRvbWRwb2ktdHJReHB1QmR1a3VTeDYyQlNUNmNrT1dNcktvcFBvVkxkazlXWloxWGpSOXI3QnowVkpHRzZlTjRScEdaenB2ZkhCM3RObWw3V29OM1E?oc=5",
+      "publisher": "The Hollywood Reporter",
+      "category": "Entertainment",
+      "published": "2026-10-27T18:58:19+00:00",
       "lang": "en"
     },
     {
@@ -29415,16 +30155,6 @@
       "lang": "en"
     },
     {
-      "id": "2398c470127a763d8af0",
-      "title": "LVMH-owned watchmaker Zenith to cut jobs, shift upmarket, source says - Reuters",
-      "summary": "LVMH-owned watchmaker Zenith to cut jobs, shift upmarket, source says Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUE9WYm1qY2hqOFFhMlZyY0dsX05GNHFpN0g2Tjd0NjA2b0ZKQVZwY241VEVCQ2xzQ1RWUEVQM1dkSVVCTXE4RGJDMXFnclFZcUZoR0JrUld6SFg4OE9JVlpIN093SW5vaUlELUZMQld0d2JuOFd0VlhjWjNPS1FZMXhoUnNuQnBzQS1JcDZ6bnlNbUV4SUVvS3dMS2JhLXU0Z1FPMDZFcEZ6S3FwVGxxOUMxaGNRay13SmlKMmt1cFJlTTA?oc=5",
-      "publisher": "Reuters",
-      "category": "Business",
-      "published": "2026-10-23T12:14:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "19725a2a2a0ccf1e7094",
       "title": "BioWare's Future Was In Jeopardy Well Before EA's $55 Billion Acquisition, Analysts Say - IGN",
       "summary": "BioWare's Future Was In Jeopardy Well Before EA's $55 Billion Acquisition, Analysts Say IGN",
@@ -29635,16 +30365,6 @@
       "lang": "en"
     },
     {
-      "id": "55667ed6865f9f127c7e",
-      "title": "Anthropic’s Pitch to Investors Starts With Taking Their Jobs - Bloomberg.com",
-      "summary": "Anthropic’s Pitch to Investors Starts With Taking Their Jobs Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1ZHY0Z3dkdON2dSODRJUFZHMHVNcHFZVjgtRUZ3YldQemdvSmcxMHpfVWhWUFNIamZhd1JySF9WYVIzZFJOVjJuZTY4dGFaNUZLVTVkdEdFSnk4NmFiQTUzY3JiQ2Q5SWxnbEdIenBwa2ZrRHU0RVhESFh0OG10dkthaExqZ0p0QmFkWVhmQ1pFdjBKYzg0cXhWQ1A4b090UHJwd2pJLVdRWGpCSEE?oc=5",
-      "publisher": "Bloomberg.com",
-      "category": "Business",
-      "published": "2026-10-23T08:00:10+00:00",
-      "lang": "en"
-    },
-    {
       "id": "f8a0895f6d362bee9e1e",
       "title": "First personalised cancer vaccine cuts risk of disease returning in major trial - BBC",
       "summary": "First personalised cancer vaccine cuts risk of disease returning in major trial BBC",
@@ -29775,16 +30495,6 @@
       "lang": "en"
     },
     {
-      "id": "6ab722ec3edcf7ed37ae",
-      "title": "China Is Said to Tighten Scrutiny of Listed Company Spinoffs - Bloomberg.com",
-      "summary": "China Is Said to Tighten Scrutiny of Listed Company Spinoffs Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXk1Sk1jbWdKU19YakhUSldKaDMxVnpXOWJaVXdQZy1NaEc5ZVJjdjNJc1Q1a09wTC1PU04wT2gtQ0NQczdXSXc5VGxzWlp6Vk9xaVAxZUlHT2dTeUVYYjZnYVZWV21TbTliZlNuVjN4dmRKT0p4aVFNSVA4MlRwMHg1X0YwczZOZ3l3M3BWZE5XNFpTbmZ0RFdNd2VGbGs5eWc3YnhRX094V1NTT1c3TQ?oc=5",
-      "publisher": "Bloomberg.com",
-      "category": "Business",
-      "published": "2026-10-23T02:16:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "a724ad8bbe96ab5b07ce",
       "title": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother - AP News",
       "summary": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother AP News",
@@ -29802,16 +30512,6 @@
       "publisher": "The Hollywood Reporter",
       "category": "Entertainment",
       "published": "2026-10-23T01:04:42+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "734eb4912b2269d3f3e8",
-      "title": "What It Really Takes to Build a One-Person Company With AI - Bloomberg.com",
-      "summary": "What It Really Takes to Build a One-Person Company With AI Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODZnelc1bm96QklqR2tMUWREMldTbmZ2RDhBOF9iQldyQWlYRHdHSFVzUEo4Wi1odTNVNGx0bjlhUUlRRklDQzkwejdZbUp0Nmppa1d6ajVPajJZekl1WjdDSENkdnJaWXZRcE43R2dfWUp3LWRqZmRfbmxRX1R2SExsZWNHem81YXpyYWU2TkpyS1dycG1zTE9YWThoLVMxTDZwdXFOOF8zanZhNGNJ?oc=5",
-      "publisher": "Bloomberg.com",
-      "category": "Business",
-      "published": "2026-10-23T01:00:00+00:00",
       "lang": "en"
     },
     {
@@ -30125,16 +30825,6 @@
       "lang": "en"
     },
     {
-      "id": "c6ea361eacd96cf1a579",
-      "title": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC - Bloomberg.com",
-      "summary": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWU0S2RSc3UweGd3OGdmMlF0VVNnQ3paTmp3SjhrT0hxMUU2eXdDRGp2cXl6S043dFJ0Z0Z6RnhQb3g0NjJTRWtDYWx1YzJJTFdkemRIbkFHY2Yybi1WUjc0Sk5aX1NEblZBUURoakwxUEFCdUVmRFRlbnF3blhpczNwLVlzZERvVnpZaVIxa2hCdk1za0VJTnFoQjZxc1BvZ1NWSElxWVlJUlpnalFrc1lB?oc=5",
-      "publisher": "Bloomberg.com",
-      "category": "Business",
-      "published": "2026-10-22T19:34:03+00:00",
-      "lang": "en"
-    },
-    {
       "id": "e78b9f6693400614d9c2",
       "title": "‘Now You’re Pushing It’ — Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game - IGN",
       "summary": "‘Now You’re Pushing It’ — Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game IGN",
@@ -30315,16 +31005,6 @@
       "lang": "en"
     },
     {
-      "id": "5604e84e3704fb39751c",
-      "title": "India's eMudhra exits website security business after flaws trigger global alarm - Reuters",
-      "summary": "India's eMudhra exits website security business after flaws trigger global alarm Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTZpekQxR0pOZEphU3hQT0ZFVTZqMVcwZTVzcndlQk0xMng0d3R0SFdWblpxVnpPR05TTnJGOU5JWFBBbjhCS09JaEd4VnlpTnpiRFk0ckpER0lkdU5BQWI3ZzZmVnRYcW9jNUd5Zl9pcXE1YktldnlnSFZKTG9JZUZNZVFGYmw3VDBBcUVWWUlmNlFDNDFxbkJ6bExGcW9EZjhUNi1nenZHemliLWV0YmdmMjB1M1hWTHBKT2FB?oc=5",
-      "publisher": "Reuters",
-      "category": "Business",
-      "published": "2026-10-22T16:46:11+00:00",
-      "lang": "en"
-    },
-    {
       "id": "e03214cab1ee14cf1ac3",
       "title": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this - Eurogamer.net",
       "summary": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this Eurogamer.net",
@@ -30362,16 +31042,6 @@
       "publisher": "Space",
       "category": "Space",
       "published": "2026-10-22T16:14:56+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "91ced51455854f4ced6a",
-      "title": "Pershing's Ackman sees a $1 trillion Israeli company within a decade - Reuters",
-      "summary": "Pershing's Ackman sees a $1 trillion Israeli company within a decade Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHZsSVNpYWhSNWR0RG9fTFFreXJqNTRpT2x2ZlA2aWVjeS04a3ZXejYwdDN6WGN0WVg0YkZhdFZvLVc1elFrOWZIbXpQVFNCNTJNOTI3TllyblpwYXFNaTk0cnZBeGZ6b2hESm8yR0lZYzlCcmRMaU1tOXBZM3o3U3pWRWVkT2RZR2pKSVNocW9URmpMSkQ3bW9ySmRZcDlWenpHUDg0NWV5ZWdtZEp2cDJIclVFUQ?oc=5",
-      "publisher": "Reuters",
-      "category": "Business",
-      "published": "2026-10-22T16:07:44+00:00",
       "lang": "en"
     },
     {
@@ -30422,26 +31092,6 @@
       "publisher": "Reuters",
       "category": "Politics",
       "published": "2026-10-22T15:49:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "263b7a5e179e6a35b36d",
-      "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions - AP News",
-      "summary": "European Union awards top rights prize to International Criminal Court days after Trump sanctions AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUlQcXVrZnNtRVFtb0d0VldXeG1ya1htcVJyMXVjVklUYTZIZ0p6NXRORTdhY3dtLVRJbDdkSXN3Zm1NUnNTbkFrRVlnWng4VUJ6NVFselBpS0ZrNkhJdTlONVVnbVhYQnhrQ0thRW9oYmk3S1lEQmJaLTJadmhOdV9fSmwzN2diNVU0M0NwWFRITUxuTGlmQjhMdlNFOVZVbks4Wk9jZ2Z6Q1hE?oc=5",
-      "publisher": "AP News",
-      "category": "World News",
-      "published": "2026-10-22T15:43:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "e5032b9932f1848df90c",
-      "title": "Investors see risk from US midterms to AI trade as data center backlash builds - Reuters",
-      "summary": "Investors see risk from US midterms to AI trade as data center backlash builds Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1FMNjdldVFMRjM1VlhaMGJCSG9GR3d4TzBjRVUxRk1NYnpHZWxDU1BLNVN4Y1BxUHhrdDhCc3JDYXpiN0c1T2NGRHFRNUxRcEFFVkpadTYxX0h4QXREYWtEZjVyOVJSdkQ0NlBnS05lRVlTUzhVNTRrdGNpbGM4blFKb2NiSnktRGdERWV4R1psd3BqbTROX242TjBkbFl2RVVhenBXVDZEVks3M1FsYTZBOGhhYVRfT0s1TmZ4SXQ?oc=5",
-      "publisher": "Reuters",
-      "category": "Markets & Finance",
-      "published": "2026-10-22T15:31:01+00:00",
       "lang": "en"
     },
     {
@@ -30515,16 +31165,6 @@
       "lang": "en"
     },
     {
-      "id": "1ef619318a5d1c41395c",
-      "title": "Opinion: The 3 questions every AI investor needs to ask right now - MarketWatch",
-      "summary": "Opinion: The 3 questions every AI investor needs to ask right now MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3I4MUFKU1gtRWltTFFKd2NrSFNQRWVjUnA2c29ka1JVamdCalotZkFBeHo3aWJhc0RGRm1GWDlRVVhiLXVyR29hSm9Jc19mNV9GQU1neVF6R3VXeUFRU1JGSC13dkUzdUlUTTZTRTZWYWtTVXNFem9ycDJvUWhTcWM1Tnl3MlFPOFVYQ1FxamhXWmxfSE45cElGVFR5N0I5?oc=5",
-      "publisher": "MarketWatch",
-      "category": "Markets & Finance",
-      "published": "2026-10-22T13:21:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "433eda7d0054506f746f",
       "title": "DeepSeek reportedly raises $15B days after US restrictions - TechCrunch",
       "summary": "DeepSeek reportedly raises $15B days after US restrictions TechCrunch",
@@ -30572,26 +31212,6 @@
       "publisher": "Eurogamer.net",
       "category": "Gaming",
       "published": "2026-10-22T12:56:13+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "e576c8a5276bbaa1f8c3",
-      "title": "International Criminal Court wins EU's 2026 Sakharov prize - Reuters",
-      "summary": "International Criminal Court wins EU's 2026 Sakharov prize Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdElPcDNTcVk5allvWkY0OXlpbmdsU3hSaTVvaXp3T0djOWZNM1YtMElQMTRQUHdJQTRWeng3RjVFMTVuTTYzZXhiWDZYLWpmQU8wdnJYcVVISU9ONUNNY0xfa09ieTNGZmFsOF9EZ0pUNzZhUXhmQUt6Z3kxRlJBWlN4VXFGNm82RUVIejRnZGhoRm5QQk9JUjFuYWl1XzAy?oc=5",
-      "publisher": "Reuters",
-      "category": "World News",
-      "published": "2026-10-22T12:51:51+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "2132e80ce6caaaa74ca7",
-      "title": "Our top 10 things to watch in the stock market Thursday - CNBC",
-      "summary": "Our top 10 things to watch in the stock market Thursday CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGJNM0lxS1Z0Vk9DQ0ZVdUFlY3BDWDh1cFU3ZFQ1YTdkbjRneFlrcVg2cEg3MlRaaHpLckYxUm1HeTY2WXk5NXJrR19MNE9FajN1LWVHNFpqeEhvdTRPeHphWkd5YXB0WlRUZTJ1dnJTMnlaTUZucHVnTVo4Z0JLMUpSN1o1eW1XVEpuVHBvX0ZramhzX0xMSWhjUG8yc0s5MEVoZExjSU5RUQ?oc=5",
-      "publisher": "CNBC",
-      "category": "Markets & Finance",
-      "published": "2026-10-22T12:51:20+00:00",
       "lang": "en"
     },
     {
@@ -30795,16 +31415,6 @@
       "lang": "en"
     },
     {
-      "id": "33c32713c8a0fd530bdb",
-      "title": "Japanese investors sell foreign bonds for fifth straight week, eye home market - Reuters",
-      "summary": "Japanese investors sell foreign bonds for fifth straight week, eye home market Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWFpYXNMY0l3alFBQnlRTUNpdUl4aUlld1F2VmxJb0ZETkVqM0FNWHFqQlZxSHhNM3VhdnlpQW1CV3I1ZDRWNGhQVXJ3QVFyX294cHFScXYtNVEzYjlyUHotQm5vWHRlQXQ4SW03cDZSaWRxSXJtQ0Jaams2eWxVYXhEdEUxcFdnRnRPdS0yRy05ODkyMGMtZk1DSHZsRjVtM0I5bXRkLVlqVkRHUV9HQmZTWEdrRTBUMTNFbnF1RTFNTHg2amQ4?oc=5",
-      "publisher": "Reuters",
-      "category": "Markets & Finance",
-      "published": "2026-10-22T06:37:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "c5b16c8e749b5a0e1f4b",
       "title": "Sheffield Olympian Dame Jessica Ennis-Hill honoured at former school - BBC",
       "summary": "Sheffield Olympian Dame Jessica Ennis-Hill honoured at former school BBC",
@@ -30855,16 +31465,6 @@
       "lang": "en"
     },
     {
-      "id": "1c8055fd7ca1714377b9",
-      "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
-      "summary": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
-      "publisher": "CNBC",
-      "category": "Markets & Finance",
-      "published": "2026-10-22T03:30:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "562485595672d6adc044",
       "title": "US embassy accuses Canada of brushing off allegations of election interference - BBC",
       "summary": "US embassy accuses Canada of brushing off allegations of election interference BBC",
@@ -30872,16 +31472,6 @@
       "publisher": "BBC",
       "category": "Politics",
       "published": "2026-10-22T03:05:28+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "ef1f87d5b735cb233cf1",
-      "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates - AP News",
-      "summary": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFRhSTJyT3RrVXFVUzRQRnpqUndyLTduTjdsVGdNdFQzandyVk5DRU1tcUZaX0xWWW4ycmxYSmpzcmN6UjJ1Mk0ycGpSOHVtZlJOaWo1b1J0RVlnelJJa3dTYWg2M1RYN3M3UVk2MHU1cUM3TUpETkpfWUI2eDl2amNLQzBJWDVxa1lxZEtBWlJYNFBrRDM1V3ZUQ29NTmRI?oc=5",
-      "publisher": "AP News",
-      "category": "World News",
-      "published": "2026-10-22T01:13:00+00:00",
       "lang": "en"
     },
     {
@@ -30925,16 +31515,6 @@
       "lang": "en"
     },
     {
-      "id": "238ba8b1fb8a6d529735",
-      "title": "BioWare Shutting Down, Next Mass Effect Canceled - IGN",
-      "summary": "BioWare Shutting Down, Next Mass Effect Canceled IGN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa0tjeEhRWnBDTnQ5bjVDMzhNSDBDaEFwS0pldlFpRFFVc2tjeGVDMkZ4Z01PTGVudkpkczBhUV96ODJMTW1DS3BFY3FzcUhZOW5Vb0tnZHJ1SFQ5R3ZXT2xVcVdoSE02ZmxXeldNTFNHdk9oalZOREQxazVtcVJhVXF3?oc=5",
-      "publisher": "IGN",
-      "category": "Gaming",
-      "published": "2026-10-21T23:07:54+00:00",
-      "lang": "en"
-    },
-    {
       "id": "c588b2cbdb64d63e1116",
       "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study - BBC",
       "summary": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study BBC",
@@ -30962,16 +31542,6 @@
       "publisher": "The Verge",
       "category": "Artificial Intelligence",
       "published": "2026-10-21T22:33:44+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "166362752a6dc7a4f359",
-      "title": "Retired NYPD detective arrested in road rage killing on George Washington Bridge - AP News",
-      "summary": "Retired NYPD detective arrested in road rage killing on George Washington Bridge AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVERvU054QlZZQ1FzcnkzZzNiTkxjSjg0TjY3VFdnR3Y4cVlQV3dCNThjVWpCYUFBMTQ4dm50R0tuM2I5cFRhXzFORFJSRkhPTEVFYl9wdXhZejgwVlhwZlJ0VGhDZmJBa2ZqM1JfcDRTRXhkOGxIOENuQXVoRTZzY1F4d1Z5SVhWQnppbTZFb09pXzNIWlZUUzNVOW4?oc=5",
-      "publisher": "AP News",
-      "category": "World News",
-      "published": "2026-10-21T22:23:00+00:00",
       "lang": "en"
     },
     {
@@ -31025,16 +31595,6 @@
       "lang": "en"
     },
     {
-      "id": "13ea3e751cfe76b8006d",
-      "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
-      "summary": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
-      "publisher": "AP News",
-      "category": "World News",
-      "published": "2026-10-21T21:20:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "ecf5a5e23b2bb1c55e40",
       "title": "PHP: The three letters that shut down sites all over the internet today - The Verge",
       "summary": "PHP: The three letters that shut down sites all over the internet today The Verge",
@@ -31042,16 +31602,6 @@
       "publisher": "The Verge",
       "category": "Technology",
       "published": "2026-10-21T20:36:56+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "3ad405cc680c69fd6ef9",
-      "title": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other Big EA News That Just Happened - GameSpot",
-      "summary": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other Big EA News That Just Happened GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOEZrbGd0cDVtbHptNEE5R1VTLVE1UzhXdW01d3JoTGx6ME10T01WR19FaW9rT1ZfVE9zaEIyZGcxQ0RqRUhXWlVCOEdTM2tYYy0xMnc1TEFuVUxTV05lTWd5RTAyUVB6NWg4T0xONmZ4REdxaEdsQzBtM1B0eFpLWnlWNFh1ZGR5MUF6RGMycWpqODRIWTlVWWJfbU9IWDA1NjVSUnpDNlVyTVRnZmVuSFljek9jSi15LTVqeTBvc21fZmhiQ2ZsenJYNUtjeTdtZDV4d2NuTWNDbEE0THc?oc=5",
-      "publisher": "GameSpot",
-      "category": "Gaming",
-      "published": "2026-10-21T20:31:13+00:00",
       "lang": "en"
     },
     {
@@ -31202,16 +31752,6 @@
       "publisher": "Variety",
       "category": "Movies & TV",
       "published": "2026-10-21T18:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "28389fb2b72c3747c4a2",
-      "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare - GameSpot",
-      "summary": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY1NlNGQtallOUEFzOVEybkNIZjFfclFETW5SaFNHUmJQcE8taTdNUTF3T1NfZWlXbUY3T00tcHBmaW5sMGFrLTBWanZUQlVobm1rbDdzLXZWWUxoWTVnbFNEX0J5UnMybV9xNWJQWmttYTVQcmEtM21iZlFwZHU5RDU1cFpLNHFITE1tV3JOOA?oc=5",
-      "publisher": "GameSpot",
-      "category": "Gaming",
-      "published": "2026-10-21T18:12:23+00:00",
       "lang": "en"
     },
     {
@@ -31615,16 +32155,6 @@
       "lang": "en"
     },
     {
-      "id": "a08787f8d951a6228dc4",
-      "title": "Prime Video Adds Sony LIV To Indian Offer - Deadline",
-      "summary": "Prime Video Adds Sony LIV To Indian Offer Deadline",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2MV9HNkRKYzBtQVVrMWlyOTQxdTdOMEVES2x2YnpqazRDS0JEenhOYnN2MVVyUTlCYXJyLW5oc1NxNVZZOWNBemdNRjNWRXdjQko0NUV2TmRQQzlrT2wxY282R2xIVGR1ZC1TamNpMjhxWHRQSExScmdYR0w?oc=5",
-      "publisher": "Deadline",
-      "category": "Movies & TV",
-      "published": "2026-10-21T08:21:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "ccd4f7ada7eaa52d0966",
       "title": "Champions League sets new goals record this season - BBC",
       "summary": "Champions League sets new goals record this season BBC",
@@ -31865,16 +32395,6 @@
       "lang": "en"
     },
     {
-      "id": "0195a483b440118170b4",
-      "title": "Ted Sarandos Addresses Netflix Content Exec Purge: ‘I Know That We Could Do Better’ - Variety",
-      "summary": "Ted Sarandos Addresses Netflix Content Exec Purge: ‘I Know That We Could Do Better’ Variety",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWdpUjhuQUJYY3FuVlpXN1BZQnBHbEpEQmcwWkZIQXVfbUdBM0w1MEJwREs2UElWdDRTakJvWlNvMk9kTlJmVWZrTERmTHVsc0V3MjczZUVUQ3Y2SndUc3lnclZ0dDhmVkJxNExibkZLaGZMUDV5UkpCdjZrbTVxd2xaUGJoQXROdkVackpTZ215WGNUeWcyMW9B?oc=5",
-      "publisher": "Variety",
-      "category": "Movies & TV",
-      "published": "2026-10-20T21:01:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "81955bad07baae700693",
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow - BleepingComputer",
       "summary": "PHP warns admins of two critical flaws, emergency patches coming tomorrow BleepingComputer",
@@ -31995,16 +32515,6 @@
       "lang": "en"
     },
     {
-      "id": "7845d56c62c7b1cbafc5",
-      "title": "Nudity Banned from ‘Friday the 13th’ Reboot, Showrunner Says: “That’s America” - The Hollywood Reporter",
-      "summary": "Nudity Banned from ‘Friday the 13th’ Reboot, Showrunner Says: “That’s America” The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFBkNG1helRtdk1WTG5uZ2tEb3dSMm5jN0l1WWdWRkVkVVBYTHNJQktsb3hUbEp2dlB1eEo2MU1QWlhodmpPckpUTW9hNU1WeXpXRmNMV2RHR1N0VUU5TzFDbS1mZ2w5S1NTMVg5SFA2SS10dXdNRWpEQU5tZm9UblE1cFlKeC0xNmZtS2NQLVZtLUZoYjF3OVRxWXBJaUQyTGxJcGZhSUhKTWV1M0VvUg?oc=5",
-      "publisher": "The Hollywood Reporter",
-      "category": "Movies & TV",
-      "published": "2026-10-20T17:45:46+00:00",
-      "lang": "en"
-    },
-    {
       "id": "0ea8c71db93f4487bfce",
       "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds - The Verge",
       "summary": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds The Verge",
@@ -32022,16 +32532,6 @@
       "publisher": "Dark Reading",
       "category": "Cybersecurity",
       "published": "2026-10-20T16:17:17+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "c4da5ca5db10e27ecb28",
-      "title": "Streaming Guide JustWatch Launches Its Own Service With Titles From 30 Global Content Suppliers - Deadline",
-      "summary": "Streaming Guide JustWatch Launches Its Own Service With Titles From 30 Global Content Suppliers Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMk9obk9DYThReHJ4UWU5Q0ZsMGVTai00ck8tUTgxa0p4aGlCZUFyZU1iSXdNQ2Z2TWJKeW5tdkZINHNnc0ZFcHROeHppbXRGaDV3N1k4RktNODllU0twdENmWTZSVHhQbFI3N2Y2Yjc5bGRnalcwVnowZ2tlUjZVMVlxdU1uZG10UExB?oc=5",
-      "publisher": "Deadline",
-      "category": "Movies & TV",
-      "published": "2026-10-20T16:06:00+00:00",
       "lang": "en"
     },
     {
@@ -32155,16 +32655,6 @@
       "lang": "en"
     },
     {
-      "id": "fc779ab392df53464212",
-      "title": "Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince William: ‘The Most Important Thing Is to Reconcile’ - Variety",
-      "summary": "Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince William: ‘The Most Important Thing Is to Reconcile’ Variety",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzhlX3lZRERnb2tuZDBPOFY4eTNtZi1vd1BLaERwUU44RDNJb3FEN3NEaVdmZU1rS293YTNoMmc1WEktY2xQakJWaWlhZmY0aktBbjhXNzlsNklVdmZ2djF4eFVBUkc0VUViODljVXhzdVpXZ2w0WjlXSVBPVUdZOEJBMlNpb3ZiQnZydnNSX0FBME8xQnowTGw5Wlp6WDA?oc=5",
-      "publisher": "Variety",
-      "category": "Movies & TV",
-      "published": "2026-10-20T12:37:00+00:00",
-      "lang": "en"
-    },
-    {
       "id": "07028a0018db6989bec3",
       "title": "Christina Applegate Reveals She Was Misdiagnosed With MS: ‘I’m Back at Square One’ and It’s a ‘Mindf—’ - Variety",
       "summary": "Christina Applegate Reveals She Was Misdiagnosed With MS: ‘I’m Back at Square One’ and It’s a ‘Mindf—’ Variety",
@@ -32222,16 +32712,6 @@
       "publisher": "The Register",
       "category": "Cybersecurity",
       "published": "2026-10-20T09:57:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "ed6417b783ec1c995d4f",
-      "title": "'If I'm Fired Tomorrow It Will Be Because I Told You the Truth' — Xbox Business Strategist Deletes Social Media Account After Accusing the Game Industry of 'Pretending to Not Use AI' - IGN",
-      "summary": "'If I'm Fired Tomorrow It Will Be Because I Told You the Truth' — Xbox Business Strategist Deletes Social Media Account After Accusing the Game Industry of 'Pretending to Not Use AI' IGN",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMURpLW5hTmJ1REtlQ1Zmd013QUYyS2N0Qm9aS19mNm9vWHZKbGpDS3N5NVc5ZmQ4dDQ5aS1Bem0wdmRTV181Y2xRVkJqSzRYSHFzNE9qRXRsRjIxZHRoRlA2U2xuQzc5bkUycThzd0NjM29YS0NNRHp2aWsyRWtwM01QWlA4Zmgzc3pzMlQ4QlNWRmhJMlhUZFlFZDJFNUdLNkNjeDBRWnJJa0RCZkxfLVgyblNlZS00aGNxSEVPU2hUXy1CcGRqbmU4Z3dlWG5icW1yOFdZMUJKSThra0ZfLTYxNVZLQ0N0NEF1cw?oc=5",
-      "publisher": "IGN",
-      "category": "Gaming",
-      "published": "2026-10-20T09:30:26+00:00",
       "lang": "en"
     },
     {
@@ -32342,26 +32822,6 @@
       "publisher": "MIT Technology Review",
       "category": "Artificial Intelligence",
       "published": "2026-10-20T07:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "ca0c00a7e817b38495c7",
-      "title": "What’s making Europe so angry? The frustration behind the protests - CNBC",
-      "summary": "What’s making Europe so angry? The frustration behind the protests CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWoyNjR2X3h3VmROWUFyV0d0V1c0WDBVTTNQbmYzUXJrMVVqTnMwbXZqUkFILV9xbWptZGYyMUg1MVdFRDZsZDczWFpLekQzX0Yxa21jNE5oSk8yd19NLWl4N094eFJUV3AwN1g3eEJzUXRBc2E3c2h4VmZWTHRsZ1VJQU53dTTSAYwBQVVfeXFMTlFNZWtra0xHWmI3VHBPMTYwTThod1E5dXVxNTFmQ0NSOTluYmpWZ1o4dUg5ZlRUMFVuejNQT196ZGJDNFc5RkYySElYY0IyUEVVMzFzNGljdGFyVnZjVDFNbllGTzFQeEktSlVZQWN0ckFwY1dNVU8ybXdsS3pDMi02Yl94Wi11dnc1MXA?oc=5",
-      "publisher": "CNBC",
-      "category": "Economy",
-      "published": "2026-10-20T06:31:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "ca251983f5bd21f8dc2a",
-      "title": "How France’s worst rioting in years erupted and how the government responded - AP News",
-      "summary": "How France’s worst rioting in years erupted and how the government responded AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllKV1hPNWE2Mmc5TFhzY0oxaUZzNW9Gd2haNjBIMUc3SWIwZWtMd3FMb21DajNOckgybzdfWC1tTEZxMkhjblY1TzUwdUpHcUNzc1dHX242RlRhWHNQRE1WQi1uRWVyWldfMUgta01uRnFFaWwtYlJBeVhobXpKdjRlMHBQOGZvOVJOa1RMSHEyc0E?oc=5",
-      "publisher": "AP News",
-      "category": "Politics",
-      "published": "2026-10-20T03:44:00+00:00",
       "lang": "en"
     }
   ]
