@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T18:25:01.097389+00:00",
+  "updatedAt": "2026-11-16T18:33:43.825399+00:00",
   "categories": [
     "World News",
     "Bangladesh",
@@ -22,10 +22,10 @@
     "Politics",
     "Cybersecurity"
   ],
-  "total": 1612,
+  "total": 1617,
   "languageTotals": {
-    "en": 1612,
-    "bn": 863
+    "en": 1617,
+    "bn": 865
   },
   "articlesByLanguage": {
     "en": [
@@ -146,6 +146,18 @@
         "publisher": "CNBC",
         "category": "Markets & Finance",
         "published": "2026-11-16T14:11:36+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
+        "id": "21932ac490008f46c8b7",
+        "title": "Google: AI agent turned a security patch into a working exploit with no human help - The Register",
+        "summary": "Google: AI agent turned a security patch into a working exploit with no human help The Register",
+        "content": "Google: AI agent turned a security patch into a working exploit with no human help The Register",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXgxUi1VemtqZkhVajdtWXRfNFdxanB1dWJPX1JPa0ZXMndESVRZSFNqbUM1dlVMaENTRUJMX2NoajVCMU5SXzRIeWg2dDBCeEdDcmZ0dS14bzNKSGJRb21zejRqNG9SbUZicEIyTG9lMWN0NG5JbmV6d0hEQmhPa1pLb2FvLWJqWVc2bVc4dFJKZHdsS1otcnhwaFk2NVFXWkFvV0xDUDZDcFdJQlR4NDZLNkFadkMtMnhyblgydW5Ia1Yta1NhWnBiTEpDME9DbXNV?oc=5",
+        "publisher": "The Register",
+        "category": "Cybersecurity",
+        "published": "2026-11-16T14:00:00+00:00",
         "lang": "en",
         "image": ""
       },
@@ -474,6 +486,18 @@
         "image": ""
       },
       {
+        "id": "bbfecf24c46b91b0de7f",
+        "title": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group - The Guardian",
+        "summary": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group The Guardian",
+        "content": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHRkbnlGUkwwWVZ2N1FmdjRRLVBDSzhLUlA2MGRGdTBKcFU3TW1iWGlyTWpJVFdpVE9ZeTNQbk50V0xXRU53aEZGVUYxQlJNY2hNVmN4eS1Hb25WQ0dVcHFvY3JrWjFhaTliZ3lRcFFCY0N0OHBDRkh1WG9BX1ppd2g5REtyUndfTXcxWlduZEJlUzhM?oc=5",
+        "publisher": "The Guardian",
+        "category": "Football",
+        "published": "2026-11-16T02:30:00+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
         "id": "639396175bac0fd7f319",
         "title": "Canaccord to sell UK wealth unit for $1.55 billion, CEO to take company private - Reuters",
         "summary": "Canaccord to sell UK wealth unit for $1.55 billion, CEO to take company private Reuters",
@@ -531,6 +555,18 @@
         "published": "2026-11-16T01:26:00+00:00",
         "lang": "en",
         "content": "Apple’s new study looks to improve the effectiveness of AI health tools The Verge",
+        "image": ""
+      },
+      {
+        "id": "eb792c486f202f8efba8",
+        "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’ - The Guardian",
+        "summary": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’ The Guardian",
+        "content": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’ The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0dXUzFMRlk1TkFVVGFBblNEWDh3RnVKODNCMkpSZDBTU2liMUIxdnI0Y3A0X05UYU5NUzlUbEw4ZWVxUVluVzFqdk5QQmQ2MzhNWmYtT21vTnBCOHR3bWtuaW5oU0VEeVJXdTFHRVNiNTNIdUxpUlVBeVRvQWpuMkJ2Y3h0dXFRTUx6WEJYdWswcWFRQkhhSmg0OGJkbndxb2daSFBmNEtEZi1qVmZuZzJIcTd2dw?oc=5",
+        "publisher": "The Guardian",
+        "category": "World News",
+        "published": "2026-11-16T01:17:55+00:00",
+        "lang": "en",
         "image": ""
       },
       {
@@ -1299,6 +1335,18 @@
         "published": "2026-11-14T17:46:22+00:00",
         "lang": "en",
         "content": "Why Dhaka doesn’t want Hasina back The Daily Star",
+        "image": ""
+      },
+      {
+        "id": "5b7302e7fd1f3aba33f1",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
+        "summary": "The AI graveyard: a running list of projects and startups that didn’t make it TechCrunch",
+        "content": "The AI graveyard: a running list of projects and startups that didn’t make it TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVRfXzM5NXVKbU5PVWZpQXBwNjBmaG9uLWstSHBPNWI5QVMwcW1OaUwzbkdpQUFkR1RST2dqVEFyMnZaenBmRjQ2MkJ1RmptYU82LTBKUTRDZk5zakViN2RsdU9HcWJGdVFUVzMyNFJfUG1jS2JOZTkxSU9tWkxQaHZORHlIUlp1dWFqWjJlTUFSSjdPMGZGb3VNajdUOWZtTEszdEZvYl9VbmozYmJn?oc=5",
+        "publisher": "TechCrunch",
+        "category": "Technology",
+        "published": "2026-11-14T17:30:00+00:00",
+        "lang": "en",
         "image": ""
       },
       {
@@ -3111,6 +3159,18 @@
         "published": "2026-11-13T09:55:01+00:00",
         "lang": "en",
         "content": "Bruno Fernandes rejects second Manchester United contract offer BBC",
+        "image": ""
+      },
+      {
+        "id": "0d68421ce9bcbbf4f7dc",
+        "title": "Wolfenstein 3 Is Officially In Production At MachineGames - GameSpot",
+        "summary": "Wolfenstein 3 Is Officially In Production At MachineGames GameSpot",
+        "content": "Wolfenstein 3 Is Officially In Production At MachineGames GameSpot",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVElwTm03TVpWTFVodVpHRkFlczdvejVldmNtdjRaU2NJN2hvaTUta2k1MlBQVTNoVWxYVXd0ZndYekI3UGZNTGlUTUs2NkI3dlZFUmVobWxQLUE1aE92c29qWUpDWFhJZHMxV05BcktKcjRYUGNpODhlQjA0MkJranQtSG9pX1diUmtVRlRxNHF2amR6cTE0?oc=5",
+        "publisher": "GameSpot",
+        "category": "Gaming",
+        "published": "2026-11-13T09:52:35+00:00",
+        "lang": "en",
         "image": ""
       },
       {
@@ -19448,6 +19508,18 @@
         "image": ""
       },
       {
+        "id": "1108c6f4ab018987baff",
+        "title": "সংক্ষিপ্ত বিশ্ব সংবাদ: ১৬ নভেম্বর ২০২৬ - Jagonews24",
+        "summary": "সংক্ষিপ্ত বিশ্ব সংবাদ: ১৬ নভেম্বর ২০২৬ Jagonews24",
+        "content": "সংক্ষিপ্ত বিশ্ব সংবাদ: ১৬ নভেম্বর ২০২৬ Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XSmp0MlU0UlZPd3Vyel92a2ktc0xFRC00bVB0ZGl3SktzUkxkYTlqMnNoLXI4TEViU3N0T0tpYUxHQ0twaHVSbldGR1hoNUtYUnVaZXhTN3VFV1dQRnBrVGdwMA?oc=5",
+        "publisher": "Jagonews24",
+        "category": "World News",
+        "published": "2026-11-16T16:07:35+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "160d0841fad7e6ac9dec",
         "title": "শেষ বিকেলে হাসানেই স্বস্তি বাংলাদেশ শিবিরে - Risingbd.com",
         "summary": "শেষ বিকেলে হাসানেই স্বস্তি বাংলাদেশ শিবিরে Risingbd.com",
@@ -20576,6 +20648,18 @@
         "image": ""
       },
       {
+        "id": "43c0811749ab3eee6b7c",
+        "title": "মাদক ব্যবসায়ীকে ৬ বছর কারাদণ্ড - Banglanews24",
+        "summary": "মাদক ব্যবসায়ীকে ৬ বছর কারাদণ্ড Banglanews24",
+        "content": "মাদক ব্যবসায়ীকে ৬ বছর কারাদণ্ড Banglanews24",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zbmFvQUo4dlZrR3g1NTdYdk5pZXdEV1pseEpFTlFYZlpmQUdULS1SakN2QTdNRVd3M2VEQlE3eGx5V0JXVlFRQTNlakg4T3FXUTFOZ3hSOHZwTXBrZldXczhjdjFYdmVLdFF5TzNZNnJCVzB3YzZpRA?oc=5",
+        "publisher": "Banglanews24",
+        "category": "Entertainment",
+        "published": "2026-11-16T06:20:41+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "63da2ae1a9ab58a6f000",
         "title": "আফগানিস্তানে ক্রিকেট নিয়ে খবর প্রচার নিষিদ্ধ করল সরকার - Channel 24",
         "summary": "আফগানিস্তানে ক্রিকেট নিয়ে খবর প্রচার নিষিদ্ধ করল সরকার Channel 24",
@@ -21292,6 +21376,18 @@
         "publisher": "Risingbd.com",
         "category": "Bangladesh",
         "published": "2026-11-15T16:05:00+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "b44cd8e7d5202a0d5159",
+        "title": "স্বস্তির মাঝে শেষ বলে হৃদয়কে হারানোর আক্ষেপ - Banglanews24",
+        "summary": "স্বস্তির মাঝে শেষ বলে হৃদয়কে হারানোর আক্ষেপ Banglanews24",
+        "content": "স্বস্তির মাঝে শেষ বলে হৃদয়কে হারানোর আক্ষেপ Banglanews24",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93U1lfc2VRVDI2OFhpRjhsb1Z3NGZPazBXQUdzc2lmck56czZCUG0tWEtWbGlZLU5kMTBrYXhOM2syME5weTE5MWFfeHBCN0pISlp5TzVVWkF0SEd6LWZGT05EenptNWRQYkdn?oc=5",
+        "publisher": "Banglanews24",
+        "category": "Bangladesh",
+        "published": "2026-11-15T15:58:31+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -26492,18 +26588,6 @@
         "image": ""
       },
       {
-        "id": "711e46779ea2f510845f",
-        "title": "স্বাস্থ্যখাতে সহযোগিতা বাড়াতে একমত বাংলাদেশ ও নেপাল - Jagonews24",
-        "summary": "স্বাস্থ্যখাতে সহযোগিতা বাড়াতে একমত বাংলাদেশ ও নেপাল Jagonews24",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PZ0pVbWF5Mnp0dnh6UXZBaUlqaVJia0tLcVVnd2l2N2NNYXVLYW1FcE9DYWY0dXgwRkJrTTNkMzVlTnZaR3VucWF5NmxHR0hnOHdyWXpRUjEyUQ?oc=5",
-        "publisher": "Jagonews24",
-        "category": "Bangladesh",
-        "published": "2026-11-11T10:59:04+00:00",
-        "lang": "bn",
-        "content": "স্বাস্থ্যখাতে সহযোগিতা বাড়াতে একমত বাংলাদেশ ও নেপাল Jagonews24",
-        "image": ""
-      },
-      {
         "id": "173df7bb5f9056012468",
         "title": "জলবায়ু সম্মেলনের নামে ভণ্ডামি হচ্ছে: গ্রেটা থুনবার্গ - শেয়ারবাজারনিউজ.কম",
         "summary": "জলবায়ু সম্মেলনের নামে ভণ্ডামি হচ্ছে: গ্রেটা থুনবার্গ শেয়ারবাজারনিউজ.কম",
@@ -29855,6 +29939,18 @@
       "image": ""
     },
     {
+      "id": "21932ac490008f46c8b7",
+      "title": "Google: AI agent turned a security patch into a working exploit with no human help - The Register",
+      "summary": "Google: AI agent turned a security patch into a working exploit with no human help The Register",
+      "content": "Google: AI agent turned a security patch into a working exploit with no human help The Register",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXgxUi1VemtqZkhVajdtWXRfNFdxanB1dWJPX1JPa0ZXMndESVRZSFNqbUM1dlVMaENTRUJMX2NoajVCMU5SXzRIeWg2dDBCeEdDcmZ0dS14bzNKSGJRb21zejRqNG9SbUZicEIyTG9lMWN0NG5JbmV6d0hEQmhPa1pLb2FvLWJqWVc2bVc4dFJKZHdsS1otcnhwaFk2NVFXWkFvV0xDUDZDcFdJQlR4NDZLNkFadkMtMnhyblgydW5Ia1Yta1NhWnBiTEpDME9DbXNV?oc=5",
+      "publisher": "The Register",
+      "category": "Cybersecurity",
+      "published": "2026-11-16T14:00:00+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "b18f26bf83eb41c60581",
       "title": "Europe | Latest News & Updates - BBC",
       "summary": "Europe | Latest News & Updates BBC",
@@ -30179,6 +30275,18 @@
       "image": ""
     },
     {
+      "id": "bbfecf24c46b91b0de7f",
+      "title": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group - The Guardian",
+      "summary": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group The Guardian",
+      "content": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHRkbnlGUkwwWVZ2N1FmdjRRLVBDSzhLUlA2MGRGdTBKcFU3TW1iWGlyTWpJVFdpVE9ZeTNQbk50V0xXRU53aEZGVUYxQlJNY2hNVmN4eS1Hb25WQ0dVcHFvY3JrWjFhaTliZ3lRcFFCY0N0OHBDRkh1WG9BX1ppd2g5REtyUndfTXcxWlduZEJlUzhM?oc=5",
+      "publisher": "The Guardian",
+      "category": "Football",
+      "published": "2026-11-16T02:30:00+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "639396175bac0fd7f319",
       "title": "Canaccord to sell UK wealth unit for $1.55 billion, CEO to take company private - Reuters",
       "summary": "Canaccord to sell UK wealth unit for $1.55 billion, CEO to take company private Reuters",
@@ -30236,6 +30344,18 @@
       "published": "2026-11-16T01:26:00+00:00",
       "lang": "en",
       "content": "Apple’s new study looks to improve the effectiveness of AI health tools The Verge",
+      "image": ""
+    },
+    {
+      "id": "eb792c486f202f8efba8",
+      "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’ - The Guardian",
+      "summary": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’ The Guardian",
+      "content": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’ The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0dXUzFMRlk1TkFVVGFBblNEWDh3RnVKODNCMkpSZDBTU2liMUIxdnI0Y3A0X05UYU5NUzlUbEw4ZWVxUVluVzFqdk5QQmQ2MzhNWmYtT21vTnBCOHR3bWtuaW5oU0VEeVJXdTFHRVNiNTNIdUxpUlVBeVRvQWpuMkJ2Y3h0dXFRTUx6WEJYdWswcWFRQkhhSmg0OGJkbndxb2daSFBmNEtEZi1qVmZuZzJIcTd2dw?oc=5",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "published": "2026-11-16T01:17:55+00:00",
+      "lang": "en",
       "image": ""
     },
     {
@@ -31004,6 +31124,18 @@
       "published": "2026-11-14T17:46:22+00:00",
       "lang": "en",
       "content": "Why Dhaka doesn’t want Hasina back The Daily Star",
+      "image": ""
+    },
+    {
+      "id": "5b7302e7fd1f3aba33f1",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
+      "summary": "The AI graveyard: a running list of projects and startups that didn’t make it TechCrunch",
+      "content": "The AI graveyard: a running list of projects and startups that didn’t make it TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVRfXzM5NXVKbU5PVWZpQXBwNjBmaG9uLWstSHBPNWI5QVMwcW1OaUwzbkdpQUFkR1RST2dqVEFyMnZaenBmRjQ2MkJ1RmptYU82LTBKUTRDZk5zakViN2RsdU9HcWJGdVFUVzMyNFJfUG1jS2JOZTkxSU9tWkxQaHZORHlIUlp1dWFqWjJlTUFSSjdPMGZGb3VNajdUOWZtTEszdEZvYl9VbmozYmJn?oc=5",
+      "publisher": "TechCrunch",
+      "category": "Technology",
+      "published": "2026-11-14T17:30:00+00:00",
+      "lang": "en",
       "image": ""
     },
     {
@@ -32816,6 +32948,18 @@
       "published": "2026-11-13T09:55:01+00:00",
       "lang": "en",
       "content": "Bruno Fernandes rejects second Manchester United contract offer BBC",
+      "image": ""
+    },
+    {
+      "id": "0d68421ce9bcbbf4f7dc",
+      "title": "Wolfenstein 3 Is Officially In Production At MachineGames - GameSpot",
+      "summary": "Wolfenstein 3 Is Officially In Production At MachineGames GameSpot",
+      "content": "Wolfenstein 3 Is Officially In Production At MachineGames GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVElwTm03TVpWTFVodVpHRkFlczdvejVldmNtdjRaU2NJN2hvaTUta2k1MlBQVTNoVWxYVXd0ZndYekI3UGZNTGlUTUs2NkI3dlZFUmVobWxQLUE1aE92c29qWUpDWFhJZHMxV05BcktKcjRYUGNpODhlQjA0MkJranQtSG9pX1diUmtVRlRxNHF2amR6cTE0?oc=5",
+      "publisher": "GameSpot",
+      "category": "Gaming",
+      "published": "2026-11-13T09:52:35+00:00",
+      "lang": "en",
       "image": ""
     },
     {
