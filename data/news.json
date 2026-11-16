@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T18:03:34.115192+00:00",
+  "updatedAt": "2026-11-16T18:19:00.943787+00:00",
   "categories": [
     "World News",
     "Bangladesh",
@@ -22,10 +22,10 @@
     "Politics",
     "Cybersecurity"
   ],
-  "total": 1606,
+  "total": 1612,
   "languageTotals": {
-    "en": 1606,
-    "bn": 850
+    "en": 1612,
+    "bn": 856
   },
   "articlesByLanguage": {
     "en": [
@@ -42,6 +42,18 @@
         "image": ""
       },
       {
+        "id": "951bc4bff34647096d95",
+        "title": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 - The Guardian",
+        "summary": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 The Guardian",
+        "content": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2JWWlJuNFBTbGhDR1MzZ3poOTZHN0FfSmI4SDluMXlSMXVvWkVScWRrdFhhRzdLYmpLRGFMeC1tX3RSeTUtU0Z2aU4yRzgtQXRRVEVJU2VYZTZQaFMxazRCOVpZQlFkeUhLdkRwUDFsS2hjX05TNVlPYmpXcG1oWFBSdkwtaGxZ?oc=5",
+        "publisher": "The Guardian",
+        "category": "Environment & Climate",
+        "published": "2026-11-16T17:47:00+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
         "id": "98e583a0ddaff47eea2a",
         "title": "Neurons in a dish are the newest computing machines - Science | AAAS",
         "summary": "Neurons in a dish are the newest computing machines Science | AAAS",
@@ -50,6 +62,30 @@
         "publisher": "Science | AAAS",
         "category": "Science",
         "published": "2026-11-16T17:36:59+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
+        "id": "12cff84123e1e57a12e3",
+        "title": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond - IGN",
+        "summary": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond IGN",
+        "content": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond IGN",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0xrRVlCakZTQWdWMVNNaEEwbGZBc3hCNXBUNW43MkZwaVBBcXFjcmsxcjM3cUNveUkwbGxFNXpRX1c2ejU1Mmk0TG4tUmZNM3RtXzVpaE9hNU1DaWxvdWRDWmF2a2UwZDczbGY3djVYTUpYMmhVT3NkTEJwQ3JBbzZlVDUtcGE1SFFwZ3VLWkt0Rlg3SFBhN0dKRUVoNGRzX3JVc2R3VUVIY2w5b3JZWWZpd3gxRDd5RjhpaWtNNVhZR3JmNGtEOWRiQjUyWXVL?oc=5",
+        "publisher": "IGN",
+        "category": "Gaming",
+        "published": "2026-11-16T16:48:27+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
+        "id": "df3aaaca8c165cf8b088",
+        "title": "20 Years Later, the Wii Remains Nintendo’s Most Important Console - IGN",
+        "summary": "20 Years Later, the Wii Remains Nintendo’s Most Important Console IGN",
+        "content": "20 Years Later, the Wii Remains Nintendo’s Most Important Console IGN",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjJkNFQzSmZoQ1hrVGN2MHlKT0VWQkozLUFHVXhlbThpNkFsWXJPaVg1ZTNjTGNRSjRUbjhDZjE0OC1ralNUVm82dGo2ODh4dUFabG9NenR2WkFtNzFyVEk3Z2ltMXYxSGdVYzZsUXBFSlc2VXJJMV9qLXQzV0g5S3hDTWlEbnB5MFBBUlNRd3FMcWVJaFlJ?oc=5",
+        "publisher": "IGN",
+        "category": "Gaming",
+        "published": "2026-11-16T16:30:00+00:00",
         "lang": "en",
         "image": ""
       },
@@ -85,7 +121,19 @@
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ISlU4M1NwU1dPRG45bERCUEVzTll2djRXZFc0NGpuS1psX1k1NDZUODRNYmtmaEY0RnJaMWE0bjByTDJDTnQ4S3FwbFE?oc=5",
         "publisher": "Bloomberg",
         "category": "Business",
-        "published": "2026-11-16T15:33:29+00:00",
+        "published": "2026-11-16T15:38:30+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
+        "id": "fffee3548a1919b504b0",
+        "title": "Latest news - AP News",
+        "summary": "Latest news AP News",
+        "content": "Latest news AP News",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
+        "publisher": "AP News",
+        "category": "World News",
+        "published": "2026-11-16T14:43:41+00:00",
         "lang": "en",
         "image": ""
       },
@@ -98,18 +146,6 @@
         "publisher": "CNBC",
         "category": "Markets & Finance",
         "published": "2026-11-16T14:11:36+00:00",
-        "lang": "en",
-        "image": ""
-      },
-      {
-        "id": "951bc4bff34647096d95",
-        "title": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 - The Guardian",
-        "summary": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 The Guardian",
-        "content": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2JWWlJuNFBTbGhDR1MzZ3poOTZHN0FfSmI4SDluMXlSMXVvWkVScWRrdFhhRzdLYmpLRGFMeC1tX3RSeTUtU0Z2aU4yRzgtQXRRVEVJU2VYZTZQaFMxazRCOVpZQlFkeUhLdkRwUDFsS2hjX05TNVlPYmpXcG1oWFBSdkwtaGxZ?oc=5",
-        "publisher": "The Guardian",
-        "category": "Environment & Climate",
-        "published": "2026-11-16T13:57:00+00:00",
         "lang": "en",
         "image": ""
       },
@@ -270,6 +306,18 @@
         "image": ""
       },
       {
+        "id": "65d9f8fee420eebe4f24",
+        "title": "Kentucky Tech Policy Aims to Restrict Political Activity - Inside Higher Ed",
+        "summary": "Kentucky Tech Policy Aims to Restrict Political Activity Inside Higher Ed",
+        "content": "Kentucky Tech Policy Aims to Restrict Political Activity Inside Higher Ed",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeEJTYzdUOGVlcGc0bEtuZmdqMDBDNHlCelVBY1FyUlV4S180dkR5VTg5eGtDSkJyTGg4blZ5cjZldUpHSWlqZlRnUTdORjF0OGFWN2pQLS1ZNW4zdkw0UWd5SzNHVzhOZ01tb2E0NHExdWhscVNweW1oRlJSWU5Zal8tMkJVbXJRWFZ0cUoyQ2R3ZjdNeURFajFZNHNCbFV0Q2dybDNvSl91bXFkWmxYektCRlZUeUpSYjQ4Y0xwcHR1RTg?oc=5",
+        "publisher": "Inside Higher Ed",
+        "category": "Education",
+        "published": "2026-11-16T08:00:00+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
         "id": "a3647515fa4219622e41",
         "title": "Bangladesh’s apparel exports to EU fall 11.9% to €13.48 billion in Jan-Sept - The Daily Star",
         "summary": "Bangladesh’s apparel exports to EU fall 11.9% to €13.48 billion in Jan-Sept The Daily Star",
@@ -318,6 +366,18 @@
         "image": ""
       },
       {
+        "id": "78caf218c4adcbc96256",
+        "title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads - The Register",
+        "summary": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads The Register",
+        "content": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads The Register",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObEYtcTJob2FISy1KYTZReEJBeDhXRHBQWGVTdm5yYndQdlRDZHAxbUNWc0p6YXF6VkJvOXZaY3ZhaXJQRV9rYi1mbkFEajNlV0RsYkp5S1NVcVJnN3U0XzBQcVNxelRwVC1IVEZWOWRyU0dvOFJ6SEk0ZWhORFR5QWZpeXAzZVk4ZktCdDhBckgyTHlpZDgtRVRFRXZUQ3lFZl9neUtzbUhuNlp3RTVtOElpRC1WendRSi0wZTJDT01BaWxvOFdra2xOOVJOVVlPRzlKNA?oc=5",
+        "publisher": "The Register",
+        "category": "Cybersecurity",
+        "published": "2026-11-16T06:04:02+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
         "id": "ae676a25f20bf0e770c1",
         "title": "Associated Press News: Breaking News | Latest News Today - AP News",
         "summary": "Associated Press News: Breaking News | Latest News Today AP News",
@@ -339,18 +399,6 @@
         "category": "Politics",
         "published": "2026-11-16T05:23:37+00:00",
         "lang": "en",
-        "image": ""
-      },
-      {
-        "id": "fffee3548a1919b504b0",
-        "title": "Latest news - AP News",
-        "summary": "Latest news AP News",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
-        "publisher": "AP News",
-        "category": "World News",
-        "published": "2026-11-16T05:14:03+00:00",
-        "lang": "en",
-        "content": "Latest news AP News",
         "image": ""
       },
       {
@@ -690,6 +738,18 @@
         "image": ""
       },
       {
+        "id": "739d71f4fb3f1c651439",
+        "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal - The Verge",
+        "summary": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal The Verge",
+        "content": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal The Verge",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUdJdF80Q0hNQ1d6di0yZVRpSDNKZm1ZSkxCYVEtNERiVFpwOTROZ2RXZXRrNEd1U2RtR1hVaGJPUXgtS3BUczNCV2EyUGpFRkxqemZWLXBZTHU4WklGcnBRcTVLLW1QcWZUQmNiR21CYjVRQ3VydWg1ZVRHVlJ2UjRpLUprZTg2QjhkVGxrRTdDWDRLV1NUY1JMbW0?oc=5",
+        "publisher": "The Verge",
+        "category": "Artificial Intelligence",
+        "published": "2026-11-15T19:15:43+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
         "id": "8c2c284dbdae0700ab46",
         "title": "New Maori generation seeks to reshape New Zealand's political landscape - Reuters",
         "summary": "New Maori generation seeks to reshape New Zealand's political landscape Reuters",
@@ -726,6 +786,18 @@
         "image": ""
       },
       {
+        "id": "fe0de6112a30e4a00a82",
+        "title": "College football | Latest News & Updates - AP News",
+        "summary": "College football | Latest News & Updates AP News",
+        "content": "College football | Latest News & Updates AP News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+        "publisher": "AP News",
+        "category": "World News",
+        "published": "2026-11-15T17:58:51+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
         "id": "0062ac04d60d3f8cbbd9",
         "title": "Chattogram RRF SP arrested in sedition case over alleged contact with Awami League - The Daily Star",
         "summary": "Chattogram RRF SP arrested in sedition case over alleged contact with Awami League The Daily Star",
@@ -747,18 +819,6 @@
         "published": "2026-11-15T17:47:40+00:00",
         "lang": "en",
         "content": "A suspect has been arrested after a drive-by shooting at the California office campus where Xbox's inXile is based Eurogamer.net",
-        "image": ""
-      },
-      {
-        "id": "fe0de6112a30e4a00a82",
-        "title": "College football | Latest News & Updates - AP News",
-        "summary": "College football | Latest News & Updates AP News",
-        "content": "College football | Latest News & Updates AP News",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-        "publisher": "AP News",
-        "category": "World News",
-        "published": "2026-11-15T17:04:53+00:00",
-        "lang": "en",
         "image": ""
       },
       {
@@ -1407,6 +1467,18 @@
         "published": "2026-11-14T13:55:00+00:00",
         "lang": "en",
         "content": "Brazil underwhelm again in Japan defeat and Carlo Ancelotti is feeling pressure ESPN",
+        "image": ""
+      },
+      {
+        "id": "e81b40431bdf7ea4a243",
+        "title": "Retailers are turning to entertainment to win shoppers’ attention - CNBC",
+        "summary": "Retailers are turning to entertainment to win shoppers’ attention CNBC",
+        "content": "Retailers are turning to entertainment to win shoppers’ attention CNBC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMW95dUZxVzlzX2ZNUGxCYS13LXM4TGtTMkhDRUR0bV91NzFPbURKX0k4ektPM21ZRDZLckI5blBLX0Y2SnBFM1NkZGktU2w4YUpwZm9ZR0I3VzhrU2g3aDQ0dlBjQ2ZJTXN6bkRCSW03dXk2Q0HSAXtBVV95cUxPSW1wTElEZTYzVDg5OGtkQVlsQlBWUnlBSkF4cDFJVGptR0Vpa190N0x1bnVrVWpTN1o5bm0tQml2SXlleFBYUkYwa1h6R0l1WmR4ejJoX2hoclc1SjJnVGNIMkZIY0xMX3lZb1pad01VbDBNRjRqd3kxa3c?oc=5",
+        "publisher": "CNBC",
+        "category": "Business",
+        "published": "2026-11-14T13:00:01+00:00",
+        "lang": "en",
         "image": ""
       },
       {
@@ -3198,6 +3270,18 @@
         "image": ""
       },
       {
+        "id": "899807ab72973d33a411",
+        "title": "Microsoft services restored to all customers, company says it's 'deeply sorry' - The Register",
+        "summary": "Microsoft services restored to all customers, company says it's 'deeply sorry' The Register",
+        "content": "Microsoft services restored to all customers, company says it's 'deeply sorry' The Register",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVB5X1RyVjJLeHNpeUNLbVgyNDhwb21uWWRlZkFDeUVYQnhzaFhFb3VESENVTkRHMWo2a2pGdVZMWWRacWpzcDVJeFAydWV0b2JHM2I2eVZqOS1TcmR2amd0dElIZFN5clhCWm83TVZzMElwMkN2enR6SDZtR3hFWFNYSVIySDROcUptT3lDbk1VMFh0MG5IYkVySUk2WWZYVzRLTXBWd3Q1S1pQM3E2QUdhSFhpdVNjb2pDV2p4UmFmaVdx?oc=5",
+        "publisher": "The Register",
+        "category": "Cybersecurity",
+        "published": "2026-11-13T06:40:06+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
         "id": "6dee6bb1070734872f22",
         "title": "News Digest - November 2026 - Cricbuzz",
         "summary": "News Digest - November 2026 Cricbuzz",
@@ -4611,6 +4695,18 @@
         "published": "2026-11-12T08:27:38+00:00",
         "lang": "en",
         "content": "Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm Reuters",
+        "image": ""
+      },
+      {
+        "id": "208532b1ed3eaa778260",
+        "title": "AI is coming for consulting’s billable hours — and its graduate pipeline - CNBC",
+        "summary": "AI is coming for consulting’s billable hours — and its graduate pipeline CNBC",
+        "content": "AI is coming for consulting’s billable hours — and its graduate pipeline CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMU1lelRhUlYwdFhncHZEclVQX3ZWQ3RCYV9kTXc3eml0T1JjWl92TGZLZlhMYVVidjJ5QmwyT2xCZUZVaE90dThFUW9NYWdoWnNhN2QxWnY1bVZyVzZ0bmpkd1dDS1N4b1JQSVVJYnRwMV9lbWdrZXQ2ZHNfaDZ1cTFNS1FSRkRJ0gGOAUFVX3lxTE5NaHN4MHNqM2djbjF3aDFWMVJLWkd0bjhzV2FFUWNXMGMtRkFTMHJDNnFGUEM5RWRTaWp0a3hVTDg4cGl1ZXVqeVFvdm92R1p0YjdwaU9sUTZ4djBCRnQ0ODhfQjlfa1dWOW9VYzB2N1Q4TW44NFNieFh6cnFTdGZic1N2NlFYYzJpVDZvS0E?oc=5",
+        "publisher": "CNBC",
+        "category": "Business",
+        "published": "2026-11-12T08:20:56+00:00",
+        "lang": "en",
         "image": ""
       },
       {
@@ -19276,30 +19372,6 @@
         "lang": "en",
         "content": "What’s Up: November 2026 Skywatching Tips from NASA NASA Science (.gov)",
         "image": ""
-      },
-      {
-        "id": "ffa6076fd7a4c5aa49b4",
-        "title": "Charlie Smyth: New Orleans Saints to evaluate kicker situation - BBC",
-        "summary": "Charlie Smyth: New Orleans Saints to evaluate kicker situation BBC",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSDZlZWowY1g5NThBaGpnc2ZVTzdwWlkySFZSd21UVTVfcld6QzFoR2RHbFB6WE5pa1B3ejY5SmdvZnJTREtEc2prZnB5UjZhYjFRT0g2M2s5WVlFeHF5azRVUkZaNlNVd3ExM1dqZFlyUzR2?oc=5",
-        "publisher": "BBC",
-        "category": "Sports",
-        "published": "2026-11-02T18:16:13+00:00",
-        "lang": "en",
-        "content": "Charlie Smyth: New Orleans Saints to evaluate kicker situation BBC",
-        "image": ""
-      },
-      {
-        "id": "a4aff591296c207302f1",
-        "title": "El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says - Reuters",
-        "summary": "El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejhFalhZVDhQYVJiOEVjTHlzNm43MG9qTVJaQUtxS0ZZNHFkNmc4aVFaeHVGZnlBLWZLZXpIWDNJZ0RNYWloZHBybU1OeEdaS1NwVERvQkZIaW02VTNWZmk1ang1WkQ1N3B0aTZMUzVJRjNRNnhXSmV3YXlTaTZtYTVXbGg2V1g1UXVvZkFFY2V0SlNkcEwyQzI4Q0JtQVVFazVZcWdsOVdsaVBwUUJXT1NRazg1N0E?oc=5",
-        "publisher": "Reuters",
-        "category": "Economy",
-        "published": "2026-11-02T18:05:17+00:00",
-        "lang": "en",
-        "content": "El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says Reuters",
-        "image": ""
       }
     ],
     "bn": [
@@ -19324,6 +19396,18 @@
         "publisher": "কালের কণ্ঠ",
         "category": "Bangladesh",
         "published": "2026-11-16T17:32:10+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "c36a1611f71dc3566b45",
+        "title": "জাম্বিয়ায় নতুন উৎপাদন লাইনে কারিগরি সহায়তা দেবে বিএটি বাংলাদেশের ৯ কর্মী - SAMAKAL",
+        "summary": "জাম্বিয়ায় নতুন উৎপাদন লাইনে কারিগরি সহায়তা দেবে বিএটি বাংলাদেশের ৯ কর্মী SAMAKAL",
+        "content": "জাম্বিয়ায় নতুন উৎপাদন লাইনে কারিগরি সহায়তা দেবে বিএটি বাংলাদেশের ৯ কর্মী SAMAKAL",
+        "url": "https://news.google.com/rss/articles/CBMizgZBVV95cUxNNGNrbHFZd0dUN2FWRHVDZkFnQ041LVYwNDZTbUJuSGNJQ2xuRFdlTW9BaG5iekpHNkNVT1loV2dDTy1JWGN1RWFFVXdzTmtxMnVlSEdYdU9jYUdLTTU2c0d3M3kyMHQ0WDJNaVlTeFlVZXhjamd5eTNZT2liNG9uZUZ0U0VrbXlIckVEQ1lhdWlZUHR4a2ZOYk9JTlg1LUotWkRnNWpKamVJZU1SUTdxbmJFcV9RRW5Yd1FMNXFxUks3MkcxeWdVM2tIZTFDaVd0b1RncGtYR08yMXdRN215TFp5SGlhaFlpakFXV0RGa01tUkhjTHY5OTlmREJFSGkwQng0ZGo2QjVQaDBCUlJQRWtLa2tLN3VtX011UlFvcDZZOWJKWEJHeG0xWjlWNXN0QkhoMlBvdkF4dS1Hb2tOd1N6TnJmMkJKOFJnc2FBcENVNnQwNWVieGRQbzdDQTFkRlAxTnAyX2h1MzhoU00wYkNrUVpYdkdLdzU1VFEzQ1FTVG5UaEFjSkQ0dEx5Sll2MWZ4bTlwVmc0T3MzR0JDMXJqeGhtd25sMVFCWWtSREdkR1JicGxJaWlvSkl3TDk1SFZaMVd6VGxrdy14cnRMaUlJODRLX0RMSEw5aUZOX2Ffd3BCY0w0Zk1CcGlrcWhtcEQ0Y3ZqMkNLUk9rS3BhUWNVQ0dvZm1peDhVckZyeWZxRGhGSExrZUJPNmNmbk5JTFNuR3loWDBubDdyNVRCckJLZUFVdnlrRlo0amc1eTFFUHBFblJVLVNWbmZDSzN5SDIySVhSWVdWNUdtRkFzb1l0RkNrUmxya0JjM1hKVldLTFZqRHhpdXhKaFdIYWtITTZvT0N2MmNhdDFKeWc0ejctRHBoX3RHX0RpVTlHTjJaM05kams3dl9VSDJYNHZjUk9DS3hkTmhmc0dLQWRMYWVwa3RtNjc4R1lZU1ZwRTduTnJDaVlCLUt3Rm5MNlE1bDllMV9TVXB1VzVpNkk1UDk3TGM4VXdVSllKcXBWU19DdVQ0ZnNxWTZ3UmpNdHdhSm5va3hOcDV4dFdfeDNLOG5WZmI2U2RqNXI0LW0tYl9UQnJLUDY0blJkamlCODNtYWtuSEF1SGxSY0V2WFE?oc=5",
+        "publisher": "SAMAKAL",
+        "category": "Bangladesh",
+        "published": "2026-11-16T17:07:46+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -19816,6 +19900,18 @@
         "publisher": "দ্য ডেইলি স্টার বাংলা",
         "category": "Bangladesh",
         "published": "2026-11-16T12:25:56+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "78bc73b2e1ec3b0649d4",
+        "title": "বেসরকারি স্কুল-কলেজ জাতীয়করণের নীতিমালা চূড়ান্তকরণের সভায় যা হলো - শিক্ষা সংবাদ",
+        "summary": "বেসরকারি স্কুল-কলেজ জাতীয়করণের নীতিমালা চূড়ান্তকরণের সভায় যা হলো শিক্ষা সংবাদ",
+        "content": "বেসরকারি স্কুল-কলেজ জাতীয়করণের নীতিমালা চূড়ান্তকরণের সভায় যা হলো শিক্ষা সংবাদ",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Nc0I1MTFsQ01jaWJFajhqYnYtdU4wSHRyQV9LRUtwVXB3dDdRdm1PdDVoS2ZwTXdTbF9zd2dmbWZ4Z0Jic3gzN1J5RHpzSXBjVUdPZ0dn?oc=5",
+        "publisher": "শিক্ষা সংবাদ",
+        "category": "Education",
+        "published": "2026-11-16T12:14:35+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -20444,6 +20540,18 @@
         "image": ""
       },
       {
+        "id": "3e3e27580001e38f5760",
+        "title": "নতুন দুই থানা ও দুই পৌরসভা গঠনের অনুমোদন - কালের কণ্ঠ",
+        "summary": "নতুন দুই থানা ও দুই পৌরসভা গঠনের অনুমোদন কালের কণ্ঠ",
+        "content": "নতুন দুই থানা ও দুই পৌরসভা গঠনের অনুমোদন কালের কণ্ঠ",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XRG0zNzNCYkNfRXE4cVpEQlViQVYtS3Rkb0RZRGhZSlIzV09LYjdEWjlOUWRkSDEwMVdrUEJrTFF2YkNKNm5pNmRzazIxZWduSTk2VEpRZFVLdmxfWWw4TDFnaVNxMmk1THBSZ0VWWQ?oc=5",
+        "publisher": "কালের কণ্ঠ",
+        "category": "Bangladesh",
+        "published": "2026-11-16T06:07:08+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "2691c0d9478afc2a27be",
         "title": "কোন ইউপিতে কবে ভোট, তালিকা চূড়ান্ত করতে বৈঠকে ইসি - bdnews24.com",
         "summary": "কোন ইউপিতে কবে ভোট, তালিকা চূড়ান্ত করতে বৈঠকে ইসি bdnews24.com",
@@ -20576,6 +20684,18 @@
         "image": ""
       },
       {
+        "id": "c0d53b9f2bb1b890d6da",
+        "title": "নিজেদের তৈরি বাজার ধরে রাখতে পারছি না আমরা - প্রথম আলো",
+        "summary": "নিজেদের তৈরি বাজার ধরে রাখতে পারছি না আমরা প্রথম আলো",
+        "content": "নিজেদের তৈরি বাজার ধরে রাখতে পারছি না আমরা প্রথম আলো",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MWkg2M01xYjlxUFBYZUwtcWRZZjFPR2RoYmVwVTU1a2NRVHBxUHQ3NnZKazdscTRVYVIzRXQ1QkF4MUhzNWg0NlcyLWZWOHVvNkZxVHlmMEhYM3FXYV9fMnZJN3d4d9IBc0FVX3lxTE40dG5xek1JMWxBTDF3LTZhcnY0N3RFQ2tNTFYyVndydFNEcElHaGxCdkZLWGJMZFF4aFFEb29BTDZUR3ZDTzF1NWtrb001WTNWOVBkODREbHN0bVdVYjlUX3U2dlhaUS15RnpvbnRwNk9Ib1k?oc=5",
+        "publisher": "প্রথম আলো",
+        "category": "Business",
+        "published": "2026-11-16T05:00:00+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "74522e13536979174fe3",
         "title": "ডিয়ার বাফুফে, সরি ‘বলম্যান’, ফুটবল আপনাকেও বুঝতে হবে - দ্য ডেইলি স্টার বাংলা",
         "summary": "ডিয়ার বাফুফে, সরি ‘বলম্যান’, ফুটবল আপনাকেও বুঝতে হবে দ্য ডেইলি স্টার বাংলা",
@@ -20632,6 +20752,18 @@
         "publisher": "Jamuna Television",
         "category": "Bangladesh",
         "published": "2026-11-16T04:29:26+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "174f6045d8c05d7d7c13",
+        "title": "পাথরঘাটায় খালের জালে পেঁচানো ১২ ফুট অজগর উদ্ধার, বনে অবমুক্ত - Banglanews24",
+        "summary": "পাথরঘাটায় খালের জালে পেঁচানো ১২ ফুট অজগর উদ্ধার, বনে অবমুক্ত Banglanews24",
+        "content": "পাথরঘাটায় খালের জালে পেঁচানো ১২ ফুট অজগর উদ্ধার, বনে অবমুক্ত Banglanews24",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oUEJKbm5helFneWVyNG1nN1F0VG9XNUxMU05wM1BoUUlER3IzSEF2UjlEYWVTay1SZFk1VGpINk1zM09XNnU1TGdBSW13dXlCZ2VJSDgxUjVDamFRZldFZ2ptbXE4aVE1UUJ0eDhBcW5KcERWaFE?oc=5",
+        "publisher": "Banglanews24",
+        "category": "Politics",
+        "published": "2026-11-16T04:28:34+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -21704,6 +21836,18 @@
         "image": ""
       },
       {
+        "id": "7959441577b39c74150a",
+        "title": "চাহিদা অনুযায়ী বিশ্ববিদ্যালয়ে শিক্ষার মান আরও বাড়ানোর আহ্বান - Banglanews24",
+        "summary": "চাহিদা অনুযায়ী বিশ্ববিদ্যালয়ে শিক্ষার মান আরও বাড়ানোর আহ্বান Banglanews24",
+        "content": "চাহিদা অনুযায়ী বিশ্ববিদ্যালয়ে শিক্ষার মান আরও বাড়ানোর আহ্বান Banglanews24",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xVFo0cUdkYVd5WUliS1NmSFhrZ2xyQnBZWUpJbm1HMmh4eU56R2RoOXViSzRSNkdiN1M2eDRkNG4tVERHOVI2bk9MMnY1bXpKLWk5RTdZb3hiRExKaGh0MlpNcTZTTlAwazJqSVVR?oc=5",
+        "publisher": "Banglanews24",
+        "category": "Politics",
+        "published": "2026-11-15T08:33:35+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "72d7e14966aa8deeea3d",
         "title": "জলবায়ু অর্থায়নে ইইউর সহযোগিতা বাড়ানোর আহ্বান পরিবেশ প্রতিমন্ত্রীর - Channel i Online",
         "summary": "জলবায়ু অর্থায়নে ইইউর সহযোগিতা বাড়ানোর আহ্বান পরিবেশ প্রতিমন্ত্রীর Channel i Online",
@@ -21796,6 +21940,18 @@
         "publisher": "BBC",
         "category": "World News",
         "published": "2026-11-15T07:04:21+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "ed30b403687484058c3a",
+        "title": "ডিসেম্বরে ‘জান বাজি রেখে’ মাঠে নামার বার্তা এসপির ফোনে - Banglanews24",
+        "summary": "ডিসেম্বরে ‘জান বাজি রেখে’ মাঠে নামার বার্তা এসপির ফোনে Banglanews24",
+        "content": "ডিসেম্বরে ‘জান বাজি রেখে’ মাঠে নামার বার্তা এসপির ফোনে Banglanews24",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvMDBtd1VLNjVxTXpldFVoZ0FkUm16MXVpTk1iUUZuMDIyRTF5SGZlaUtrZUZHRTRpQm9FWUtMTHBjdFBuMG9iem9fb0VKcS11STBJN1htOEdqMHRHVnp6NFkyZ1BiQmFJRWJjRUJvVkQtRHZqZHdheQ?oc=5",
+        "publisher": "Banglanews24",
+        "category": "Politics",
+        "published": "2026-11-15T07:02:03+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -23396,6 +23552,18 @@
         "image": ""
       },
       {
+        "id": "635e9b6b96d5192e538d",
+        "title": "নেতানিয়াহুর ‘বর্ণবাদী’ প্রচারণার কঠোর নিন্দা আইজেনকোটের - bdnews24.com",
+        "summary": "নেতানিয়াহুর ‘বর্ণবাদী’ প্রচারণার কঠোর নিন্দা আইজেনকোটের bdnews24.com",
+        "content": "নেতানিয়াহুর ‘বর্ণবাদী’ প্রচারণার কঠোর নিন্দা আইজেনকোটের bdnews24.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYTWRvdlpVbUl5S3lqc2xFcHZZaDBPWF9COS1JSXktM0tGbFphM0FhZmpJdlhFRzRGTkpHa2dOaDhObGxMT2xPS3l3MTR4bEhtTWl5elZKTQ?oc=5",
+        "publisher": "bdnews24.com",
+        "category": "Politics",
+        "published": "2026-11-14T04:02:00+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "048401bf7996684ee95e",
         "title": "বাংলাদেশ পাবে ৩ কোটি ডলার - দৈনিক এদিন",
         "summary": "বাংলাদেশ পাবে ৩ কোটি ডলার দৈনিক এদিন",
@@ -23560,6 +23728,18 @@
         "publisher": "Jugantor",
         "category": "Bangladesh",
         "published": "2026-11-13T23:10:16+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "b63f7f2ccd926b4e6735",
+        "title": "বাংলাদেশের পেস আক্রমণ নিয়ে ভয় প্রোটিয়াদের - The Daily Ittefaq",
+        "summary": "বাংলাদেশের পেস আক্রমণ নিয়ে ভয় প্রোটিয়াদের The Daily Ittefaq",
+        "content": "বাংলাদেশের পেস আক্রমণ নিয়ে ভয় প্রোটিয়াদের The Daily Ittefaq",
+        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxPWlEyVHlrVWp1WGIxMnN3bDN0T2QzTnpEcmlndFBmSWZLSDN5R3R2enBudHZLeG1zSll6bFRTallmb1RjZkhMYnFwbHhTN0NfSkdhd1M3eFZtcmhlV3pnY2RkS2d0QUNUc2lqN01DdW4wc2NjM1ZMeW01X3pHcHNxVlp4TnkxMWs5NmdtdWYxZVMwczJyUnVXVmZlTjNndVRpZzE1YmdSOFY2SWxDMk45bEF0czJ0LVV1YUZmQ3V1WHZSc29kS0Zsb0l4WlVMcFpsc2c4QlIwbl8yYmpxc0g2alN5b1AyYTFRZlFfbE1VTUMxeVlNZWtybTBSNEdBQkdNZ1BTVUdlYXBOQnRVRjNoU0NUZTRRN2g5M1dQRVRkUXhxNUpwTkdOMW9aVjBhREo1Smd1eXJyN28tMEdOX2dPalVmc1dINF9Ydy0xTDFfZVB6YU1hc3hrQlNEenNwOGVNYm14U2pCOTRlWXRIN1NGQzV5cTBUbWZrdjd2d3pJWWtWS3FZeFlYWWp1ZUlFa25iT2xhZmMxTl9uTEtNbnF1anhmR2FUTkFXUWFsTUV0RnNXVGhzQTJNelljNlpSb2p0UWhXdWY3M1RSaEJtSTlNSFVhdmRibVdYM2hqRzhtV1lFUWdTRExaLVV0Sld5dkdUY1M5UGs1X0JsRXhBSDFMdmZkQVJ3bmNlRThjSdIBkgRBVV95cUxPNHNfcHBpNXF2UHR3ZUNlRF9wTzNBa0JmSW9OXzFjdVhqWGZ1Uml0UThWUEdfcXJ3bnNtUVhtOGswcGNNUzlNa0wxRWZZY3VseVZSQzVTcHNncWZ1V3JDaU9qWDFySEVDaW5OaERMcEdLUm03aGtKSXU4OURsVzB3eHdnS3ZXdWhiSFYxaDdqcnV4RWtFenh2MGlONk9FYlZGT3ZoRTBQZjVXWUh1LWhjU1dYYTloUU9UQW51YmhsdWhGQjkta2pyMU9vV1ZKeVFxb2k1b0hPM3F3dFZ1cUZXc0dZV19PSm1qX29oODNuM2NEZE9fYndTS0lCdUJUanRLZWphWjk2Zmc1eXNhTkx5dkdGbExXTzIzSl9xZkdjUTBnb0ZpNlJoOWlvSXByS2lITWM3Z0lTdTlIdF9CdVJNUDdJazZzZWt0Z1hlWWhWMFhKRlpXZnlyQloyZ0J5c29SanJyNzN3MXFLZXNVMjQ2MXA4aTZldzZvTDRpdTc0RHpacVI1TzFmbk5mNDJhUzM1V2lsamFDTkoyaFkyd3RWY2FubzB5elBWYkhrX1l3dTVxUkRWTkNpeFVFLUhHSUpoWmRHcFRBek1VOE1lQnZVR0dQaDRyampLbV9YLTc2S0RGTlVrMDdiQjQ3OFhCa3hXNnd0Q3lsZ3ppVFJxLWpCUDQzN3BtYlFlTWx0Z1hyeUthUQ?oc=5",
+        "publisher": "The Daily Ittefaq",
+        "category": "Bangladesh",
+        "published": "2026-11-13T22:29:00+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -26360,18 +26540,6 @@
         "image": ""
       },
       {
-        "id": "3e02ee8bb2153e6b939f",
-        "title": "নতুন বাজারে বাংলাদেশের পোশাক রপ্তানি বেড়েছে সাড়ে ৯ শতাংশ - Gramer Kagoj News",
-        "summary": "নতুন বাজারে বাংলাদেশের পোশাক রপ্তানি বেড়েছে সাড়ে ৯ শতাংশ Gramer Kagoj News",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50LWd0emwtTFE0cEFSeVJGb0tsQW1HN1dHTE5VeVB0dWh3UUZBa3MxTkd5U29hZWFiY1ZSYlFJNkJTbFFqbFFDTUliYWpGdzN0czgyMQ?oc=5",
-        "publisher": "Gramer Kagoj News",
-        "category": "Bangladesh",
-        "published": "2026-11-11T07:50:00+00:00",
-        "lang": "bn",
-        "content": "নতুন বাজারে বাংলাদেশের পোশাক রপ্তানি বেড়েছে সাড়ে ৯ শতাংশ Gramer Kagoj News",
-        "image": ""
-      },
-      {
         "id": "3b605960ba19e5d0b246",
         "title": "যুগান্তকারী উদ্ভাবন: অন্যের মনের কথা জানার প্রযুক্তি এবার বাস্তবের পথে - Dhaka Mail",
         "summary": "যুগান্তকারী উদ্ভাবন: অন্যের মনের কথা জানার প্রযুক্তি এবার বাস্তবের পথে Dhaka Mail",
@@ -26393,18 +26561,6 @@
         "published": "2026-11-11T07:27:58+00:00",
         "lang": "bn",
         "content": "২০২৭ সাল থেকে ষষ্ঠ-দ্বাদশ শ্রেণিতে যুক্ত হচ্ছে এআই শিক্ষা শিক্ষা সংবাদ",
-        "image": ""
-      },
-      {
-        "id": "9bdaaca20bf67d9e6340",
-        "title": "বাংলাদেশ-তুরস্ক সম্পর্ক নতুন কৌশলগত উচ্চতায় পৌঁছেছে : হুমায়ুন কবীর - bnpbd",
-        "summary": "বাংলাদেশ-তুরস্ক সম্পর্ক নতুন কৌশলগত উচ্চতায় পৌঁছেছে : হুমায়ুন কবীর bnpbd",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NNFJXRXdFanoyNmdFYkQ4Unlldk9LMUUxNTJXeG81TXFscUJsTVh4ZktJMWo4OU1JUGl1SXhKZW1TZUN0V2sxd19PU2lDQTQyWTNTWHhLS3JKaXJUdFlIZlpORG1rMFIta0ZYQzAzMVdJa0VoUVE?oc=5",
-        "publisher": "bnpbd",
-        "category": "Bangladesh",
-        "published": "2026-11-11T07:19:04+00:00",
-        "lang": "bn",
-        "content": "বাংলাদেশ-তুরস্ক সম্পর্ক নতুন কৌশলগত উচ্চতায় পৌঁছেছে : হুমায়ুন কবীর bnpbd",
         "image": ""
       },
       {
@@ -26537,18 +26693,6 @@
         "published": "2026-11-11T04:14:00+00:00",
         "lang": "bn",
         "content": "ধানের দানা বিবর্ণ হওয়ার জন্য দায়ী নতুন ব্যাকটেরিয়া আবিষ্কার নোবিপ্রবি গবেষকদের ঢাকা ডায়েরি",
-        "image": ""
-      },
-      {
-        "id": "932a9a38848f422cb935",
-        "title": "বাংলাদেশ-তুরস্ক সম্পর্ক নতুন কৌশলগত উচ্চতায়: পররাষ্ট্র প্রতিমন্ত্রী - Risingbd.com",
-        "summary": "বাংলাদেশ-তুরস্ক সম্পর্ক নতুন কৌশলগত উচ্চতায়: পররাষ্ট্র প্রতিমন্ত্রী Risingbd.com",
-        "content": "বাংলাদেশ-তুরস্ক সম্পর্ক নতুন কৌশলগত উচ্চতায়: পররাষ্ট্র প্রতিমন্ত্রী Risingbd.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBudTVrck9TX3hQOGZEWTZaaHlodHA3c010SGM3TjZpZ0xmdG92YnZ5ZHd2VkRTdGljVjhpcHFWQTRrREp1eDdIckhfQ3dadWE1ZUFLNWs0N2jSAVJBVV95cUxPQ1BTS0o5WUZBZ1RZTkxHazZJVlpoLThteUltSWpmclhOeG5NX19LWUtwLUtLeHc1b2xsamp5dGVjTmZ1clN5ZTBFajZqM2M4cE53?oc=5",
-        "publisher": "Risingbd.com",
-        "category": "Bangladesh",
-        "published": "2026-11-11T04:01:00+00:00",
-        "lang": "bn",
         "image": ""
       },
       {
@@ -29519,6 +29663,18 @@
       "image": ""
     },
     {
+      "id": "951bc4bff34647096d95",
+      "title": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 - The Guardian",
+      "summary": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 The Guardian",
+      "content": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2JWWlJuNFBTbGhDR1MzZ3poOTZHN0FfSmI4SDluMXlSMXVvWkVScWRrdFhhRzdLYmpLRGFMeC1tX3RSeTUtU0Z2aU4yRzgtQXRRVEVJU2VYZTZQaFMxazRCOVpZQlFkeUhLdkRwUDFsS2hjX05TNVlPYmpXcG1oWFBSdkwtaGxZ?oc=5",
+      "publisher": "The Guardian",
+      "category": "Environment & Climate",
+      "published": "2026-11-16T17:47:00+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "98e583a0ddaff47eea2a",
       "title": "Neurons in a dish are the newest computing machines - Science | AAAS",
       "summary": "Neurons in a dish are the newest computing machines Science | AAAS",
@@ -29527,6 +29683,30 @@
       "publisher": "Science | AAAS",
       "category": "Science",
       "published": "2026-11-16T17:36:59+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
+      "id": "12cff84123e1e57a12e3",
+      "title": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond - IGN",
+      "summary": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond IGN",
+      "content": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond IGN",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0xrRVlCakZTQWdWMVNNaEEwbGZBc3hCNXBUNW43MkZwaVBBcXFjcmsxcjM3cUNveUkwbGxFNXpRX1c2ejU1Mmk0TG4tUmZNM3RtXzVpaE9hNU1DaWxvdWRDWmF2a2UwZDczbGY3djVYTUpYMmhVT3NkTEJwQ3JBbzZlVDUtcGE1SFFwZ3VLWkt0Rlg3SFBhN0dKRUVoNGRzX3JVc2R3VUVIY2w5b3JZWWZpd3gxRDd5RjhpaWtNNVhZR3JmNGtEOWRiQjUyWXVL?oc=5",
+      "publisher": "IGN",
+      "category": "Gaming",
+      "published": "2026-11-16T16:48:27+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
+      "id": "df3aaaca8c165cf8b088",
+      "title": "20 Years Later, the Wii Remains Nintendo’s Most Important Console - IGN",
+      "summary": "20 Years Later, the Wii Remains Nintendo’s Most Important Console IGN",
+      "content": "20 Years Later, the Wii Remains Nintendo’s Most Important Console IGN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjJkNFQzSmZoQ1hrVGN2MHlKT0VWQkozLUFHVXhlbThpNkFsWXJPaVg1ZTNjTGNRSjRUbjhDZjE0OC1ralNUVm82dGo2ODh4dUFabG9NenR2WkFtNzFyVEk3Z2ltMXYxSGdVYzZsUXBFSlc2VXJJMV9qLXQzV0g5S3hDTWlEbnB5MFBBUlNRd3FMcWVJaFlJ?oc=5",
+      "publisher": "IGN",
+      "category": "Gaming",
+      "published": "2026-11-16T16:30:00+00:00",
       "lang": "en",
       "image": ""
     },
@@ -29562,7 +29742,19 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ISlU4M1NwU1dPRG45bERCUEVzTll2djRXZFc0NGpuS1psX1k1NDZUODRNYmtmaEY0RnJaMWE0bjByTDJDTnQ4S3FwbFE?oc=5",
       "publisher": "Bloomberg",
       "category": "Business",
-      "published": "2026-11-16T15:33:29+00:00",
+      "published": "2026-11-16T15:38:30+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
+      "id": "fffee3548a1919b504b0",
+      "title": "Latest news - AP News",
+      "summary": "Latest news AP News",
+      "content": "Latest news AP News",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
+      "publisher": "AP News",
+      "category": "World News",
+      "published": "2026-11-16T14:43:41+00:00",
       "lang": "en",
       "image": ""
     },
@@ -29575,18 +29767,6 @@
       "publisher": "CNBC",
       "category": "Markets & Finance",
       "published": "2026-11-16T14:11:36+00:00",
-      "lang": "en",
-      "image": ""
-    },
-    {
-      "id": "951bc4bff34647096d95",
-      "title": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 - The Guardian",
-      "summary": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 The Guardian",
-      "content": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks | Cop31 The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2JWWlJuNFBTbGhDR1MzZ3poOTZHN0FfSmI4SDluMXlSMXVvWkVScWRrdFhhRzdLYmpLRGFMeC1tX3RSeTUtU0Z2aU4yRzgtQXRRVEVJU2VYZTZQaFMxazRCOVpZQlFkeUhLdkRwUDFsS2hjX05TNVlPYmpXcG1oWFBSdkwtaGxZ?oc=5",
-      "publisher": "The Guardian",
-      "category": "Environment & Climate",
-      "published": "2026-11-16T13:57:00+00:00",
       "lang": "en",
       "image": ""
     },
@@ -29747,6 +29927,18 @@
       "image": ""
     },
     {
+      "id": "65d9f8fee420eebe4f24",
+      "title": "Kentucky Tech Policy Aims to Restrict Political Activity - Inside Higher Ed",
+      "summary": "Kentucky Tech Policy Aims to Restrict Political Activity Inside Higher Ed",
+      "content": "Kentucky Tech Policy Aims to Restrict Political Activity Inside Higher Ed",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeEJTYzdUOGVlcGc0bEtuZmdqMDBDNHlCelVBY1FyUlV4S180dkR5VTg5eGtDSkJyTGg4blZ5cjZldUpHSWlqZlRnUTdORjF0OGFWN2pQLS1ZNW4zdkw0UWd5SzNHVzhOZ01tb2E0NHExdWhscVNweW1oRlJSWU5Zal8tMkJVbXJRWFZ0cUoyQ2R3ZjdNeURFajFZNHNCbFV0Q2dybDNvSl91bXFkWmxYektCRlZUeUpSYjQ4Y0xwcHR1RTg?oc=5",
+      "publisher": "Inside Higher Ed",
+      "category": "Education",
+      "published": "2026-11-16T08:00:00+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "a3647515fa4219622e41",
       "title": "Bangladesh’s apparel exports to EU fall 11.9% to €13.48 billion in Jan-Sept - The Daily Star",
       "summary": "Bangladesh’s apparel exports to EU fall 11.9% to €13.48 billion in Jan-Sept The Daily Star",
@@ -29795,6 +29987,18 @@
       "image": ""
     },
     {
+      "id": "78caf218c4adcbc96256",
+      "title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads - The Register",
+      "summary": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads The Register",
+      "content": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads The Register",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObEYtcTJob2FISy1KYTZReEJBeDhXRHBQWGVTdm5yYndQdlRDZHAxbUNWc0p6YXF6VkJvOXZaY3ZhaXJQRV9rYi1mbkFEajNlV0RsYkp5S1NVcVJnN3U0XzBQcVNxelRwVC1IVEZWOWRyU0dvOFJ6SEk0ZWhORFR5QWZpeXAzZVk4ZktCdDhBckgyTHlpZDgtRVRFRXZUQ3lFZl9neUtzbUhuNlp3RTVtOElpRC1WendRSi0wZTJDT01BaWxvOFdra2xOOVJOVVlPRzlKNA?oc=5",
+      "publisher": "The Register",
+      "category": "Cybersecurity",
+      "published": "2026-11-16T06:04:02+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "ae676a25f20bf0e770c1",
       "title": "Associated Press News: Breaking News | Latest News Today - AP News",
       "summary": "Associated Press News: Breaking News | Latest News Today AP News",
@@ -29816,18 +30020,6 @@
       "category": "Politics",
       "published": "2026-11-16T05:23:37+00:00",
       "lang": "en",
-      "image": ""
-    },
-    {
-      "id": "fffee3548a1919b504b0",
-      "title": "Latest news - AP News",
-      "summary": "Latest news AP News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
-      "publisher": "AP News",
-      "category": "World News",
-      "published": "2026-11-16T05:14:03+00:00",
-      "lang": "en",
-      "content": "Latest news AP News",
       "image": ""
     },
     {
@@ -30167,6 +30359,18 @@
       "image": ""
     },
     {
+      "id": "739d71f4fb3f1c651439",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal - The Verge",
+      "summary": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal The Verge",
+      "content": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUdJdF80Q0hNQ1d6di0yZVRpSDNKZm1ZSkxCYVEtNERiVFpwOTROZ2RXZXRrNEd1U2RtR1hVaGJPUXgtS3BUczNCV2EyUGpFRkxqemZWLXBZTHU4WklGcnBRcTVLLW1QcWZUQmNiR21CYjVRQ3VydWg1ZVRHVlJ2UjRpLUprZTg2QjhkVGxrRTdDWDRLV1NUY1JMbW0?oc=5",
+      "publisher": "The Verge",
+      "category": "Artificial Intelligence",
+      "published": "2026-11-15T19:15:43+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "8c2c284dbdae0700ab46",
       "title": "New Maori generation seeks to reshape New Zealand's political landscape - Reuters",
       "summary": "New Maori generation seeks to reshape New Zealand's political landscape Reuters",
@@ -30203,6 +30407,18 @@
       "image": ""
     },
     {
+      "id": "fe0de6112a30e4a00a82",
+      "title": "College football | Latest News & Updates - AP News",
+      "summary": "College football | Latest News & Updates AP News",
+      "content": "College football | Latest News & Updates AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+      "publisher": "AP News",
+      "category": "World News",
+      "published": "2026-11-15T17:58:51+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "0062ac04d60d3f8cbbd9",
       "title": "Chattogram RRF SP arrested in sedition case over alleged contact with Awami League - The Daily Star",
       "summary": "Chattogram RRF SP arrested in sedition case over alleged contact with Awami League The Daily Star",
@@ -30224,18 +30440,6 @@
       "published": "2026-11-15T17:47:40+00:00",
       "lang": "en",
       "content": "A suspect has been arrested after a drive-by shooting at the California office campus where Xbox's inXile is based Eurogamer.net",
-      "image": ""
-    },
-    {
-      "id": "fe0de6112a30e4a00a82",
-      "title": "College football | Latest News & Updates - AP News",
-      "summary": "College football | Latest News & Updates AP News",
-      "content": "College football | Latest News & Updates AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-      "publisher": "AP News",
-      "category": "World News",
-      "published": "2026-11-15T17:04:53+00:00",
-      "lang": "en",
       "image": ""
     },
     {
@@ -30884,6 +31088,18 @@
       "published": "2026-11-14T13:55:00+00:00",
       "lang": "en",
       "content": "Brazil underwhelm again in Japan defeat and Carlo Ancelotti is feeling pressure ESPN",
+      "image": ""
+    },
+    {
+      "id": "e81b40431bdf7ea4a243",
+      "title": "Retailers are turning to entertainment to win shoppers’ attention - CNBC",
+      "summary": "Retailers are turning to entertainment to win shoppers’ attention CNBC",
+      "content": "Retailers are turning to entertainment to win shoppers’ attention CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMW95dUZxVzlzX2ZNUGxCYS13LXM4TGtTMkhDRUR0bV91NzFPbURKX0k4ektPM21ZRDZLckI5blBLX0Y2SnBFM1NkZGktU2w4YUpwZm9ZR0I3VzhrU2g3aDQ0dlBjQ2ZJTXN6bkRCSW03dXk2Q0HSAXtBVV95cUxPSW1wTElEZTYzVDg5OGtkQVlsQlBWUnlBSkF4cDFJVGptR0Vpa190N0x1bnVrVWpTN1o5bm0tQml2SXlleFBYUkYwa1h6R0l1WmR4ejJoX2hoclc1SjJnVGNIMkZIY0xMX3lZb1pad01VbDBNRjRqd3kxa3c?oc=5",
+      "publisher": "CNBC",
+      "category": "Business",
+      "published": "2026-11-14T13:00:01+00:00",
+      "lang": "en",
       "image": ""
     },
     {
@@ -32675,6 +32891,18 @@
       "image": ""
     },
     {
+      "id": "899807ab72973d33a411",
+      "title": "Microsoft services restored to all customers, company says it's 'deeply sorry' - The Register",
+      "summary": "Microsoft services restored to all customers, company says it's 'deeply sorry' The Register",
+      "content": "Microsoft services restored to all customers, company says it's 'deeply sorry' The Register",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVB5X1RyVjJLeHNpeUNLbVgyNDhwb21uWWRlZkFDeUVYQnhzaFhFb3VESENVTkRHMWo2a2pGdVZMWWRacWpzcDVJeFAydWV0b2JHM2I2eVZqOS1TcmR2amd0dElIZFN5clhCWm83TVZzMElwMkN2enR6SDZtR3hFWFNYSVIySDROcUptT3lDbk1VMFh0MG5IYkVySUk2WWZYVzRLTXBWd3Q1S1pQM3E2QUdhSFhpdVNjb2pDV2p4UmFmaVdx?oc=5",
+      "publisher": "The Register",
+      "category": "Cybersecurity",
+      "published": "2026-11-13T06:40:06+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "6dee6bb1070734872f22",
       "title": "News Digest - November 2026 - Cricbuzz",
       "summary": "News Digest - November 2026 Cricbuzz",
@@ -34088,6 +34316,18 @@
       "published": "2026-11-12T08:27:38+00:00",
       "lang": "en",
       "content": "Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm Reuters",
+      "image": ""
+    },
+    {
+      "id": "208532b1ed3eaa778260",
+      "title": "AI is coming for consulting’s billable hours — and its graduate pipeline - CNBC",
+      "summary": "AI is coming for consulting’s billable hours — and its graduate pipeline CNBC",
+      "content": "AI is coming for consulting’s billable hours — and its graduate pipeline CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMU1lelRhUlYwdFhncHZEclVQX3ZWQ3RCYV9kTXc3eml0T1JjWl92TGZLZlhMYVVidjJ5QmwyT2xCZUZVaE90dThFUW9NYWdoWnNhN2QxWnY1bVZyVzZ0bmpkd1dDS1N4b1JQSVVJYnRwMV9lbWdrZXQ2ZHNfaDZ1cTFNS1FSRkRJ0gGOAUFVX3lxTE5NaHN4MHNqM2djbjF3aDFWMVJLWkd0bjhzV2FFUWNXMGMtRkFTMHJDNnFGUEM5RWRTaWp0a3hVTDg4cGl1ZXVqeVFvdm92R1p0YjdwaU9sUTZ4djBCRnQ0ODhfQjlfa1dWOW9VYzB2N1Q4TW44NFNieFh6cnFTdGZic1N2NlFYYzJpVDZvS0E?oc=5",
+      "publisher": "CNBC",
+      "category": "Business",
+      "published": "2026-11-12T08:20:56+00:00",
+      "lang": "en",
       "image": ""
     },
     {
@@ -48752,30 +48992,6 @@
       "published": "2026-11-02T18:19:58+00:00",
       "lang": "en",
       "content": "What’s Up: November 2026 Skywatching Tips from NASA NASA Science (.gov)",
-      "image": ""
-    },
-    {
-      "id": "ffa6076fd7a4c5aa49b4",
-      "title": "Charlie Smyth: New Orleans Saints to evaluate kicker situation - BBC",
-      "summary": "Charlie Smyth: New Orleans Saints to evaluate kicker situation BBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSDZlZWowY1g5NThBaGpnc2ZVTzdwWlkySFZSd21UVTVfcld6QzFoR2RHbFB6WE5pa1B3ejY5SmdvZnJTREtEc2prZnB5UjZhYjFRT0g2M2s5WVlFeHF5azRVUkZaNlNVd3ExM1dqZFlyUzR2?oc=5",
-      "publisher": "BBC",
-      "category": "Sports",
-      "published": "2026-11-02T18:16:13+00:00",
-      "lang": "en",
-      "content": "Charlie Smyth: New Orleans Saints to evaluate kicker situation BBC",
-      "image": ""
-    },
-    {
-      "id": "a4aff591296c207302f1",
-      "title": "El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says - Reuters",
-      "summary": "El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejhFalhZVDhQYVJiOEVjTHlzNm43MG9qTVJaQUtxS0ZZNHFkNmc4aVFaeHVGZnlBLWZLZXpIWDNJZ0RNYWloZHBybU1OeEdaS1NwVERvQkZIaW02VTNWZmk1ang1WkQ1N3B0aTZMUzVJRjNRNnhXSmV3YXlTaTZtYTVXbGg2V1g1UXVvZkFFY2V0SlNkcEwyQzI4Q0JtQVVFazVZcWdsOVdsaVBwUUJXT1NRazg1N0E?oc=5",
-      "publisher": "Reuters",
-      "category": "Economy",
-      "published": "2026-11-02T18:05:17+00:00",
-      "lang": "en",
-      "content": "El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says Reuters",
       "image": ""
     }
   ]
