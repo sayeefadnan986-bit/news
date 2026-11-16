@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T18:19:00.943787+00:00",
+  "updatedAt": "2026-11-16T18:25:01.097389+00:00",
   "categories": [
     "World News",
     "Bangladesh",
@@ -25,7 +25,7 @@
   "total": 1612,
   "languageTotals": {
     "en": 1612,
-    "bn": 856
+    "bn": 863
   },
   "articlesByLanguage": {
     "en": [
@@ -206,6 +206,18 @@
         "publisher": "AP News",
         "category": "World News",
         "published": "2026-11-16T12:32:00+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
+        "id": "851f8228b4686603e3c1",
+        "title": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ - Variety",
+        "summary": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ Variety",
+        "content": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ Variety",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2JlT3ROaWpMRlBDN2Q2MzJfVWZDYTZJT3RlaG5iblpaS2JBQm40eWh0c0dENmh3U2k3QWlzNzBxME1UNW51NGxYUkh0VHBWUnFMYl93b2h3bXJBbmtPSGxWSjVGWHRlbHcyZGpFQ1FmWWs3eFNzTWNleXVLckp3UlVIaFFJZG8?oc=5",
+        "publisher": "Variety",
+        "category": "Entertainment",
+        "published": "2026-11-16T12:20:00+00:00",
         "lang": "en",
         "image": ""
       },
@@ -1179,6 +1191,18 @@
         "published": "2026-11-14T21:41:22+00:00",
         "lang": "en",
         "content": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang TechCrunch",
+        "image": ""
+      },
+      {
+        "id": "734776260a19025f40c0",
+        "title": "DJIA | Dow Jones Industrial Average Overview - MarketWatch",
+        "summary": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
+        "content": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbTdlUjJpbkdOZTFxc2pHeE82Nm4yLWF2OXk2UXhyaWFTbkpKeldySlBpeVN1eFlaRjRGWGhVQ3BzSmw0NElpek5MNGwwNDVSUWFKZUFHYXNudWdU?oc=5",
+        "publisher": "MarketWatch",
+        "category": "Markets & Finance",
+        "published": "2026-11-14T21:10:00+00:00",
+        "lang": "en",
         "image": ""
       },
       {
@@ -2258,6 +2282,18 @@
         "publisher": "TechCrunch",
         "category": "Artificial Intelligence",
         "published": "2026-11-13T19:37:57+00:00",
+        "lang": "en",
+        "image": ""
+      },
+      {
+        "id": "0e79eb9478911a555dbe",
+        "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks - Nature",
+        "summary": "This AI ‘mechanic’ can peer inside the black box of other neural networks Nature",
+        "content": "This AI ‘mechanic’ can peer inside the black box of other neural networks Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuTG5Mc1g4SHFlbnhyWkk4MlE3VjhzRG91bDVoUDRBZXRUM2M3azN1cXhzSkRxRDR6bjBGdi1PTlhUTGRtek1pOXRoRDdmV0tsMlhud1FobXY5TkxHSHg0?oc=5",
+        "publisher": "Nature",
+        "category": "Science",
+        "published": "2026-11-13T19:26:21+00:00",
         "lang": "en",
         "image": ""
       },
@@ -7407,18 +7443,6 @@
         "published": "2026-11-10T18:17:03+00:00",
         "lang": "en",
         "content": "Israel's parliament sworn in as Eisenkot tries to forge a government Reuters",
-        "image": ""
-      },
-      {
-        "id": "734776260a19025f40c0",
-        "title": "DJIA | Dow Jones Industrial Average Overview - MarketWatch",
-        "summary": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbTdlUjJpbkdOZTFxc2pHeE82Nm4yLWF2OXk2UXhyaWFTbkpKeldySlBpeVN1eFlaRjRGWGhVQ3BzSmw0NElpek5MNGwwNDVSUWFKZUFHYXNudWdU?oc=5",
-        "publisher": "MarketWatch",
-        "category": "Markets & Finance",
-        "published": "2026-11-10T18:06:25+00:00",
-        "lang": "en",
-        "content": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
         "image": ""
       },
       {
@@ -19348,30 +19372,6 @@
         "lang": "en",
         "content": "Anthropic clamps down on Claude’s AI video game clones The Verge",
         "image": ""
-      },
-      {
-        "id": "2246ed8e08314941c05f",
-        "title": "John Goodman Says ‘Digger’ Was ‘Killed’ by Critics ‘Before We Even Opened’ and ‘It Hurt’ - Variety",
-        "summary": "John Goodman Says ‘Digger’ Was ‘Killed’ by Critics ‘Before We Even Opened’ and ‘It Hurt’ Variety",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTlwU0JZTmJya191WTlDNVctaXp0MlJ0ZjRoajlvTEhaNUx1clhGekVrMTZBdXVTemUwQlFLeDB1d1A5VDlXZGE0RmpDU0RnVmoyc05rc3U4TlR4cG1uVC0ybUtoRHJyNms2Wm5xLUNuTERrZDI3amJaNk9YN0ZFUllKbHJEeFF2Y0RlbnB0ZGZuWU9KVlFhbFkxM3pPWlVl?oc=5",
-        "publisher": "Variety",
-        "category": "Entertainment",
-        "published": "2026-11-02T18:23:00+00:00",
-        "lang": "en",
-        "content": "John Goodman Says ‘Digger’ Was ‘Killed’ by Critics ‘Before We Even Opened’ and ‘It Hurt’ Variety",
-        "image": ""
-      },
-      {
-        "id": "8e1518f545870e168704",
-        "title": "What’s Up: November 2026 Skywatching Tips from NASA - NASA Science (.gov)",
-        "summary": "What’s Up: November 2026 Skywatching Tips from NASA NASA Science (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmJXQmVYRUszWS1GaEhmUUNIMTNGdlpFamRwUGpiVkpYN2QyTHdVaUJRcnYxOFFxQmhxSlZVTmduc0h6NXRWQWxFYWhvdy1Oc1czWjFxQmRnUFh6QTVpbjJRS2FycDJQTGZlVWlQSzlJR2RVXzkyc095YVNTSVBaX2J5WjVhLTdCcXRrcm50cU9NQkh4R2JrZ29RVWwzcDJqdlE?oc=5",
-        "publisher": "NASA Science (.gov)",
-        "category": "Space",
-        "published": "2026-11-02T18:19:58+00:00",
-        "lang": "en",
-        "content": "What’s Up: November 2026 Skywatching Tips from NASA NASA Science (.gov)",
-        "image": ""
       }
     ],
     "bn": [
@@ -19396,6 +19396,18 @@
         "publisher": "কালের কণ্ঠ",
         "category": "Bangladesh",
         "published": "2026-11-16T17:32:10+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "49fa089ff0dda4137cd6",
+        "title": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক - প্রথম আলো",
+        "summary": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক প্রথম আলো",
+        "content": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক প্রথম আলো",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwdkNISEJNQU9NTy1SWC13TVcwRDVSTTk2UlU5LWJtanUxZE5OWkQ5YkhYZnZwWUpjYzJlSkhUcU10dTZueFg3cXFFTTlQMVRsb3JHd1U4VmFlSnBTUzY2MtIBbkFVX3lxTE9SbW00NXpwZFoyMTg2Sy1Wc1lDTFZQNVFjaUpyZUV5YkJsQ0o1a1M1MXF1N2NYVnFMa2sxN1U0MHV1NTJoNUQweGtCTm9yT0RsSk1abFRBQnJfT3hEcEI4WFVKMV9qNWtBQnY3S2tn?oc=5",
+        "publisher": "প্রথম আলো",
+        "category": "Business",
+        "published": "2026-11-16T17:30:00+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -19772,6 +19784,18 @@
         "image": ""
       },
       {
+        "id": "852e24bc1463dccbad3b",
+        "title": "নতুন দায়িত্বে আশরাফুল - Risingbd.com",
+        "summary": "নতুন দায়িত্বে আশরাফুল Risingbd.com",
+        "content": "নতুন দায়িত্বে আশরাফুল Risingbd.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51RktBM29RZ3ZETTg5M0k3clBQTklsZ1JCNHpLNWxmVGw2RzE4ZUF2eGxWMVgxWGdIMlktUmQ0bXdnODBWNi1Cem8zUDVBQVZoc0R5YWVn0gFSQVVfeXFMTW02RHVyaF93QXN4ZUJiTHBaVTY0UEU4bWpOLVVTNmVLVTlnWkpmOGl1TERad0kweThVMC0tU05iU2lJa0VfR3RRVVhFVTdYU1FfQQ?oc=5",
+        "publisher": "Risingbd.com",
+        "category": "Bangladesh",
+        "published": "2026-11-16T13:32:00+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "99f81b78b377ca616f13",
         "title": "‘দেশের ৫০৩ উপজেলায় টেকনিক্যাল স্কুল-কলেজ প্রতিষ্ঠা করবে সরকার’ - Shomoyer Alo",
         "summary": "‘দেশের ৫০৩ উপজেলায় টেকনিক্যাল স্কুল-কলেজ প্রতিষ্ঠা করবে সরকার’ Shomoyer Alo",
@@ -19900,6 +19924,18 @@
         "publisher": "দ্য ডেইলি স্টার বাংলা",
         "category": "Bangladesh",
         "published": "2026-11-16T12:25:56+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "ee362aeb89680a3b14b6",
+        "title": "মোহামেডান-আবাহনী অন্যরকম প্রীতি ম্যাচ, খেলবেন ক্রীড়া প্রতিমন্ত্রী - Jagonews24",
+        "summary": "মোহামেডান-আবাহনী অন্যরকম প্রীতি ম্যাচ, খেলবেন ক্রীড়া প্রতিমন্ত্রী Jagonews24",
+        "content": "মোহামেডান-আবাহনী অন্যরকম প্রীতি ম্যাচ, খেলবেন ক্রীড়া প্রতিমন্ত্রী Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CVFdrc3pGQk5MRTZEcTlsMTNUNHpjNjkxVzFRNXlCY2tDcGJnWTJIbG5hVVFpMUZtWVJTaXBsaUxRYW9mTEE5cWhuMWJOQjV6endtNnkzNERHdTRZSElR?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Sports",
+        "published": "2026-11-16T12:22:33+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -20524,6 +20560,18 @@
         "publisher": "প্রথম আলো",
         "category": "Bangladesh",
         "published": "2026-11-16T06:48:20+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "375badea35bc42cc20a9",
+        "title": "আফগানিস্তানে ক্রিকেট নিয়ে খবর প্রচার নিষিদ্ধ করল সরকার - Dhaka Mail",
+        "summary": "আফগানিস্তানে ক্রিকেট নিয়ে খবর প্রচার নিষিদ্ধ করল সরকার Dhaka Mail",
+        "content": "আফগানিস্তানে ক্রিকেট নিয়ে খবর প্রচার নিষিদ্ধ করল সরকার Dhaka Mail",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IZy1SLUdPWDZZTEdrUmlqZVJNUlVhbzVSQVFMY0hwOTM0WlZXQUVFQTZzeG00UHFvMldiZzV1bU95Q1YyRnBubmNqSE1qQW9a0gFQQVVfeXFMTkhnLVItR09YNllMR2tSaWplUk1SVWFvNVJBUUxjSHA5MzRaVldBRUVBNnN4bTRQcW8yV2JnNXVtT3lDVjJGcG5uY2pITWpBb1o?oc=5",
+        "publisher": "Dhaka Mail",
+        "category": "Cricket",
+        "published": "2026-11-16T06:48:06+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -21748,6 +21796,18 @@
         "publisher": "bdnews24.com",
         "category": "Education",
         "published": "2026-11-15T10:01:00+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
+        "id": "4fc0328dc760580fb62f",
+        "title": "বেগুনের বোঁটা ফেলে দিচ্ছেন না তো, জানুন যেসব উপকারিতা আছে - Jagonews24",
+        "summary": "বেগুনের বোঁটা ফেলে দিচ্ছেন না তো, জানুন যেসব উপকারিতা আছে Jagonews24",
+        "content": "বেগুনের বোঁটা ফেলে দিচ্ছেন না তো, জানুন যেসব উপকারিতা আছে Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Snlsbm9hNGpJWTdYa0Z1ajdZejcxS2RkNUZ2RWNnR01YRDRNa0x5cVgxc2ZySlBYZ0RtZUtXOGVZVWx5ekQ2ajBiNUEyZGJaVjdId1dDcHd6SnNDYW5sd3l3?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Health",
+        "published": "2026-11-15T09:49:49+00:00",
         "lang": "bn",
         "image": ""
       },
@@ -23504,6 +23564,18 @@
         "image": ""
       },
       {
+        "id": "7efc01a5505c7b323ba1",
+        "title": "বাংলাদেশের বিপক্ষে ফলাফল নিয়ে ভাবছে না আফ্রিকা - dhakapost.com",
+        "summary": "বাংলাদেশের বিপক্ষে ফলাফল নিয়ে ভাবছে না আফ্রিকা dhakapost.com",
+        "content": "বাংলাদেশের বিপক্ষে ফলাফল নিয়ে ভাবছে না আফ্রিকা dhakapost.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3Tk5tSEZwZmxpUngtY0cwNDhEV0ZNTFJ2Z1ZJSXJYSl91WGRnUHJUcTVHRm9WNWRjNXFVVVN5NHk0NDJxVnlodnVBYzhERTBo?oc=5",
+        "publisher": "dhakapost.com",
+        "category": "Sports",
+        "published": "2026-11-14T04:19:08+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "7eb0b5ca671a9d09d5de",
         "title": "যুক্তরাষ্ট্রে চার ঘণ্টা পর উড়ল উড়োজাহাজ - bdnews24.com",
         "summary": "যুক্তরাষ্ট্রে চার ঘণ্টা পর উড়ল উড়োজাহাজ bdnews24.com",
@@ -23972,6 +24044,18 @@
         "image": ""
       },
       {
+        "id": "79370453d965d25b42f1",
+        "title": "বাংলাদেশকে ‘সেরা প্রতিপক্ষ’ মানছেন দক্ষিণ আফ্রিকার পেসার - dhakapost.com",
+        "summary": "বাংলাদেশকে ‘সেরা প্রতিপক্ষ’ মানছেন দক্ষিণ আফ্রিকার পেসার dhakapost.com",
+        "content": "বাংলাদেশকে ‘সেরা প্রতিপক্ষ’ মানছেন দক্ষিণ আফ্রিকার পেসার dhakapost.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hbkQtYWdUN0JoVktNOTdlQnk5YmlxZlBPeTY5RUk1ejliSDkweGhSZ3VZNjZXdUxMXzcxOUFEUjI2SXhtMU9Fc25sWjZsdVJi?oc=5",
+        "publisher": "dhakapost.com",
+        "category": "Sports",
+        "published": "2026-11-13T16:45:31+00:00",
+        "lang": "bn",
+        "image": ""
+      },
+      {
         "id": "428119ee5ad44e54f8d6",
         "title": "প্রতিটি বিভাগীয় শহরে ক্যানসার চিকিৎসার ব্যবস্থা গড়বে সরকার : স্বাস্থ্য প্রতিমন্ত্রী - Daily Bhorer Dak",
         "summary": "প্রতিটি বিভাগীয় শহরে ক্যানসার চিকিৎসার ব্যবস্থা গড়বে সরকার : স্বাস্থ্য প্রতিমন্ত্রী Daily Bhorer Dak",
@@ -24041,6 +24125,18 @@
         "published": "2026-11-13T15:12:45+00:00",
         "lang": "bn",
         "content": "জলবায়ু পরিবর্তন মোকাবিলায় নারীর নেতৃত্ব জরুরি: পররাষ্ট্র প্রতিমন্ত্রী বাংলা টেলিগ্রাফ",
+        "image": ""
+      },
+      {
+        "id": "977fdb5dbcb42727e963",
+        "title": "হামজাদের সঙ্গেই থাকবেন সাদ - dhakapost.com",
+        "summary": "হামজাদের সঙ্গেই থাকবেন সাদ dhakapost.com",
+        "content": "হামজাদের সঙ্গেই থাকবেন সাদ dhakapost.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00R0txanFYQmJ4U1FQa0QzU21CSTVQOG1ISC1IVXdwRjNkYjBrdWpRZ2xRWkVCNUZfN3hYYWh4S2t5eUFsRHh1T0x6SF9SSnRZ?oc=5",
+        "publisher": "dhakapost.com",
+        "category": "Sports",
+        "published": "2026-11-13T14:57:05+00:00",
+        "lang": "bn",
         "image": ""
       },
       {
@@ -26417,18 +26513,6 @@
         "published": "2026-11-11T10:43:00+00:00",
         "lang": "bn",
         "content": "জলবায়ু সম্মেলনের নামে ভণ্ডামি হচ্ছে: গ্রেটা থুনবার্গ শেয়ারবাজারনিউজ.কম",
-        "image": ""
-      },
-      {
-        "id": "93bdda10f33a90420852",
-        "title": "গ্রুপ সেরা হওয়ার লড়াইয়ে যে একাদশ নিয়ে মাঠে নামবে বাংলাদেশ - Jagonews24",
-        "summary": "গ্রুপ সেরা হওয়ার লড়াইয়ে যে একাদশ নিয়ে মাঠে নামবে বাংলাদেশ Jagonews24",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41dWVNZGVCdHJxSFRDN3VDQTFELUNPRGhlSVh3WG9XNm56T0hCTTVxaGlnM1AzZUxEZmhlQXFad1BvbEdxUGxQcW1kMC0yNU9zbTVzcm5RV0ZFY1ZrUDIw?oc=5",
-        "publisher": "Jagonews24",
-        "category": "Bangladesh",
-        "published": "2026-11-11T10:01:50+00:00",
-        "lang": "bn",
-        "content": "গ্রুপ সেরা হওয়ার লড়াইয়ে যে একাদশ নিয়ে মাঠে নামবে বাংলাদেশ Jagonews24",
         "image": ""
       },
       {
@@ -29831,6 +29915,18 @@
       "image": ""
     },
     {
+      "id": "851f8228b4686603e3c1",
+      "title": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ - Variety",
+      "summary": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ Variety",
+      "content": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ Variety",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2JlT3ROaWpMRlBDN2Q2MzJfVWZDYTZJT3RlaG5iblpaS2JBQm40eWh0c0dENmh3U2k3QWlzNzBxME1UNW51NGxYUkh0VHBWUnFMYl93b2h3bXJBbmtPSGxWSjVGWHRlbHcyZGpFQ1FmWWs3eFNzTWNleXVLckp3UlVIaFFJZG8?oc=5",
+      "publisher": "Variety",
+      "category": "Entertainment",
+      "published": "2026-11-16T12:20:00+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
       "id": "fde7eafc5e7fe920737b",
       "title": "Elon Musk leads Silicon Valley's campaign to put Jensen Huang back in charge at Nvidia - The Register",
       "summary": "Elon Musk leads Silicon Valley's campaign to put Jensen Huang back in charge at Nvidia The Register",
@@ -30800,6 +30896,18 @@
       "published": "2026-11-14T21:41:22+00:00",
       "lang": "en",
       "content": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang TechCrunch",
+      "image": ""
+    },
+    {
+      "id": "734776260a19025f40c0",
+      "title": "DJIA | Dow Jones Industrial Average Overview - MarketWatch",
+      "summary": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
+      "content": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbTdlUjJpbkdOZTFxc2pHeE82Nm4yLWF2OXk2UXhyaWFTbkpKeldySlBpeVN1eFlaRjRGWGhVQ3BzSmw0NElpek5MNGwwNDVSUWFKZUFHYXNudWdU?oc=5",
+      "publisher": "MarketWatch",
+      "category": "Markets & Finance",
+      "published": "2026-11-14T21:10:00+00:00",
+      "lang": "en",
       "image": ""
     },
     {
@@ -31879,6 +31987,18 @@
       "publisher": "TechCrunch",
       "category": "Artificial Intelligence",
       "published": "2026-11-13T19:37:57+00:00",
+      "lang": "en",
+      "image": ""
+    },
+    {
+      "id": "0e79eb9478911a555dbe",
+      "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks - Nature",
+      "summary": "This AI ‘mechanic’ can peer inside the black box of other neural networks Nature",
+      "content": "This AI ‘mechanic’ can peer inside the black box of other neural networks Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuTG5Mc1g4SHFlbnhyWkk4MlE3VjhzRG91bDVoUDRBZXRUM2M3azN1cXhzSkRxRDR6bjBGdi1PTlhUTGRtek1pOXRoRDdmV0tsMlhud1FobXY5TkxHSHg0?oc=5",
+      "publisher": "Nature",
+      "category": "Science",
+      "published": "2026-11-13T19:26:21+00:00",
       "lang": "en",
       "image": ""
     },
@@ -37028,18 +37148,6 @@
       "published": "2026-11-10T18:17:03+00:00",
       "lang": "en",
       "content": "Israel's parliament sworn in as Eisenkot tries to forge a government Reuters",
-      "image": ""
-    },
-    {
-      "id": "734776260a19025f40c0",
-      "title": "DJIA | Dow Jones Industrial Average Overview - MarketWatch",
-      "summary": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbTdlUjJpbkdOZTFxc2pHeE82Nm4yLWF2OXk2UXhyaWFTbkpKeldySlBpeVN1eFlaRjRGWGhVQ3BzSmw0NElpek5MNGwwNDVSUWFKZUFHYXNudWdU?oc=5",
-      "publisher": "MarketWatch",
-      "category": "Markets & Finance",
-      "published": "2026-11-10T18:06:25+00:00",
-      "lang": "en",
-      "content": "DJIA | Dow Jones Industrial Average Overview MarketWatch",
       "image": ""
     },
     {
@@ -48968,30 +49076,6 @@
       "published": "2026-11-02T18:56:02+00:00",
       "lang": "en",
       "content": "Anthropic clamps down on Claude’s AI video game clones The Verge",
-      "image": ""
-    },
-    {
-      "id": "2246ed8e08314941c05f",
-      "title": "John Goodman Says ‘Digger’ Was ‘Killed’ by Critics ‘Before We Even Opened’ and ‘It Hurt’ - Variety",
-      "summary": "John Goodman Says ‘Digger’ Was ‘Killed’ by Critics ‘Before We Even Opened’ and ‘It Hurt’ Variety",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTlwU0JZTmJya191WTlDNVctaXp0MlJ0ZjRoajlvTEhaNUx1clhGekVrMTZBdXVTemUwQlFLeDB1d1A5VDlXZGE0RmpDU0RnVmoyc05rc3U4TlR4cG1uVC0ybUtoRHJyNms2Wm5xLUNuTERrZDI3amJaNk9YN0ZFUllKbHJEeFF2Y0RlbnB0ZGZuWU9KVlFhbFkxM3pPWlVl?oc=5",
-      "publisher": "Variety",
-      "category": "Entertainment",
-      "published": "2026-11-02T18:23:00+00:00",
-      "lang": "en",
-      "content": "John Goodman Says ‘Digger’ Was ‘Killed’ by Critics ‘Before We Even Opened’ and ‘It Hurt’ Variety",
-      "image": ""
-    },
-    {
-      "id": "8e1518f545870e168704",
-      "title": "What’s Up: November 2026 Skywatching Tips from NASA - NASA Science (.gov)",
-      "summary": "What’s Up: November 2026 Skywatching Tips from NASA NASA Science (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmJXQmVYRUszWS1GaEhmUUNIMTNGdlpFamRwUGpiVkpYN2QyTHdVaUJRcnYxOFFxQmhxSlZVTmduc0h6NXRWQWxFYWhvdy1Oc1czWjFxQmRnUFh6QTVpbjJRS2FycDJQTGZlVWlQSzlJR2RVXzkyc095YVNTSVBaX2J5WjVhLTdCcXRrcm50cU9NQkh4R2JrZ29RVWwzcDJqdlE?oc=5",
-      "publisher": "NASA Science (.gov)",
-      "category": "Space",
-      "published": "2026-11-02T18:19:58+00:00",
-      "lang": "en",
-      "content": "What’s Up: November 2026 Skywatching Tips from NASA NASA Science (.gov)",
       "image": ""
     }
   ]
