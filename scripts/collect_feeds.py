@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Collect English and Bengali news into data/news.json for PulseNews."""
+"""Collect English and Bengali RSS news for the PulseNews static site.
+
+Only RSS-provided titles, descriptions, dates, and image metadata are stored.
+Full publisher articles are not scraped or republished.
+"""
 import concurrent.futures
 import datetime as dt
 import email.utils
@@ -15,38 +19,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "feeds.json"
 DATA_PATH = ROOT / "data" / "news.json"
-USER_AGENT = "PulseNewsRSS/2.0 (GitHub Actions bilingual RSS reader)"
+USER_AGENT = "PulseNewsRSS/3.0 (bilingual RSS reader; contact: site owner)"
 REQUEST_TIMEOUT = 18
 MAX_WORKERS = 16
 RETENTION_DAYS = 14
+MAX_FEED_BYTES = 3_000_000
 
-# One Bengali-language Google News query per category. These are deliberately
-# topic searches (not restricted to English-language publisher domains).
-BENGALI_QUERIES = {
-    "World News": "বিশ্ব সংবাদ আন্তর্জাতিক খবর",
-    "Bangladesh": "বাংলাদেশের সর্বশেষ সংবাদ",
-    "Technology": "প্রযুক্তি প্রযুক্তি উদ্ভাবন গ্যাজেট",
-    "Science": "বিজ্ঞান গবেষণা আবিষ্কার",
-    "Artificial Intelligence": "কৃত্রিম বুদ্ধিমত্তা এআই মেশিন লার্নিং",
-    "Space": "মহাকাশ জ্যোতির্বিজ্ঞান নাসা",
-    "Sports": "খেলাধুলা ক্রীড়া সর্বশেষ খবর",
-    "Cricket": "ক্রিকেট খেলার খবর",
-    "Football": "ফুটবল খেলার খবর",
-    "Entertainment": "বিনোদন সংগীত তারকা সংস্কৃতি",
-    "Movies & TV": "সিনেমা চলচ্চিত্র টিভি সিরিজ",
-    "Gaming": "ভিডিও গেম গেমিং খবর",
-    "Business": "ব্যবসা বাণিজ্য কোম্পানি",
-    "Economy": "অর্থনীতি মুদ্রাস্ফীতি অর্থনৈতিক খবর",
-    "Markets & Finance": "শেয়ারবাজার পুঁজিবাজার অর্থায়ন",
-    "Health": "স্বাস্থ্য চিকিৎসা গবেষণা",
-    "Education": "শিক্ষা স্কুল বিশ্ববিদ্যালয়",
-    "Environment & Climate": "পরিবেশ জলবায়ু পরিবর্তন",
-    "Politics": "রাজনীতি নির্বাচন সরকার",
-    "Cybersecurity": "সাইবার নিরাপত্তা তথ্য চুরি অনলাইন নিরাপত্তা",
-}
 
 def utc_now():
     return dt.datetime.now(dt.timezone.utc)
+
 
 def iso_date(value):
     if not value:
@@ -65,24 +47,65 @@ def iso_date(value):
         except (TypeError, ValueError, AttributeError):
             return None
 
+
 def clean_text(value):
     value = html.unescape(value or "")
     value = re.sub(r"<[^>]+>", " ", value)
-    return re.sub(r"\s+", " ", value).strip()
+    value = re.sub(r"\s+", " ", value)
+    return value.strip()
+
+
+def local_name(tag):
+    return tag.rsplit("}", 1)[-1].split(":")[-1].lower()
+
 
 def child_text(element, names):
     for child in element:
-        if child.tag.split("}")[-1].lower() in names and child.text:
+        if local_name(child.tag) in names and child.text:
             return child.text.strip()
     return ""
+
+
+def safe_http_url(value):
+    value = (value or "").strip()
+    try:
+        parsed = urllib.parse.urlsplit(value)
+    except ValueError:
+        return ""
+    return value if parsed.scheme in ("http", "https") and parsed.netloc else ""
+
+
+def image_from_entry(entry, description=""):
+    # RSS/Atom media extensions and enclosure tags are common image carriers.
+    for node in entry.iter():
+        tag = local_name(node.tag)
+        if tag in {"thumbnail", "content", "image"}:
+            url = node.attrib.get("url") or node.attrib.get("href")
+            if url and tag in {"thumbnail", "content", "image"}:
+                parsed = urllib.parse.urlsplit(url)
+                if parsed.path and not re.search(r"\.(mp3|mp4|m4v|webm|pdf)$", parsed.path, re.I):
+                    safe = safe_http_url(url)
+                    if safe:
+                        return safe
+        if tag == "enclosure" and node.attrib.get("url"):
+            media_type = node.attrib.get("type", "")
+            if media_type.startswith("image/"):
+                safe = safe_http_url(node.attrib["url"])
+                if safe:
+                    return safe
+
+    # Some feeds put the lead image directly in the description HTML.
+    match = re.search(r"<img\b[^>]*\bsrc=[\"']([^\"']+)[\"']", description or "", re.I)
+    return safe_http_url(html.unescape(match.group(1))) if match else ""
+
 
 def article_id(url):
     return hashlib.sha256(url.encode("utf-8")).hexdigest()[:20]
 
+
 def read_existing():
     try:
         data = json.loads(DATA_PATH.read_text(encoding="utf-8"))
-        # New format has language-specific lists; merge them as well.
         if isinstance(data.get("articlesByLanguage"), dict):
             merged = []
             for lang in ("en", "bn"):
@@ -93,66 +116,69 @@ def read_existing():
     except (OSError, json.JSONDecodeError, AttributeError):
         return []
 
-def fetch_source(category, keywords, domain=None, limit=8, language="en"):
+
+def fetch_source(category, keywords, domain=None, limit=6, language="en"):
+    query = f"{keywords} site:{domain}" if domain else keywords
     if language == "bn":
-        query = keywords
         locale = {"hl": "bn", "gl": "BD", "ceid": "BD:bn"}
     else:
-        query = f"{keywords} site:{domain}" if domain else keywords
         locale = {"hl": "en-US", "gl": "US", "ceid": "US:en"}
 
-    params = urllib.parse.urlencode({"q": query, **locale})
-    feed_url = "https://news.google.com/rss/search?" + params
+    feed_url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": query, **locale})
     request = urllib.request.Request(
         feed_url,
-        headers={"User-Agent": USER_AGENT,
-                 "Accept": "application/rss+xml, application/xml, text/xml"}
+        headers={"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/xml, text/xml"},
     )
     try:
         with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
             if response.status != 200:
                 return []
-            payload = response.read(3_000_000)
+            payload = response.read(MAX_FEED_BYTES)
         root = ET.fromstring(payload)
-        elements = [node for node in root.iter()
-                    if node.tag.split("}")[-1].lower() in ("item", "entry")]
+        entries = [node for node in root.iter() if local_name(node.tag) in {"item", "entry"}]
         results = []
-        for entry in elements[:limit]:
+        for entry in entries[:limit]:
             title = clean_text(child_text(entry, {"title"}))
             link = child_text(entry, {"link"})
-            summary = clean_text(child_text(entry, {"description", "summary", "content"}))
-            published_raw = child_text(entry, {"pubdate", "published", "updated", "date"})
             if not link:
                 for node in entry:
-                    if node.tag.split("}")[-1].lower() == "link":
+                    if local_name(node.tag) == "link":
                         href = node.attrib.get("href", "")
                         rel = node.attrib.get("rel", "alternate")
                         if href and (rel == "alternate" or not link):
                             link = href
                             if rel == "alternate":
                                 break
+            link = safe_http_url(link)
+            if not title or not link:
+                continue
+
+            raw_summary = child_text(entry, {"description", "summary", "content", "encoded"})
+            summary = clean_text(raw_summary)
+            published_raw = child_text(entry, {"pubdate", "published", "updated", "date"})
             source = ""
             for node in entry:
-                if node.tag.split("}")[-1].lower() == "source":
+                if local_name(node.tag) == "source":
                     source = clean_text(node.text or node.attrib.get("title", ""))
                     break
-            link = link.strip()
-            if not title or not link or not link.startswith(("https://", "http://")):
-                continue
+
             results.append({
                 "id": article_id(link),
                 "title": title[:400],
-                "summary": summary[:900],
+                "summary": summary[:1800],
+                "content": summary[:5000],
                 "url": link,
                 "publisher": source or domain or "Google News",
                 "category": category,
                 "published": iso_date(published_raw) or utc_now().isoformat(),
-                "lang": language
+                "lang": language,
+                "image": image_from_entry(entry, raw_summary),
             })
         return results
     except Exception as exc:
         print(f"[WARN] {language} | {category} | {domain or 'topic'}: {type(exc).__name__}: {exc}")
         return []
+
 
 def normalized_published(item):
     value = item.get("published", "")
@@ -162,21 +188,26 @@ def normalized_published(item):
     except (ValueError, TypeError, AttributeError):
         return utc_now()
 
+
 def main():
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
     category_configs = config["categories"]
-    per_source = int(config.get("max_articles_per_source", 8))
-    per_category = int(config.get("max_articles_per_category", 100))
-    total_limit = int(config.get("max_total_articles", 1800))
+    per_source = int(config.get("max_articles_per_source", 6))
+    per_category = int(config.get("max_articles_per_category", 160))
+    total_limit = int(config.get("max_total_articles", 5000))
 
     jobs = []
     for category in category_configs:
-        name, keywords = category["name"], category["query"]
+        name = category["name"]
         for domain in category.get("sources", []):
-            jobs.append((name, keywords, domain, per_source, "en"))
-        # Bengali query is independent of English publisher domain filters.
-        bn_query = BENGALI_QUERIES.get(name, name)
-        jobs.append((name, bn_query, None, per_source * 3, "bn"))
+            jobs.append((name, category["query"], domain, per_source, "en"))
+
+        bn_query = category.get("bn_query", name)
+        # Search Bengali-language news independently, then target configured
+        # Bengali/regional publishers for greater source coverage.
+        jobs.append((name, bn_query, None, per_source * 2, "bn"))
+        for domain in category.get("bn_sources", []):
+            jobs.append((name, bn_query, domain, per_source, "bn"))
 
     print(f"Starting bilingual Pulse News collection: {len(jobs)} searches")
     fresh = []
@@ -189,28 +220,33 @@ def main():
                 print(f"[WARN] Worker failed: {exc}")
 
     cutoff = utc_now() - dt.timedelta(days=RETENTION_DAYS)
-    combined = read_existing() + fresh
     deduped = {}
-    for raw in combined:
+    for raw in read_existing() + fresh:
         if not isinstance(raw, dict):
             continue
         item = dict(raw)
-        url = item.get("url", "")
+        url = safe_http_url(item.get("url", ""))
         title = clean_text(item.get("title", ""))
-        if not url.startswith(("https://", "http://")) or not title:
+        if not url or not title:
             continue
+
         published = normalized_published(item)
         if published < cutoff:
             continue
+
         lang = item.get("lang", "en")
         if lang not in ("en", "bn"):
             lang = "en"
-        item["lang"] = lang
-        item["title"] = title[:400]
-        item["summary"] = clean_text(item.get("summary", ""))[:900]
-        item["id"] = item.get("id") or article_id(url)
-        item["published"] = published.astimezone(dt.timezone.utc).isoformat()
-        # Keep one version per URL AND language; same URL may surface in both searches.
+        item.update({
+            "id": item.get("id") or article_id(url),
+            "url": url,
+            "title": title[:400],
+            "summary": clean_text(item.get("summary", ""))[:1800],
+            "content": clean_text(item.get("content", item.get("summary", "")))[:5000],
+            "image": safe_http_url(item.get("image", "")),
+            "published": published.astimezone(dt.timezone.utc).isoformat(),
+            "lang": lang,
+        })
         key = (lang, url)
         if key not in deduped or published > normalized_published(deduped[key]):
             deduped[key] = item
@@ -219,11 +255,11 @@ def main():
     for item in deduped.values():
         by_language[item["lang"]].append(item)
 
-    for lang in by_language:
-        by_language[lang].sort(key=lambda item: item.get("published", ""), reverse=True)
+    for lang, items in by_language.items():
+        items.sort(key=lambda item: item.get("published", ""), reverse=True)
         counts = {}
         selected = []
-        for item in by_language[lang]:
+        for item in items:
             category = item.get("category", "")
             if counts.get(category, 0) >= per_category:
                 continue
@@ -231,20 +267,20 @@ def main():
             selected.append(item)
         by_language[lang] = selected[:total_limit]
 
-    # "articles" remains available for compatibility with older front ends.
-    articles = sorted(by_language["en"], key=lambda item: item.get("published", ""), reverse=True)
+    english_articles = list(by_language["en"])
     output = {
         "updatedAt": utc_now().isoformat(),
         "categories": [category["name"] for category in category_configs],
-        "total": len(articles),
+        "total": len(english_articles),
         "languageTotals": {key: len(value) for key, value in by_language.items()},
         "articlesByLanguage": by_language,
-        "articles": articles
+        "articles": english_articles,
     }
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     DATA_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Collection complete: EN={len(by_language['en'])}, BN={len(by_language['bn'])}")
     print(f"Output written to: {DATA_PATH}")
+
 
 if __name__ == "__main__":
     main()
